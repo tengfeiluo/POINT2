@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+message: "If you use POINT2, please cite the paper and the archived code."
+title: "POINT2: A Polymer Informatics Training and Testing Database"
+type: software
+authors:
+  - family-names: Xu
+    given-names: Jiaxin
+    affiliation: University of Notre Dame
+  - family-names: Liu
+    given-names: Gang
+    affiliation: University of Notre Dame
+  - family-names: Guo
+    given-names: Ruilan
+    affiliation: University of Notre Dame
+  - family-names: Jiang
+    given-names: Meng
+    affiliation: University of Notre Dame
+  - family-names: Luo
+    given-names: Tengfei
+    affiliation: University of Notre Dame
+    email: tluo@nd.edu
+repository-code: "https://github.com/tengfeiluo/POINT2"
+license: MIT
+keywords:
+  - polymer informatics
+  - benchmark
+  - uncertainty quantification
+  - interpretability
+  - retrosynthesis
+  - machine learning
+preferred-citation:
+  type: article
+  title: "POINT2: A Polymer Informatics Training and Testing Database"
+  journal: Digital Discovery
+  year: 2026
+  authors:
+    - family-names: Xu
+      given-names: Jiaxin
+    - family-names: Liu
+      given-names: Gang
+    - family-names: Guo
+      given-names: Ruilan
+    - family-names: Jiang
+      given-names: Meng
+    - family-names: Luo
+      given-names: Tengfei

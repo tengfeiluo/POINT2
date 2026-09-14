@@ -1,0 +1,17 @@
+{
+  "title": "POINT2: A Polymer Informatics Training and Testing Database - code, benchmark splits and retrosynthesis templates",
+  "upload_type": "software",
+  "license": "MIT",
+  "creators": [
+    {"name": "Xu, Jiaxin", "affiliation": "University of Notre Dame"},
+    {"name": "Liu, Gang", "affiliation": "University of Notre Dame"},
+    {"name": "Guo, Ruilan", "affiliation": "University of Notre Dame"},
+    {"name": "Jiang, Meng", "affiliation": "University of Notre Dame"},
+    {"name": "Luo, Tengfei", "affiliation": "University of Notre Dame"}
+  ],
+  "description": "Code, fixed train/test splits, the template-based polymer retrosynthesis library with PolyScore, and the multi-seed benchmarking protocol for POINT2 (POlymer INformatics Training and Testing), a benchmark for polymer property prediction with uncertainty quantification, interpretability and synthesizability (Digital Discovery, 2026). PoLyInfo-derived property values are not redistributed; PoLyInfo identifiers and split assignments are provided instead.",
+  "keywords": ["polymer informatics", "benchmark", "uncertainty quantification", "interpretability", "retrosynthesis", "machine learning", "PI1M"],
+  "related_identifiers": [
+    {"identifier": "https://github.com/tengfeiluo/POINT2", "relation": "isSupplementTo", "resource_type": "software"}
+  ]
+}
