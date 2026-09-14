@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#$ -M jxu24@nd.edu
+#$ -M tluo@nd.edu
 #$ -m abe
 #$ -N POINT2_GNN_200
 #$ -q gpu@qa-xp-021 ## Use gpu@qa-xp-020 if the 021 node is full

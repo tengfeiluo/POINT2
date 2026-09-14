@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#$ -M jxu24@nd.edu
+#$ -M tluo@nd.edu
 #$ -m abe
 #$ -N POINT2_explain
 #$ -q gpu@qa-xp-020
