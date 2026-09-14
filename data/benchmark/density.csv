@@ -1,0 +1,1711 @@
+PID,Polymer Class,split
+P010001,Polyolefins,train
+P010002,Polyolefins,train
+P010003,Polyolefins,train
+P010004,Polyolefins,train
+P010006,Polyolefins,train
+P010007,Polyolefins,train
+P010008,Polyolefins,train
+P010009,Polyolefins,train
+P010010,Polyolefins,train
+P010011,Polyolefins,train
+P010012,Polyolefins,train
+P010013,Polyolefins,train
+P010014,Polyolefins,train
+P010016,Polyolefins,train
+P010021,Polyolefins,train
+P010023,Polyolefins,test
+P010024,Polyolefins,train
+P010025,Polyolefins,train
+P010026,Polyolefins,train
+P010027,Polyvinyls,train
+P010028,Polyvinyls,train
+P010033,Polyolefins,train
+P010040,Polyolefins,train
+P010044,Polyolefins,test
+P010049,Polyolefins,train
+P010050,Polyolefins,train
+P010051,Polyolefins,train
+P010052,Polyolefins,train
+P010055,Polyolefins,train
+P010068,Polydienes,test
+P010070,Polydienes,test
+P010071,Polydienes,train
+P010072,Polydienes,test
+P010073,Polyolefins,train
+P010074,Polydienes,train
+P010075,Polyolefins,train
+P010076,Polyolefins,train
+P010079,Polydienes,train
+P010081,Polydienes,train
+P010082,Polydienes,train
+P010089,Polyolefins,train
+P010090,Polyolefins,train
+P010091,Polyolefins,train
+P010092,Polyolefins,test
+P010093,Polydienes,test
+P010098,Polydienes,train
+P010100,Polyolefins,train
+P010101,Polydienes,train
+P010102,Polydienes,train
+P010103,Polydienes,test
+P010105,Polydienes,train
+P014362,Polydienes,test
+P020001,"Polystyrenes, Polyvinyls",train
+P020002,"Polystyrenes, Polyvinyls",train
+P020033,"Polystyrenes, Polyvinyls",train
+P020035,"Polystyrenes, Polyvinyls",train
+P020041,"Polystyrenes, Polyvinyls",test
+P020046,"Polystyrenes, Polyvinyls",train
+P020061,"Polystyrenes, Polyvinyls",train
+P020062,"Polystyrenes, Polyvinyls",test
+P020108,"Polystyrenes, Polyvinyls",train
+P020112,"Polystyrenes, Polyvinyls",train
+P020148,"Polystyrenes, Polyvinyls",train
+P020149,"Polystyrenes, Polyvinyls",train
+P020151,"Polystyrenes, Polyvinyls",train
+P020156,"Polystyrenes, Polyvinyls",test
+P020187,"Polystyrenes, Polyvinyls",train
+P020189,"Polystyrenes, Polyvinyls",test
+P020190,"Polystyrenes, Polyvinyls",train
+P020192,"Polystyrenes, Polyvinyls",test
+P020193,Polyvinyls,test
+P020195,"Polystyrenes, Polyvinyls",train
+P029029,"Polystyrenes, Polyvinyls",train
+P030001,Polyvinyls,test
+P030003,Polyvinyls,train
+P030004,Polyvinyls,train
+P030006,Polyvinyls,test
+P030009,Polyvinyls,train
+P030010,Polyvinyls,test
+P030011,Polyvinyls,train
+P030014,"Polystyrenes, Polyvinyls",train
+P030015,Polyvinyls,train
+P030017,Polyvinyls,train
+P030018,Polyvinyls,train
+P030019,Polyvinyls,train
+P030020,Polyvinyls,train
+P030021,Polyvinyls,train
+P030022,Polyvinyls,train
+P030023,Polyvinyls,train
+P030024,Polyvinyls,train
+P030025,Polyvinyls,train
+P030026,Polyvinyls,train
+P030027,Polyvinyls,train
+P030033,Polyvinyls,train
+P030034,Polyvinyls,train
+P030035,Polyvinyls,train
+P030037,Polyvinyls,train
+P030038,Polyvinyls,train
+P030040,Polyvinyls,train
+P030043,Polyvinyls,test
+P030045,Polyvinyls,test
+P030046,Polyvinyls,test
+P030047,Polyvinyls,train
+P030048,Polyvinyls,train
+P030049,Polyvinyls,train
+P030055,Polyvinyls,train
+P030062,Polyvinyls,train
+P030067,Polyvinyls,test
+P030068,Polyvinyls,train
+P030069,Polyvinyls,test
+P030071,Polyvinyls,train
+P030078,Polyvinyls,train
+P030080,Polyvinyls,train
+P030081,Polyvinyls,train
+P030092,Polyvinyls,train
+P030093,Polyvinyls,test
+P030094,Polyvinyls,train
+P030109,Polyvinyls,train
+P030116,Polyvinyls,train
+P030121,Polyvinyls,train
+P030131,Polyvinyls,train
+P030132,Polyvinyls,train
+P030139,Polyvinyls,train
+P030147,Polyvinyls,test
+P030162,Polyvinyls,test
+P030166,Polyvinyls,train
+P030169,Polyvinyls,train
+P030184,Polyvinyls,train
+P030185,Polyvinyls,test
+P030187,Polydienes,train
+P030195,Polyvinyls,train
+P030196,Polyvinyls,train
+P030197,Polyvinyls,train
+P030198,Polyvinyls,train
+P034424,Polyvinyls,train
+P039005,Polyvinyls,test
+P040001,"Polyacrylics, Polyvinyls",train
+P040002,"Polyacrylics, Polyvinyls",train
+P040003,"Polyacrylics, Polyvinyls",train
+P040005,"Polyacrylics, Polyvinyls",train
+P040006,"Polyacrylics, Polyvinyls",train
+P040007,"Polyacrylics, Polyvinyls",test
+P040008,"Polyacrylics, Polyvinyls",train
+P040010,"Polyacrylics, Polyvinyls",train
+P040017,"Polyacrylics, Polyvinyls",train
+P040018,"Polyacrylics, Polyvinyls",train
+P040048,"Polyacrylics, Polyvinyls",train
+P040049,"Polyacrylics, Polyvinyls",train
+P040050,"Polyacrylics, Polyvinyls",train
+P040051,"Polyacrylics, Polyvinyls",train
+P040052,"Polyacrylics, Polyvinyls",train
+P040053,"Polyacrylics, Polyvinyls",train
+P040054,"Polyacrylics, Polyvinyls",train
+P040055,"Polyacrylics, Polyvinyls",train
+P040056,"Polyacrylics, Polyvinyls",train
+P040059,"Polyacrylics, Polyvinyls",train
+P040060,"Polyacrylics, Polyvinyls",train
+P040063,"Polyacrylics, Polyvinyls",train
+P040064,"Polyacrylics, Polyvinyls",train
+P040071,"Polyacrylics, Polyvinyls",train
+P040073,"Polyacrylics, Polyvinyls",train
+P040082,"Polyacrylics, Polyvinyls",train
+P040084,"Polyacrylics, Polyvinyls",test
+P040085,"Polyacrylics, Polyvinyls",train
+P040087,"Polyacrylics, Polyvinyls",train
+P040099,"Polyacrylics, Polyvinyls",train
+P040102,"Polyacrylics, Polyvinyls",train
+P040103,"Polyacrylics, Polyvinyls",train
+P040116,"Polyacrylics, Polyvinyls",test
+P040117,"Polyacrylics, Polyvinyls",train
+P040118,"Polyacrylics, Polyvinyls",test
+P040123,"Polyacrylics, Polyvinyls",train
+P040127,"Polyacrylics, Polyvinyls",train
+P040128,"Polyacrylics, Polyvinyls",test
+P040130,"Polyacrylics, Polyvinyls",train
+P040149,"Polyacrylics, Polyvinyls",test
+P040152,"Polyacrylics, Polyvinyls",train
+P040156,"Polyacrylics, Polyvinyls",train
+P040157,"Polyacrylics, Polyvinyls",train
+P040187,"Polyacrylics, Polyvinyls",train
+P040188,"Polyacrylics, Polyvinyls",train
+P040189,"Polyacrylics, Polyvinyls",train
+P040205,"Polyacrylics, Polyvinyls",train
+P040228,"Polyacrylics, Polyvinyls",train
+P040230,"Polyacrylics, Polyvinyls",test
+P040231,"Polyacrylics, Polyvinyls",test
+P040233,"Polyacrylics, Polyvinyls",train
+P040234,"Polyacrylics, Polyvinyls",train
+P040235,"Polyacrylics, Polyvinyls",test
+P040239,"Polyacrylics, Polyvinyls",train
+P040240,"Polyacrylics, Polyvinyls",train
+P040241,"Polyacrylics, Polyvinyls",train
+P040244,"Polyacrylics, Polyvinyls",train
+P040254,"Polyacrylics, Polyvinyls",train
+P040262,"Polyacrylics, Polyvinyls",train
+P040263,"Polyacrylics, Polyvinyls",train
+P040268,"Polyacrylics, Polyvinyls",train
+P040269,"Polyacrylics, Polyvinyls",train
+P040270,"Polyacrylics, Polyvinyls",test
+P040271,"Polyacrylics, Polyvinyls",test
+P040272,"Polyacrylics, Polyvinyls",train
+P040273,"Polyacrylics, Polyvinyls",train
+P040274,"Polyacrylics, Polyvinyls",train
+P040275,"Polyacrylics, Polyvinyls",test
+P040276,"Polyacrylics, Polyvinyls",train
+P040288,"Polyacrylics, Polyvinyls",train
+P040294,"Polyacrylics, Polyvinyls",train
+P040295,"Polyacrylics, Polyvinyls",train
+P040296,"Polyacrylics, Polyvinyls",train
+P040297,"Polyacrylics, Polyvinyls",train
+P040314,"Polyacrylics, Polyvinyls",test
+P040315,"Polyacrylics, Polyvinyls",train
+P040316,"Polyacrylics, Polyvinyls",test
+P040317,"Polyacrylics, Polyvinyls",train
+P040325,"Polyacrylics, Polyvinyls",train
+P040331,"Polyacrylics, Polyvinyls",train
+P044508,"Polyacrylics, Polyvinyls",train
+P044514,"Polyacrylics, Polyvinyls",train
+P049038,"Polyacrylics, Polyvinyls",train
+P050001,"Polyvinyls, Polyhalo-olefins",train
+P050002,"Polyvinyls, Polyhalo-olefins",test
+P050003,Polyhalo-olefins,train
+P050004,Polyhalo-olefins,train
+P050005,Polyhalo-olefins,train
+P050006,Polyhalo-olefins,train
+P050007,Polyhalo-olefins,train
+P050013,"Polyvinyls, Polydienes",train
+P050016,Polyhalo-olefins,train
+P050020,Polyvinyls,train
+P050021,Polydienes,train
+P050022,Polyhalo-olefins,train
+P050023,Polyhalo-olefins,train
+P050024,Polyvinyls,train
+P050026,Polyhalo-olefins,train
+P050029,Polyhalo-olefins,train
+P050030,Polyhalo-olefins,train
+P050031,Polyhalo-olefins,train
+P054499,Polyhalo-olefins,test
+P060001,Polydienes,train
+P060002,Polydienes,test
+P060003,Polydienes,test
+P060004,Polydienes,train
+P060008,Polydienes,train
+P060014,"Polyvinyls, Polydienes",train
+P060015,"Polyvinyls, Polydienes",test
+P060016,Polydienes,train
+P060017,Polydienes,train
+P060020,Polydienes,test
+P060023,Polydienes,train
+P060024,Polydienes,train
+P060025,Polydienes,test
+P060031,Polyvinyls,test
+P060033,Polydienes,train
+P070001,Polyoxides/ethers/acetals,train
+P070002,Polyoxides/ethers/acetals,test
+P070003,Polyoxides/ethers/acetals,train
+P070004,Polyoxides/ethers/acetals,train
+P070007,Polyoxides/ethers/acetals,train
+P070009,Polyoxides/ethers/acetals,train
+P070013,Polyoxides/ethers/acetals,test
+P070014,Polyoxides/ethers/acetals,train
+P070015,Polyoxides/ethers/acetals,test
+P070016,Polyoxides/ethers/acetals,train
+P070019,Polyoxides/ethers/acetals,train
+P070021,Polyoxides/ethers/acetals,train
+P070022,Polyoxides/ethers/acetals,test
+P070024,Polyoxides/ethers/acetals,train
+P070025,Polyoxides/ethers/acetals,train
+P070026,Polyoxides/ethers/acetals,train
+P070027,Polyoxides/ethers/acetals,train
+P070029,Polyoxides/ethers/acetals,test
+P070030,Polyoxides/ethers/acetals,test
+P070031,Polyoxides/ethers/acetals,train
+P070032,Polyoxides/ethers/acetals,train
+P070033,Polyoxides/ethers/acetals,test
+P070037,Polyoxides/ethers/acetals,test
+P070050,Polyoxides/ethers/acetals,train
+P070056,Polyoxides/ethers/acetals,train
+P070057,Polyoxides/ethers/acetals,train
+P070058,Polyoxides/ethers/acetals,train
+P070059,Polyoxides/ethers/acetals,train
+P070060,Polyoxides/ethers/acetals,train
+P070064,Polyoxides/ethers/acetals,train
+P070065,Polyoxides/ethers/acetals,train
+P070066,Polyoxides/ethers/acetals,train
+P070067,Polyoxides/ethers/acetals,train
+P070068,Polyoxides/ethers/acetals,train
+P070069,Polyoxides/ethers/acetals,train
+P070074,Polyoxides/ethers/acetals,train
+P070076,Polyoxides/ethers/acetals,test
+P070080,Polyoxides/ethers/acetals,train
+P070082,Polyoxides/ethers/acetals,train
+P070089,Polyoxides/ethers/acetals,train
+P070090,Polyoxides/ethers/acetals,train
+P070091,Polyoxides/ethers/acetals,train
+P070092,Polyoxides/ethers/acetals,train
+P070137,"Polyoxides/ethers/acetals, Polyesters/thioesters",train
+P070140,"Polyoxides/ethers/acetals, Polyesters/thioesters",test
+P070142,"Polyoxides/ethers/acetals, Polyesters/thioesters",test
+P070143,"Polyoxides/ethers/acetals, Polyesters/thioesters",train
+P070159,"Polyoxides/ethers/acetals, Polyesters/thioesters",test
+P070163,"Polyoxides/ethers/acetals, Polyesters/thioesters",train
+P070214,"Polyoxides/ethers/acetals, Polyamides/thioamides",train
+P070231,"Polyoxides/ethers/acetals, Polyamides/thioamides",test
+P070232,"Polyoxides/ethers/acetals, Polyamides/thioamides",train
+P070277,"Polyoxides/ethers/acetals, Polyanhydrides/thioanhydrides",train
+P070282,"Polyoxides/ethers/acetals, Polyanhydrides/thioanhydrides",train
+P070316,"Polyoxides/ethers/acetals, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P070317,"Polyoxides/ethers/acetals, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P070321,Polyoxides/ethers/acetals,train
+P070332,"Polyoxides/ethers/acetals, Polyesters/thioesters",train
+P070337,Polyesters/thioesters,train
+P070339,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyamides/thioamides",train
+P070356,"Polyoxides/ethers/acetals, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P070369,Polyoxides/ethers/acetals,train
+P070371,"Polyoxides/ethers/acetals, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P070372,Polyoxides/ethers/acetals,test
+P070376,Polyoxides/ethers/acetals,train
+P070394,Polyoxides/ethers/acetals,train
+P070428,Polyoxides/ethers/acetals,train
+P070455,"Polyoxides/ethers/acetals, Polyimines",train
+P070456,"Polyoxides/ethers/acetals, Polyimines",train
+P070457,"Polyoxides/ethers/acetals, Polyimines",test
+P070458,"Polyoxides/ethers/acetals, Polyimines",train
+P070460,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines",test
+P070466,"Polyoxides/ethers/acetals, Polyketones/thioketones",train
+P070471,"Polyoxides/ethers/acetals, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P070472,"Polyoxides/ethers/acetals, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P070473,"Polyoxides/ethers/acetals, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P070475,"Polyoxides/ethers/acetals, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P070478,"Polyoxides/ethers/acetals, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P070480,"Polyoxides/ethers/acetals, Polysulfones/sulfoxides/sufonates/sulfoamides",test
+P070481,"Polyoxides/ethers/acetals, Polysulfones/sulfoxides/sufonates/sulfoamides",test
+P070482,"Polyoxides/ethers/acetals, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P070500,"Polyoxides/ethers/acetals, Polyketones/thioketones, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P070504,Polyoxides/ethers/acetals,train
+P070508,Polyoxides/ethers/acetals,train
+P070533,"Polyoxides/ethers/acetals, Polyesters/thioesters",train
+P070557,"Polyoxides/ethers/acetals, Polyimines",train
+P070567,"Polyoxides/ethers/acetals, Polyesters/thioesters",test
+P070572,"Polyoxides/ethers/acetals, Polyesters/thioesters",train
+P070601,"Polyoxides/ethers/acetals, Polyimines",train
+P070631,"Polyoxides/ethers/acetals, Polyimines",test
+P070657,Polyoxides/ethers/acetals,train
+P070661,Polyoxides/ethers/acetals,test
+P070665,"Polyoxides/ethers/acetals, Polyimines",train
+P070666,"Polyoxides/ethers/acetals, Polyketones/thioketones",train
+P070668,"Polyoxides/ethers/acetals, Polyketones/thioketones",train
+P070670,"Polyoxides/ethers/acetals, Polyketones/thioketones, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P070687,Polysulfides,train
+P070689,"Polyoxides/ethers/acetals, Polyketones/thioketones",test
+P070700,"Polyoxides/ethers/acetals, Polyketones/thioketones",test
+P070701,"Polyoxides/ethers/acetals, Polyketones/thioketones",test
+P074279,"Polyimides/thioimides, Polyoxides/ethers/acetals",test
+P074317,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P074409,"Polyoxides/ethers/acetals, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P074466,"Polyoxides/ethers/acetals, Polyamides/thioamides",train
+P074467,"Polyoxides/ethers/acetals, Polyamides/thioamides",train
+P079027,Polyoxides/ethers/acetals,train
+P080001,Polysulfides,train
+P080004,Polysulfides,train
+P080006,Polysulfides,train
+P080007,Polysulfides,train
+P080008,Polysulfides,train
+P080010,Polysulfides,train
+P080011,Polysulfides,test
+P080012,Polysulfides,test
+P080014,Polysulfides,test
+P080018,Polysulfides,train
+P080020,Polysulfides,train
+P080023,Polysulfides,train
+P080097,Polysulfides,test
+P080108,"Polysulfides, Polyamides/thioamides",train
+P080109,"Polysulfides, Polyamides/thioamides",train
+P080110,"Polysulfides, Polyamides/thioamides",test
+P080111,"Polysulfides, Polyamides/thioamides",train
+P080112,"Polysulfides, Polyamides/thioamides",train
+P080113,"Polysulfides, Polyamides/thioamides",train
+P080114,"Polysulfides, Polyamides/thioamides",train
+P080115,"Polysulfides, Polyamides/thioamides",train
+P080116,"Polysulfides, Polyamides/thioamides",train
+P080117,"Polysulfides, Polyamides/thioamides",train
+P080119,"Polysulfides, Polycarbonates/thiocarbonates",test
+P080151,"Polysulfides, Polyimines",test
+P080152,"Polysulfides, Polyimines",train
+P090001,Polyesters/thioesters,train
+P090003,Polyesters/thioesters,train
+P090005,Polyesters/thioesters,train
+P090007,Polyesters/thioesters,train
+P090009,Polyesters/thioesters,train
+P090010,Polyesters/thioesters,train
+P090011,Polyesters/thioesters,train
+P090013,Polyesters/thioesters,train
+P090016,Polyesters/thioesters,train
+P090018,Polyesters/thioesters,test
+P090019,Polyesters/thioesters,train
+P090020,Polyesters/thioesters,train
+P090021,Polyesters/thioesters,train
+P090023,Polyesters/thioesters,test
+P090025,Polyesters/thioesters,train
+P090027,Polyesters/thioesters,train
+P090028,Polyesters/thioesters,train
+P090029,Polyesters/thioesters,train
+P090030,Polyesters/thioesters,train
+P090031,Polyesters/thioesters,train
+P090032,Polyesters/thioesters,test
+P090033,Polyesters/thioesters,train
+P090034,Polyesters/thioesters,train
+P090039,Polyesters/thioesters,test
+P090041,Polyesters/thioesters,train
+P090042,Polyesters/thioesters,train
+P090043,Polyesters/thioesters,test
+P090051,Polyesters/thioesters,train
+P090053,Polyesters/thioesters,test
+P090060,Polyesters/thioesters,test
+P090061,Polyesters/thioesters,test
+P090062,Polyesters/thioesters,test
+P090064,Polyesters/thioesters,train
+P090065,Polyesters/thioesters,train
+P090075,Polyesters/thioesters,train
+P090076,Polyesters/thioesters,train
+P090085,Polyesters/thioesters,train
+P090089,Polyesters/thioesters,test
+P090093,Polyesters/thioesters,train
+P090096,Polyesters/thioesters,train
+P090100,Polyesters/thioesters,train
+P090101,Polyesters/thioesters,train
+P090105,Polyesters/thioesters,train
+P090112,Polyesters/thioesters,train
+P090113,Polyesters/thioesters,train
+P090134,Polyesters/thioesters,train
+P090135,Polyesters/thioesters,train
+P090145,Polyesters/thioesters,test
+P090148,Polyesters/thioesters,test
+P090149,Polyesters/thioesters,train
+P090150,Polyesters/thioesters,train
+P090151,Polyesters/thioesters,train
+P090152,Polyesters/thioesters,train
+P090164,Polyesters/thioesters,train
+P090165,Polyesters/thioesters,train
+P090166,Polyesters/thioesters,train
+P090167,Polyesters/thioesters,train
+P090169,Polyesters/thioesters,train
+P090170,Polyesters/thioesters,train
+P090171,Polyesters/thioesters,train
+P090174,Polyesters/thioesters,train
+P090175,Polyesters/thioesters,train
+P090176,Polyesters/thioesters,train
+P090177,Polyesters/thioesters,train
+P090179,Polyesters/thioesters,train
+P090182,Polyesters/thioesters,test
+P090183,Polyesters/thioesters,train
+P090184,Polyesters/thioesters,train
+P090185,Polyesters/thioesters,test
+P090186,Polyesters/thioesters,train
+P090188,Polyesters/thioesters,train
+P090189,Polyesters/thioesters,train
+P090192,Polyesters/thioesters,train
+P090194,Polyesters/thioesters,train
+P090197,Polyesters/thioesters,train
+P090202,Polyesters/thioesters,train
+P090208,Polyesters/thioesters,train
+P090271,Polyesters/thioesters,test
+P090276,Polyesters/thioesters,train
+P090291,"Polyesters/thioesters, Polyamides/thioamides",train
+P090292,"Polyesters/thioesters, Polyamides/thioamides",train
+P090293,"Polyesters/thioesters, Polyamides/thioamides",train
+P090294,"Polyesters/thioesters, Polyamides/thioamides",train
+P090295,"Polyesters/thioesters, Polyamides/thioamides",train
+P090297,Polyesters/thioesters,train
+P090300,Polyesters/thioesters,train
+P090321,Polyesters/thioesters,test
+P090406,Polyesters/thioesters,train
+P090407,Polyesters/thioesters,train
+P090408,Polyesters/thioesters,train
+P090409,Polyesters/thioesters,train
+P090413,Polyesters/thioesters,train
+P090424,Polyesters/thioesters,train
+P090466,Polyesters/thioesters,test
+P090469,Polyesters/thioesters,test
+P090504,Polyesters/thioesters,train
+P090527,Polyesters/thioesters,test
+P090529,Polyesters/thioesters,test
+P090530,Polyesters/thioesters,test
+P090542,Polyesters/thioesters,train
+P090559,Polyesters/thioesters,test
+P090577,Polyesters/thioesters,test
+P090580,Polyesters/thioesters,train
+P090581,Polyesters/thioesters,train
+P090594,Polyesters/thioesters,train
+P090595,Polyesters/thioesters,train
+P094575,Polyesters/thioesters,train
+P094584,Polyesters/thioesters,train
+P100001,Polyamides/thioamides,test
+P100002,Polyamides/thioamides,train
+P100003,Polyamides/thioamides,test
+P100004,Polyamides/thioamides,train
+P100005,Polyamides/thioamides,test
+P100006,Polyamides/thioamides,train
+P100007,Polyamides/thioamides,train
+P100008,Polyamides/thioamides,train
+P100009,Polyamides/thioamides,train
+P100010,Polyamides/thioamides,train
+P100011,Polyamides/thioamides,train
+P100012,Polyamides/thioamides,train
+P100013,Polyamides/thioamides,train
+P100014,Polyamides/thioamides,test
+P100016,Polyamides/thioamides,train
+P100017,Polyamides/thioamides,train
+P100018,Polyamides/thioamides,train
+P100019,Polyamides/thioamides,train
+P100022,Polyamides/thioamides,train
+P100023,Polyamides/thioamides,train
+P100024,Polyamides/thioamides,test
+P100025,Polyamides/thioamides,test
+P100027,Polyamides/thioamides,train
+P100028,Polyamides/thioamides,train
+P100029,Polyamides/thioamides,train
+P100030,Polyamides/thioamides,test
+P100041,Polyamides/thioamides,train
+P100042,"Polyamides/thioamides, Polyimines",train
+P100044,Polyamides/thioamides,train
+P100045,Polyamides/thioamides,train
+P100047,Polyamides/thioamides,train
+P100059,Polyamides/thioamides,train
+P100062,Polyamides/thioamides,train
+P100063,Polyamides/thioamides,train
+P100064,Polyamides/thioamides,train
+P100065,Polyamides/thioamides,train
+P100066,Polyamides/thioamides,test
+P100068,Polyamides/thioamides,train
+P100076,Polyamides/thioamides,train
+P100080,Polyamides/thioamides,test
+P100094,Polyamides/thioamides,train
+P100099,Polyamides/thioamides,train
+P100101,Polyamides/thioamides,test
+P100104,Polyamides/thioamides,train
+P100105,Polyamides/thioamides,train
+P100107,Polyamides/thioamides,test
+P100108,Polyamides/thioamides,train
+P100109,Polyamides/thioamides,train
+P100110,Polyamides/thioamides,train
+P100112,Polyamides/thioamides,train
+P100118,Polyamides/thioamides,train
+P100119,Polyamides/thioamides,test
+P100121,Polyamides/thioamides,train
+P100123,Polyamides/thioamides,train
+P100124,Polyamides/thioamides,train
+P100126,Polyamides/thioamides,test
+P100127,Polyamides/thioamides,train
+P100130,Polyamides/thioamides,train
+P100131,Polyamides/thioamides,test
+P100132,Polyamides/thioamides,train
+P100134,Polyamides/thioamides,train
+P100137,Polyamides/thioamides,train
+P100143,Polyamides/thioamides,test
+P100167,Polyamides/thioamides,train
+P100168,Polyamides/thioamides,test
+P100169,Polyamides/thioamides,train
+P100170,Polyamides/thioamides,train
+P100172,Polyamides/thioamides,train
+P100178,"Polyamides/thioamides, Polyimines",train
+P100179,Polyamides/thioamides,train
+P100180,Polyamides/thioamides,train
+P100181,Polyamides/thioamides,train
+P100186,Polyamides/thioamides,train
+P100187,Polyamides/thioamides,train
+P100188,Polyamides/thioamides,train
+P100189,Polyamides/thioamides,train
+P100191,Polyamides/thioamides,train
+P100192,Polyamides/thioamides,train
+P100196,Polyamides/thioamides,train
+P100198,Polyamides/thioamides,train
+P100199,Polyamides/thioamides,train
+P100200,Polyamides/thioamides,train
+P100203,Polyamides/thioamides,train
+P100204,Polyamides/thioamides,test
+P100205,Polyamides/thioamides,train
+P100210,Polyamides/thioamides,train
+P100212,Polyamides/thioamides,train
+P100213,Polyamides/thioamides,train
+P100214,Polyamides/thioamides,train
+P100216,Polyamides/thioamides,train
+P100218,Polyamides/thioamides,test
+P100227,Polyamides/thioamides,train
+P100229,Polyamides/thioamides,test
+P100230,Polyamides/thioamides,train
+P100233,Polyamides/thioamides,train
+P100234,Polyamides/thioamides,test
+P100235,Polyamides/thioamides,train
+P100236,Polyamides/thioamides,test
+P100237,Polyamides/thioamides,test
+P100238,Polyamides/thioamides,train
+P100239,Polyamides/thioamides,test
+P100240,Polyamides/thioamides,train
+P100241,Polyamides/thioamides,train
+P100247,Polyamides/thioamides,test
+P100268,Polyamides/thioamides,train
+P100288,Polyamides/thioamides,train
+P100300,Polyamides/thioamides,train
+P100303,Polyamides/thioamides,train
+P100304,Polyamides/thioamides,test
+P100309,Polyamides/thioamides,test
+P100310,Polyamides/thioamides,train
+P100311,Polyamides/thioamides,train
+P100312,Polyamides/thioamides,train
+P100313,Polyamides/thioamides,train
+P100325,Polyamides/thioamides,train
+P100365,Polyamides/thioamides,train
+P100366,Polyamides/thioamides,train
+P100376,Polyamides/thioamides,train
+P100378,Polyamides/thioamides,train
+P100380,Polyamides/thioamides,train
+P100381,Polyamides/thioamides,test
+P100394,Polyamides/thioamides,train
+P100430,Polyamides/thioamides,train
+P100431,Polyamides/thioamides,train
+P100432,Polyamides/thioamides,train
+P100434,Polyamides/thioamides,train
+P100435,Polyamides/thioamides,test
+P100437,Polyamides/thioamides,train
+P100439,Polyamides/thioamides,test
+P100440,Polyamides/thioamides,train
+P100441,Polyamides/thioamides,train
+P100443,Polyamides/thioamides,train
+P100444,Polyamides/thioamides,train
+P100448,Polyamides/thioamides,test
+P100456,Polyamides/thioamides,train
+P100463,"Polyamides/thioamides, Polyimines",train
+P100532,Polyamides/thioamides,test
+P100632,"Polyesters/thioesters, Polyamides/thioamides",train
+P100633,"Polyesters/thioesters, Polyamides/thioamides",test
+P100634,"Polyesters/thioesters, Polyamides/thioamides",train
+P100635,"Polyesters/thioesters, Polyamides/thioamides",train
+P100636,Polyamides/thioamides,test
+P100637,Polyamides/thioamides,train
+P100638,Polyamides/thioamides,train
+P100639,Polyamides/thioamides,test
+P100640,Polyamides/thioamides,train
+P100641,Polyamides/thioamides,train
+P100642,Polyamides/thioamides,train
+P100645,Polyamides/thioamides,train
+P100646,Polyamides/thioamides,train
+P100647,Polyamides/thioamides,train
+P100649,Polyamides/thioamides,train
+P100650,Polyamides/thioamides,train
+P100651,Polyamides/thioamides,train
+P100652,Polyamides/thioamides,train
+P100654,Polyamides/thioamides,train
+P100657,Polyamides/thioamides,train
+P100659,Polyamides/thioamides,train
+P100660,Polyamides/thioamides,test
+P100661,Polyamides/thioamides,train
+P100662,Polyamides/thioamides,train
+P100663,Polyamides/thioamides,train
+P100664,Polyamides/thioamides,train
+P100665,"Polyoxides/ethers/acetals, Polyamides/thioamides",train
+P100666,Polyamides/thioamides,train
+P100667,Polyamides/thioamides,train
+P100668,Polyamides/thioamides,train
+P100669,Polyamides/thioamides,test
+P100673,Polyamides/thioamides,train
+P100676,Polyamides/thioamides,train
+P100678,Polyamides/thioamides,train
+P100679,Polyamides/thioamides,train
+P100681,Polyamides/thioamides,train
+P100682,Polyamides/thioamides,train
+P100683,Polyamides/thioamides,train
+P100684,Polyamides/thioamides,train
+P100685,Polyamides/thioamides,train
+P100686,Polyamides/thioamides,train
+P100687,Polyamides/thioamides,train
+P100688,Polyamides/thioamides,train
+P100690,Polyamides/thioamides,train
+P100691,Polyamides/thioamides,train
+P100692,Polyamides/thioamides,train
+P100695,Polyamides/thioamides,train
+P100702,Polyamides/thioamides,train
+P100713,Polyamides/thioamides,test
+P100715,Polyamides/thioamides,test
+P100716,Polyamides/thioamides,test
+P100718,Polyamides/thioamides,train
+P100719,Polyamides/thioamides,train
+P100720,Polyamides/thioamides,train
+P100721,Polyamides/thioamides,train
+P100722,Polyamides/thioamides,train
+P100723,Polyamides/thioamides,train
+P100724,Polyamides/thioamides,train
+P100725,Polyamides/thioamides,train
+P100726,Polyamides/thioamides,train
+P100727,Polyamides/thioamides,train
+P100728,Polyamides/thioamides,train
+P100729,Polyamides/thioamides,train
+P100730,Polyamides/thioamides,test
+P100731,Polyamides/thioamides,test
+P100746,Polyamides/thioamides,train
+P100752,Polyamides/thioamides,train
+P100753,Polyamides/thioamides,train
+P100760,Polyamides/thioamides,train
+P100761,Polyamides/thioamides,train
+P100776,Polyamides/thioamides,test
+P100789,Polyamides/thioamides,train
+P100790,Polyamides/thioamides,train
+P100791,Polyamides/thioamides,train
+P100799,Polyamides/thioamides,test
+P100801,Polyamides/thioamides,train
+P100802,Polyamides/thioamides,train
+P100804,Polyamides/thioamides,test
+P100808,Polyamides/thioamides,train
+P100811,Polyamides/thioamides,train
+P100812,"Polyamides/thioamides, Polyketones/thioketones",test
+P104291,"Polyamides/thioamides, Polyketones/thioketones",train
+P104465,Polyamides/thioamides,train
+P104576,Polyamides/thioamides,train
+P110004,Polyurethanes/thiourethanes,train
+P110006,Polyurethanes/thiourethanes,test
+P110007,Polyurethanes/thiourethanes,train
+P110008,Polyurethanes/thiourethanes,train
+P110010,Polyurethanes/thiourethanes,train
+P110013,Polyurethanes/thiourethanes,train
+P110020,Polyurethanes/thiourethanes,train
+P110025,Polyurethanes/thiourethanes,test
+P110027,Polyurethanes/thiourethanes,train
+P110085,Polyurethanes/thiourethanes,train
+P110087,Polyurethanes/thiourethanes,train
+P110092,Polyurethanes/thiourethanes,train
+P110102,Polyurethanes/thiourethanes,train
+P110136,Polyurethanes/thiourethanes,test
+P110184,Polyurethanes/thiourethanes,train
+P110185,Polyurethanes/thiourethanes,train
+P110206,Polyurethanes/thiourethanes,test
+P110210,Polyamides/thioamides,train
+P120047,Polyureas/thioureas,train
+P130001,Polyimides/thioimides,train
+P130002,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P130003,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P130006,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyesters/thioesters",train
+P130007,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyesters/thioesters",train
+P130008,"Polyimides/thioimides, Polysulfides",train
+P130012,Polyimides/thioimides,train
+P130020,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P130031,Polyimides/thioimides,train
+P130034,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P130052,Polyimides/thioimides,train
+P130053,Polyimides/thioimides,test
+P130060,"Polyimides/thioimides, Polyketones/thioketones",train
+P130061,Polyimides/thioimides,train
+P130062,Polyimides/thioimides,train
+P130063,Polyimides/thioimides,train
+P130064,Polyimides/thioimides,train
+P130065,Polyimides/thioimides,train
+P130067,Polyimides/thioimides,train
+P130068,Polyimides/thioimides,train
+P130070,Polyimides/thioimides,train
+P130072,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P130073,"Polyimides/thioimides, Polyoxides/ethers/acetals",test
+P130074,"Polyimides/thioimides, Polyoxides/ethers/acetals",test
+P130075,"Polyimides/thioimides, Polyoxides/ethers/acetals",test
+P130076,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P130077,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P130078,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P130079,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P130080,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P130081,"Polyimides/thioimides, Polysulfides",train
+P130082,Polyimides/thioimides,train
+P130083,Polyimides/thioimides,train
+P130084,Polyimides/thioimides,train
+P130085,Polyimides/thioimides,train
+P130086,Polyimides/thioimides,train
+P130087,Polyimides/thioimides,train
+P130088,Polyimides/thioimides,train
+P130090,Polyimides/thioimides,train
+P130092,Polyimides/thioimides,train
+P130094,Polyimides/thioimides,train
+P130096,"Polyimides/thioimides, Polyoxides/ethers/acetals",test
+P130097,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P130098,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P130099,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polysulfones/sulfoxides/sufonates/sulfoamides",test
+P130102,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P130103,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P130104,"Polyimides/thioimides, Polyoxides/ethers/acetals",test
+P130105,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P130106,"Polyimides/thioimides, Polyoxides/ethers/acetals",test
+P130114,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P130117,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P130118,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P130119,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P130120,"Polyimides/thioimides, Polyoxides/ethers/acetals",test
+P130121,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P130123,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P130124,"Polyimides/thioimides, Polyketones/thioketones",train
+P130134,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyketones/thioketones",train
+P130155,"Polyimides/thioimides, Polyketones/thioketones",test
+P130156,"Polyimides/thioimides, Polyketones/thioketones",train
+P130157,"Polyimides/thioimides, Polyketones/thioketones",train
+P130159,"Polyimides/thioimides, Polyketones/thioketones",train
+P130160,"Polyimides/thioimides, Polyketones/thioketones",train
+P130162,"Polyimides/thioimides, Polyketones/thioketones",train
+P130163,"Polyimides/thioimides, Polyketones/thioketones",test
+P130164,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyketones/thioketones",train
+P130165,"Polyimides/thioimides, Polysulfides, Polyketones/thioketones",train
+P130166,"Polyimides/thioimides, Polyketones/thioketones",train
+P130168,"Polyimides/thioimides, Polyketones/thioketones",train
+P130170,"Polyimides/thioimides, Polyketones/thioketones",train
+P130171,"Polyimides/thioimides, Polyketones/thioketones",train
+P130178,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyketones/thioketones",train
+P130179,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyketones/thioketones",test
+P130180,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyketones/thioketones",train
+P130181,Polyimides/thioimides,train
+P130182,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polysulfides, Polysulfones/sulfoxides/sufonates/sulfoamides",test
+P130183,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polysulfones/sulfoxides/sufonates/sulfoamides",test
+P130197,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P130199,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P130228,Polyimides/thioimides,train
+P130229,Polyimides/thioimides,train
+P130230,Polyimides/thioimides,train
+P130231,"Polyimides/thioimides, Polyoxides/ethers/acetals",test
+P130249,"Polyimides/thioimides, Polyamides/thioamides",train
+P130250,"Polyimides/thioimides, Polyamides/thioamides",test
+P130251,"Polyimides/thioimides, Polyamides/thioamides",train
+P130252,"Polyimides/thioimides, Polyamides/thioamides",train
+P130262,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P130274,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P130310,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyamides/thioamides",train
+P130313,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P130314,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyesters/thioesters",train
+P130315,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyesters/thioesters",train
+P130316,"Polyimides/thioimides, Polyamides/thioamides",train
+P130317,"Polyimides/thioimides, Polysulfides, Polyesters/thioesters",train
+P130319,Polyimides/thioimides,test
+P130323,Polyimides/thioimides,train
+P130332,"Polyimides/thioimides, Polyamides/thioamides",train
+P130333,"Polyimides/thioimides, Polyamides/thioamides, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P130334,"Polyimides/thioimides, Polyamides/thioamides",train
+P130360,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P130361,"Polyimides/thioimides, Polyketones/thioketones",train
+P130362,Polyimides/thioimides,train
+P130363,Polyimides/thioimides,train
+P130364,Polyimides/thioimides,train
+P130365,Polyimides/thioimides,train
+P130366,"Polyimides/thioimides, Polyketones/thioketones",train
+P130367,Polyimides/thioimides,test
+P130368,Polyimides/thioimides,train
+P130369,"Polyimides/thioimides, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P134302,Polyimides/thioimides,train
+P134352,Polyimides/thioimides,train
+P134425,"Polyimides/thioimides, Polyketones/thioketones",train
+P140008,"Polyanhydrides/thioanhydrides, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P140009,"Polyanhydrides/thioanhydrides, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P140021,"Polyanhydrides/thioanhydrides, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P140029,"Polyanhydrides/thioanhydrides, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P140030,"Polyanhydrides/thioanhydrides, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P140033,Polyanhydrides/thioanhydrides,train
+P150002,Polycarbonates/thiocarbonates,train
+P150004,Polycarbonates/thiocarbonates,train
+P150006,Polycarbonates/thiocarbonates,train
+P150007,Polycarbonates/thiocarbonates,train
+P150008,Polycarbonates/thiocarbonates,test
+P150009,Polycarbonates/thiocarbonates,train
+P150010,Polycarbonates/thiocarbonates,train
+P150011,Polycarbonates/thiocarbonates,train
+P150014,Polycarbonates/thiocarbonates,test
+P150015,Polycarbonates/thiocarbonates,train
+P150017,Polycarbonates/thiocarbonates,train
+P150018,Polycarbonates/thiocarbonates,test
+P150022,Polycarbonates/thiocarbonates,train
+P150025,Polycarbonates/thiocarbonates,train
+P150028,Polycarbonates/thiocarbonates,train
+P150029,Polycarbonates/thiocarbonates,train
+P150030,Polycarbonates/thiocarbonates,train
+P150034,Polycarbonates/thiocarbonates,train
+P150036,Polycarbonates/thiocarbonates,train
+P150037,Polycarbonates/thiocarbonates,train
+P150038,Polycarbonates/thiocarbonates,train
+P150039,Polycarbonates/thiocarbonates,train
+P150040,Polycarbonates/thiocarbonates,train
+P150043,Polycarbonates/thiocarbonates,train
+P150044,Polycarbonates/thiocarbonates,train
+P150045,Polycarbonates/thiocarbonates,train
+P150062,Polycarbonates/thiocarbonates,train
+P150109,Polycarbonates/thiocarbonates,train
+P150124,Polycarbonates/thiocarbonates,train
+P150142,Polycarbonates/thiocarbonates,train
+P154570,Polycarbonates/thiocarbonates,train
+P160001,Polyimines,train
+P160006,Polyimines,train
+P160007,Polyimines,test
+P160009,Polyimines,test
+P160011,Polyimines,test
+P160012,Polyimines,test
+P160018,Polyimines,train
+P160023,Polyimines,train
+P160054,Polyimines,test
+P164456,Polyimines,train
+P169043,Polyimines,train
+P170006,Polysiloxanes/silanes,train
+P170009,Polysiloxanes/silanes,train
+P170020,Polysiloxanes/silanes,train
+P170025,Polysiloxanes/silanes,test
+P170026,Polysiloxanes/silanes,train
+P170027,Polysiloxanes/silanes,train
+P170028,Polysiloxanes/silanes,test
+P170029,Polysiloxanes/silanes,train
+P170030,Polysiloxanes/silanes,train
+P170031,Polysiloxanes/silanes,test
+P170033,Polysiloxanes/silanes,test
+P170064,Polysiloxanes/silanes,train
+P170065,Polysiloxanes/silanes,train
+P170068,Polysiloxanes/silanes,train
+P170069,Polysiloxanes/silanes,train
+P170070,Polysiloxanes/silanes,train
+P170071,Polysiloxanes/silanes,train
+P170072,Polysiloxanes/silanes,train
+P170074,Polysiloxanes/silanes,train
+P180012,"Polyphosphazenes, Polyimines",train
+P180013,"Polyphosphazenes, Polyimines",train
+P180019,"Polyphosphazenes, Polyimines",train
+P180020,"Polyphosphazenes, Polyimines",train
+P180022,"Polyphosphazenes, Polyimines",train
+P180033,"Polyphosphazenes, Polyimines",train
+P180034,"Polyphosphazenes, Polyimines",train
+P180036,"Polyphosphazenes, Polyimines",test
+P180037,"Polyphosphazenes, Polyimines",test
+P180038,"Polyphosphazenes, Polyimines",train
+P180039,"Polyphosphazenes, Polyimines",train
+P180040,"Polyphosphazenes, Polyimines",train
+P190001,Polyketones/thioketones,train
+P190002,Polyketones/thioketones,train
+P190003,"Polyoxides/ethers/acetals, Polyketones/thioketones",train
+P200002,Polysulfones/sulfoxides/sufonates/sulfoamides,train
+P210001,Polyphenylenes,train
+P210003,Polyphenylenes,test
+P210006,Polyphenylenes,test
+P210031,Polyvinyls,train
+P210032,Polyvinyls,train
+P210033,Polyvinyls,train
+P210042,Other polymers,train
+P210048,Other polymers,train
+P210049,Polyphenylenes,test
+P210052,Polyvinyls,train
+P210053,Polyvinyls,train
+P210054,Polyvinyls,test
+P310004,Polyolefins,test
+P312001,Polyolefins,test
+P312002,Polyolefins,test
+P312022,Polyolefins,train
+P312031,Polyolefins,test
+P312034,Polyolefins,train
+P312035,Polyolefins,train
+P312038,Polyolefins,train
+P320020,"Polystyrenes, Polyvinyls",train
+P320050,"Polystyrenes, Polyvinyls",train
+P320051,"Polystyrenes, Polyvinyls",test
+P320052,"Polystyrenes, Polyvinyls",train
+P320053,"Polystyrenes, Polyvinyls",train
+P320054,"Polystyrenes, Polyvinyls",train
+P320055,"Polystyrenes, Polyvinyls",train
+P320056,"Polystyrenes, Polyvinyls",train
+P320057,"Polystyrenes, Polyvinyls",train
+P320058,"Polystyrenes, Polyvinyls",train
+P320059,"Polystyrenes, Polyvinyls",train
+P320060,"Polystyrenes, Polyvinyls",train
+P322005,"Polystyrenes, Polyvinyls",train
+P322010,"Polystyrenes, Polyvinyls",train
+P322011,"Polystyrenes, Polyvinyls",test
+P322025,"Polystyrenes, Polyvinyls",test
+P322027,"Polystyrenes, Polyvinyls",train
+P322082,"Polystyrenes, Polyvinyls",train
+P322110,"Polystyrenes, Polyvinyls",test
+P322231,"Polystyrenes, Polyvinyls",train
+P330016,Polyvinyls,train
+P330017,Polyvinyls,train
+P330021,"Polyvinyls, Polydienes",train
+P330022,Polyvinyls,test
+P330024,Polyvinyls,test
+P330025,Polyvinyls,train
+P330028,Polyvinyls,train
+P330088,Polyvinyls,train
+P330092,Polyvinyls,train
+P330093,Polyvinyls,test
+P330104,Polyvinyls,train
+P330105,Polyvinyls,train
+P330111,Polyvinyls,train
+P330116,Polyvinyls,train
+P332001,Polyvinyls,train
+P332002,Polyvinyls,test
+P332015,Polyvinyls,train
+P332036,Polyvinyls,train
+P332048,Polyvinyls,train
+P332113,Polyvinyls,test
+P332138,Polyvinyls,test
+P332184,Polyvinyls,train
+P332199,Polyvinyls,train
+P332251,Polyvinyls,train
+P332252,Polyvinyls,train
+P332309,Polyvinyls,train
+P332327,Polyvinyls,train
+P340001,"Polyacrylics, Polyvinyls",test
+P340002,"Polyacrylics, Polyvinyls",train
+P340003,"Polyacrylics, Polyvinyls",train
+P340004,"Polyacrylics, Polyvinyls",test
+P340014,"Polyacrylics, Polyvinyls",test
+P340015,"Polyacrylics, Polyvinyls",train
+P340035,"Polyacrylics, Polyvinyls",train
+P340044,"Polyacrylics, Polyvinyls",test
+P340065,"Polyacrylics, Polyvinyls",train
+P340097,"Polyacrylics, Polyvinyls",train
+P340098,"Polyacrylics, Polyvinyls",train
+P340102,"Polyacrylics, Polyvinyls",train
+P340103,"Polyacrylics, Polyvinyls",test
+P340169,"Polyacrylics, Polyvinyls",train
+P340181,"Polyacrylics, Polyvinyls",train
+P342001,"Polyacrylics, Polyvinyls",train
+P342012,"Polyacrylics, Polyvinyls",test
+P342013,"Polyacrylics, Polyvinyls",train
+P342014,"Polyacrylics, Polyvinyls",train
+P342015,"Polyacrylics, Polyvinyls",train
+P342016,"Polyacrylics, Polyvinyls",train
+P342017,"Polyacrylics, Polyvinyls",test
+P342018,"Polyacrylics, Polyvinyls",train
+P342019,"Polyacrylics, Polyvinyls",train
+P342139,"Polyacrylics, Polyvinyls",train
+P342154,"Polyacrylics, Polyvinyls",test
+P342159,"Polyacrylics, Polyvinyls",train
+P342196,"Polyacrylics, Polyvinyls",train
+P342211,"Polyacrylics, Polyvinyls",train
+P342214,"Polyacrylics, Polyvinyls",train
+P342241,"Polyacrylics, Polyvinyls",train
+P342242,"Polyacrylics, Polyvinyls",train
+P342286,"Polyacrylics, Polyvinyls",test
+P342398,"Polyacrylics, Polyvinyls",train
+P342399,"Polyacrylics, Polyvinyls",train
+P342400,"Polyacrylics, Polyvinyls",train
+P342401,"Polyacrylics, Polyvinyls",train
+P342439,"Polyacrylics, Polyvinyls",train
+P342490,"Polyacrylics, Polyvinyls",train
+P342491,"Polyacrylics, Polyvinyls",train
+P342492,"Polyacrylics, Polyvinyls",train
+P342493,"Polyacrylics, Polyvinyls",train
+P342494,"Polyacrylics, Polyvinyls",train
+P342495,"Polyacrylics, Polyvinyls",train
+P342496,"Polyacrylics, Polyvinyls",train
+P342613,"Polyacrylics, Polyvinyls",train
+P342614,"Polyacrylics, Polyvinyls",test
+P350002,Polyhalo-olefins,train
+P350004,Polyhalo-olefins,train
+P350005,Polyhalo-olefins,train
+P360003,Polydienes,train
+P360004,Polydienes,train
+P360014,Polydienes,test
+P360033,Polydienes,test
+P360040,Polydienes,train
+P362006,Polydienes,train
+P362026,Polydienes,train
+P370012,"Polyoxides/ethers/acetals, Polycarbonates/thiocarbonates",test
+P370013,"Polyoxides/ethers/acetals, Polycarbonates/thiocarbonates",train
+P370014,"Polyoxides/ethers/acetals, Polycarbonates/thiocarbonates, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P370015,"Polyoxides/ethers/acetals, Polycarbonates/thiocarbonates",train
+P370016,"Polyoxides/ethers/acetals, Polycarbonates/thiocarbonates",test
+P370017,"Polyoxides/ethers/acetals, Polyurethanes/thiourethanes",train
+P370018,"Polyoxides/ethers/acetals, Polyurethanes/thiourethanes",train
+P370019,"Polyoxides/ethers/acetals, Polyurethanes/thiourethanes",train
+P370020,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polycarbonates/thiocarbonates",train
+P370033,"Polyoxides/ethers/acetals, Polysulfones/sulfoxides/sufonates/sulfoamides",test
+P370034,"Polyoxides/ethers/acetals, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P370035,"Polyoxides/ethers/acetals, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P370036,"Polyoxides/ethers/acetals, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P370040,Polyoxides/ethers/acetals,test
+P370042,"Polyoxides/ethers/acetals, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P370044,Polyoxides/ethers/acetals,train
+P370072,"Polyoxides/ethers/acetals, Polyketones/thioketones",train
+P370073,"Polyoxides/ethers/acetals, Polyketones/thioketones",train
+P370091,Polyoxides/ethers/acetals,train
+P370092,Polyoxides/ethers/acetals,train
+P370106,"Polyoxides/ethers/acetals, Polyesters/thioesters",train
+P370109,Polyoxides/ethers/acetals,test
+P370115,"Polyoxides/ethers/acetals, Polyimines",train
+P370119,Polyoxides/ethers/acetals,train
+P370120,Polyoxides/ethers/acetals,train
+P370137,Polyoxides/ethers/acetals,train
+P370139,Polyoxides/ethers/acetals,test
+P370269,"Polyoxides/ethers/acetals, Polyimines",train
+P370289,"Polyoxides/ethers/acetals, Polysulfides, Polyimines",train
+P370310,Polyoxides/ethers/acetals,test
+P370372,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyketones/thioketones",train
+P370404,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P370432,"Polyoxides/ethers/acetals, Polyketones/thioketones, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P370433,"Polyoxides/ethers/acetals, Polyketones/thioketones, Polysulfones/sulfoxides/sufonates/sulfoamides",test
+P370434,"Polyoxides/ethers/acetals, Polyketones/thioketones, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P370435,"Polyoxides/ethers/acetals, Polyketones/thioketones, Polysulfones/sulfoxides/sufonates/sulfoamides",test
+P370436,"Polyoxides/ethers/acetals, Polyketones/thioketones, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P370437,Polyoxides/ethers/acetals,train
+P370441,"Polyoxides/ethers/acetals, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P370443,"Polyoxides/ethers/acetals, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P370452,"Polyoxides/ethers/acetals, Polyimines",train
+P370454,"Polyoxides/ethers/acetals, Polyketones/thioketones",train
+P370496,"Polyoxides/ethers/acetals, Polyesters/thioesters",train
+P370499,"Polyoxides/ethers/acetals, Polyketones/thioketones",train
+P370500,"Polyoxides/ethers/acetals, Polyketones/thioketones",train
+P370501,Polyoxides/ethers/acetals,train
+P370502,Polyoxides/ethers/acetals,train
+P370503,Polyoxides/ethers/acetals,train
+P370504,Polyoxides/ethers/acetals,train
+P370527,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyamides/thioamides, Polyimines",train
+P370530,"Polyoxides/ethers/acetals, Polyketones/thioketones",train
+P370550,"Polyoxides/ethers/acetals, Polyamides/thioamides",train
+P370574,"Polyoxides/ethers/acetals, Polyimines",train
+P370593,"Polyoxides/ethers/acetals, Polyamides/thioamides",test
+P370594,"Polyoxides/ethers/acetals, Polyamides/thioamides, Polyimines",test
+P370613,Polyoxides/ethers/acetals,train
+P370614,Polyoxides/ethers/acetals,test
+P370615,Polyoxides/ethers/acetals,train
+P370616,Polyoxides/ethers/acetals,test
+P370617,Polyoxides/ethers/acetals,train
+P370618,Polyoxides/ethers/acetals,train
+P370646,Polyoxides/ethers/acetals,train
+P370707,"Polyoxides/ethers/acetals, Polyimines",train
+P370765,"Polyoxides/ethers/acetals, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P370766,"Polyoxides/ethers/acetals, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P370767,"Polyoxides/ethers/acetals, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P370768,"Polyoxides/ethers/acetals, Polysulfones/sulfoxides/sufonates/sulfoamides",test
+P370769,"Polyoxides/ethers/acetals, Polysulfones/sulfoxides/sufonates/sulfoamides",test
+P370791,"Polyoxides/ethers/acetals, Polyketones/thioketones",train
+P370792,"Polyoxides/ethers/acetals, Polyketones/thioketones",train
+P370793,"Polyoxides/ethers/acetals, Polyketones/thioketones",train
+P370794,"Polyoxides/ethers/acetals, Polyketones/thioketones",train
+P370825,"Polyoxides/ethers/acetals, Polycarbonates/thiocarbonates",train
+P372013,Polyoxides/ethers/acetals,train
+P372026,"Polyoxides/ethers/acetals, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P372027,"Polyoxides/ethers/acetals, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P372096,"Polyoxides/ethers/acetals, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P372111,"Polyoxides/ethers/acetals, Polycarbonates/thiocarbonates",train
+P372112,"Polyoxides/ethers/acetals, Polycarbonates/thiocarbonates",train
+P372113,"Polyoxides/ethers/acetals, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P372114,"Polyoxides/ethers/acetals, Polysulfones/sulfoxides/sufonates/sulfoamides",test
+P372115,"Polyoxides/ethers/acetals, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P372116,"Polyoxides/ethers/acetals, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P372152,"Polyoxides/ethers/acetals, Polyketones/thioketones",test
+P372240,"Polyoxides/ethers/acetals, Polyamides/thioamides",train
+P372268,"Polyoxides/ethers/acetals, Polyketones/thioketones",train
+P372274,"Polyoxides/ethers/acetals, Polyketones/thioketones",train
+P372313,"Polyoxides/ethers/acetals, Polyketones/thioketones",train
+P372314,"Polyoxides/ethers/acetals, Polyketones/thioketones",train
+P372315,"Polyoxides/ethers/acetals, Polyketones/thioketones",train
+P372316,"Polyoxides/ethers/acetals, Polyketones/thioketones",train
+P372317,"Polyoxides/ethers/acetals, Polyketones/thioketones",train
+P372332,Polyoxides/ethers/acetals,train
+P372505,Polyoxides/ethers/acetals,train
+P372508,"Polyoxides/ethers/acetals, Polysulfides",train
+P372509,"Polyoxides/ethers/acetals, Polysulfides",test
+P372510,"Polyoxides/ethers/acetals, Polysulfides",train
+P372599,Polyoxides/ethers/acetals,train
+P372635,Polyoxides/ethers/acetals,train
+P372649,Polyoxides/ethers/acetals,train
+P372790,"Polyoxides/ethers/acetals, Polyketones/thioketones, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P372791,"Polyoxides/ethers/acetals, Polyketones/thioketones, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P372792,"Polyoxides/ethers/acetals, Polyketones/thioketones, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P372793,"Polyoxides/ethers/acetals, Polyketones/thioketones",test
+P372794,"Polyoxides/ethers/acetals, Polyketones/thioketones",train
+P372829,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P372830,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polysulfones/sulfoxides/sufonates/sulfoamides",test
+P372831,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P372832,"Polyoxides/ethers/acetals, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P372833,"Polyoxides/ethers/acetals, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P372838,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines",test
+P372839,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines",test
+P372840,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P372841,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines",train
+P373065,"Polyoxides/ethers/acetals, Polysulfides",train
+P373070,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines",train
+P373071,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines",train
+P373072,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines",train
+P373073,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines, Polyketones/thioketones",train
+P373074,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines, Polyketones/thioketones",train
+P373075,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines",train
+P373076,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines",train
+P373077,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines",train
+P373078,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines",test
+P373079,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines",train
+P373080,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines",test
+P373095,"Polyoxides/ethers/acetals, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P373096,"Polyoxides/ethers/acetals, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P373097,"Polyoxides/ethers/acetals, Polysulfones/sulfoxides/sufonates/sulfoamides",test
+P373099,"Polyoxides/ethers/acetals, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P373231,Polyoxides/ethers/acetals,train
+P373256,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines",train
+P373258,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines",train
+P373259,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines, Polyketones/thioketones",train
+P373260,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines, Polyketones/thioketones",train
+P373262,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines",train
+P373263,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines",train
+P373274,"Polyoxides/ethers/acetals, Polyamides/thioamides",train
+P373275,"Polyoxides/ethers/acetals, Polyamides/thioamides",test
+P373276,"Polyoxides/ethers/acetals, Polyamides/thioamides",train
+P373277,"Polyoxides/ethers/acetals, Polyamides/thioamides",train
+P373278,"Polyoxides/ethers/acetals, Polyamides/thioamides",train
+P373323,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines",train
+P373324,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines",train
+P373325,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines",test
+P373326,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines",train
+P373327,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines",train
+P373346,"Polyoxides/ethers/acetals, Polyimines",train
+P373419,"Polyoxides/ethers/acetals, Polyketones/thioketones",train
+P373433,"Polyoxides/ethers/acetals, Polysulfides, Polyurethanes/thiourethanes, Polyimines",train
+P373434,"Polyoxides/ethers/acetals, Polysulfides, Polyurethanes/thiourethanes, Polyimines",train
+P373435,"Polyoxides/ethers/acetals, Polyurethanes/thiourethanes, Polyimines",test
+P373463,"Polyoxides/ethers/acetals, Polyamides/thioamides, Polyimines",test
+P373464,"Polyoxides/ethers/acetals, Polyamides/thioamides, Polyimines, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P373465,"Polyoxides/ethers/acetals, Polyamides/thioamides, Polyimines, Polysulfones/sulfoxides/sufonates/sulfoamides",test
+P373466,"Polyoxides/ethers/acetals, Polyamides/thioamides, Polyimines",test
+P373467,"Polyoxides/ethers/acetals, Polyamides/thioamides, Polyimines",train
+P373468,"Polyoxides/ethers/acetals, Polyamides/thioamides, Polyimines",train
+P373469,"Polyoxides/ethers/acetals, Polyamides/thioamides, Polyimines",train
+P373482,"Polyoxides/ethers/acetals, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P373483,"Polyoxides/ethers/acetals, Polysulfones/sulfoxides/sufonates/sulfoamides",test
+P373484,"Polyoxides/ethers/acetals, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P373612,"Polyoxides/ethers/acetals, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P373615,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines",train
+P373617,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P373618,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines, Polyketones/thioketones",train
+P373619,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines",train
+P373620,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines",train
+P373621,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines",test
+P373622,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines",train
+P373683,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines",train
+P373684,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines, Polyketones/thioketones",train
+P373685,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines",train
+P373700,Polyoxides/ethers/acetals,train
+P373701,Polyoxides/ethers/acetals,train
+P373702,Polyoxides/ethers/acetals,train
+P373703,Polyoxides/ethers/acetals,test
+P374137,Polysiloxanes/silanes,train
+P380026,"Polysulfides, Polyimines",test
+P380027,Polysulfides,test
+P380029,Polysulfides,train
+P380035,"Polyimines, Polysulfones/sulfoxides/sufonates/sulfoamides",test
+P380036,"Polyimines, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P380046,"Polysulfides, Polyimines",train
+P380047,"Polysulfides, Polyimines",train
+P380060,Polysulfides,train
+P380062,Polysulfides,train
+P380065,Polysulfides,train
+P380066,Polysulfides,test
+P380067,Polysulfides,train
+P380070,Polysulfides,train
+P380073,Polysulfides,train
+P380140,Polysulfides,train
+P382012,Polysulfides,train
+P382013,Polysulfides,train
+P382206,"Polysulfides, Polyimines",train
+P382333,"Polysulfides, Polyimines",train
+P382390,"Polysulfides, Polyimines",train
+P382403,"Polysulfides, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P382422,Polysulfides,train
+P382461,"Polysulfides, Polyimines",train
+P390032,"Polyesters/thioesters, Polyketones/thioketones",train
+P390045,Polyesters/thioesters,train
+P390046,Polyesters/thioesters,train
+P390050,"Polyesters/thioesters, Polyketones/thioketones",test
+P390089,"Polyesters/thioesters, Polyamides/thioamides",test
+P390090,"Polyesters/thioesters, Polyamides/thioamides",train
+P390091,"Polyesters/thioesters, Polyamides/thioamides",train
+P390092,"Polyesters/thioesters, Polyamides/thioamides",train
+P390093,"Polyesters/thioesters, Polyamides/thioamides",train
+P390094,"Polyesters/thioesters, Polyamides/thioamides",train
+P390095,"Polyesters/thioesters, Polyamides/thioamides",train
+P390134,Polyesters/thioesters,train
+P390136,Polyesters/thioesters,train
+P390205,"Polyesters/thioesters, Polyamides/thioamides",train
+P390206,"Polyesters/thioesters, Polyamides/thioamides, Polysulfones/sulfoxides/sufonates/sulfoamides",test
+P390207,"Polyesters/thioesters, Polyamides/thioamides",train
+P390208,"Polyesters/thioesters, Polyamides/thioamides",train
+P390209,"Polyesters/thioesters, Polyamides/thioamides",train
+P390218,Polyesters/thioesters,train
+P390245,Polyesters/thioesters,train
+P390253,Polyesters/thioesters,train
+P390260,Polyesters/thioesters,train
+P390283,Polyesters/thioesters,train
+P390294,Polyesters/thioesters,train
+P390299,Polyesters/thioesters,train
+P390300,Polyesters/thioesters,train
+P390311,Polyesters/thioesters,train
+P390312,Polyesters/thioesters,train
+P390313,Polyesters/thioesters,test
+P390314,Polyesters/thioesters,train
+P390315,Polyesters/thioesters,test
+P390316,Polyesters/thioesters,train
+P390317,Polyesters/thioesters,test
+P390318,Polyesters/thioesters,train
+P390363,"Polyesters/thioesters, Polyurethanes/thiourethanes",train
+P390414,Polyesters/thioesters,train
+P390415,"Polyesters/thioesters, Polyimines, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P390416,"Polyesters/thioesters, Polyimines, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P390440,Polyesters/thioesters,train
+P390442,Polyesters/thioesters,train
+P390443,Polyesters/thioesters,test
+P392018,Polyesters/thioesters,train
+P392023,Polyesters/thioesters,train
+P392045,Polyesters/thioesters,train
+P392046,Polyesters/thioesters,train
+P392180,Polyesters/thioesters,train
+P392440,Polyesters/thioesters,train
+P392441,Polyesters/thioesters,train
+P392442,Polyesters/thioesters,test
+P392443,Polyesters/thioesters,train
+P392491,Polyesters/thioesters,train
+P392501,Polyurethanes/thiourethanes,train
+P392586,Polyesters/thioesters,train
+P392587,Polyesters/thioesters,train
+P392588,"Polyesters/thioesters, Polysulfones/sulfoxides/sufonates/sulfoamides",test
+P392589,Polyesters/thioesters,train
+P392590,Polyesters/thioesters,train
+P392591,Polyesters/thioesters,train
+P392592,Polyesters/thioesters,train
+P392593,Polyesters/thioesters,train
+P392594,Polyesters/thioesters,train
+P392595,Polyesters/thioesters,train
+P392711,"Polyesters/thioesters, Polyimines",test
+P392712,"Polyesters/thioesters, Polyimines",train
+P400006,Polyamides/thioamides,test
+P400009,Polyamides/thioamides,train
+P400013,Polyamides/thioamides,train
+P400078,Polyamides/thioamides,train
+P400079,Polyamides/thioamides,train
+P400083,Polyamides/thioamides,train
+P400092,Polyamides/thioamides,train
+P400093,Polyamides/thioamides,test
+P400095,Polyamides/thioamides,train
+P400096,Polyamides/thioamides,train
+P400097,Polyamides/thioamides,train
+P400098,Polyamides/thioamides,train
+P400099,Polyamides/thioamides,test
+P400101,Polyamides/thioamides,train
+P400113,Polyamides/thioamides,train
+P400126,Polyamides/thioamides,test
+P400184,Polyamides/thioamides,train
+P400185,Polyamides/thioamides,train
+P400187,Polyamides/thioamides,train
+P400200,Polyamides/thioamides,train
+P400283,Polyamides/thioamides,train
+P400284,Polyamides/thioamides,train
+P400285,Polyamides/thioamides,train
+P400286,Polyamides/thioamides,test
+P400287,Polyamides/thioamides,train
+P400288,Polyamides/thioamides,train
+P400290,Polyamides/thioamides,test
+P400291,Polyamides/thioamides,train
+P400292,Polyamides/thioamides,train
+P400293,Polyamides/thioamides,train
+P400294,Polyamides/thioamides,train
+P400295,Polyamides/thioamides,train
+P400296,Polyamides/thioamides,train
+P400297,Polyamides/thioamides,test
+P400298,Polyamides/thioamides,test
+P400299,Polyamides/thioamides,train
+P400300,Polyamides/thioamides,train
+P400301,Polyamides/thioamides,train
+P400302,Polyamides/thioamides,train
+P400303,Polyamides/thioamides,train
+P400307,Polyamides/thioamides,test
+P400308,Polyamides/thioamides,train
+P400309,Polyamides/thioamides,train
+P400310,Polyamides/thioamides,test
+P400311,Polyamides/thioamides,train
+P400312,Polyamides/thioamides,test
+P400313,Polyamides/thioamides,train
+P400315,Polyamides/thioamides,train
+P400316,Polyamides/thioamides,train
+P400317,Polyamides/thioamides,train
+P400318,Polyamides/thioamides,train
+P400319,Polyamides/thioamides,test
+P400320,Polyamides/thioamides,train
+P400321,Polyamides/thioamides,train
+P400322,Polyamides/thioamides,train
+P400323,Polyamides/thioamides,train
+P400360,Polyamides/thioamides,train
+P402001,Polyamides/thioamides,train
+P402015,Polyamides/thioamides,train
+P402056,"Polyamides/thioamides, Polyketones/thioketones",test
+P402057,"Polyamides/thioamides, Polyketones/thioketones",test
+P402058,"Polyamides/thioamides, Polyketones/thioketones",train
+P402222,Polyamides/thioamides,train
+P402224,Polyamides/thioamides,train
+P402225,Polyamides/thioamides,test
+P402226,Polyamides/thioamides,train
+P402237,Polyamides/thioamides,test
+P402238,Polyamides/thioamides,train
+P402239,Polyamides/thioamides,train
+P402241,"Polyamides/thioamides, Polyketones/thioketones",train
+P402242,"Polyamides/thioamides, Polyketones/thioketones",train
+P412227,"Polyurethanes/thiourethanes, Polyimines",train
+P412228,"Polyurethanes/thiourethanes, Polyimines",train
+P420006,Polyureas/thioureas,train
+P430015,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyurethanes/thiourethanes, Polyureas/thioureas, Polycarbonates/thiocarbonates",train
+P430017,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P430018,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P430019,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P430021,"Polyimides/thioimides, Polyesters/thioesters, Polyamides/thioamides",train
+P430022,"Polyimides/thioimides, Polyoxides/ethers/acetals",test
+P430029,"Polyimides/thioimides, Polyoxides/ethers/acetals",test
+P430040,Polyimides/thioimides,train
+P430042,Polyimides/thioimides,test
+P430044,"Polyimides/thioimides, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P430045,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyamides/thioamides",train
+P430046,"Polyimides/thioimides, Polysulfones/sulfoxides/sufonates/sulfoamides",test
+P430186,Polyimides/thioimides,train
+P430187,"Polyimides/thioimides, Polyoxides/ethers/acetals",test
+P430191,Polyimides/thioimides,train
+P430192,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyketones/thioketones",train
+P430193,"Polyimides/thioimides, Polyesters/thioesters",train
+P430194,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyesters/thioesters",train
+P430195,"Polyimides/thioimides, Polyesters/thioesters",train
+P430196,"Polyimides/thioimides, Polyesters/thioesters",train
+P430244,Polyimides/thioimides,train
+P430245,"Polyimides/thioimides, Polyamides/thioamides",train
+P430246,"Polyimides/thioimides, Polyamides/thioamides",train
+P430247,"Polyimides/thioimides, Polyamides/thioamides, Polysulfones/sulfoxides/sufonates/sulfoamides",test
+P430248,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyamides/thioamides",train
+P430249,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyamides/thioamides",train
+P430250,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyamides/thioamides",train
+P430251,"Polyimides/thioimides, Polyamides/thioamides",train
+P430252,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyamides/thioamides",test
+P430256,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P430298,Polyimides/thioimides,train
+P430299,Polyimides/thioimides,train
+P430364,"Polyimides/thioimides, Polyamides/thioamides",train
+P430411,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P430412,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P430413,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P430424,Polyimides/thioimides,train
+P430427,Polyimides/thioimides,train
+P430430,Polyimides/thioimides,train
+P430431,Polyimides/thioimides,train
+P430442,"Polyimides/thioimides, Polyketones/thioketones",train
+P430444,"Polyimides/thioimides, Polyketones/thioketones",train
+P430465,"Polyimides/thioimides, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P430467,Polyimides/thioimides,train
+P430469,Polyimides/thioimides,train
+P430470,Polyimides/thioimides,train
+P430471,Polyimides/thioimides,train
+P430472,Polyimides/thioimides,train
+P430473,Polyimides/thioimides,train
+P430476,Polyimides/thioimides,train
+P430477,Polyimides/thioimides,test
+P430478,Polyimides/thioimides,train
+P430479,Polyimides/thioimides,train
+P430480,Polyimides/thioimides,train
+P430481,Polyimides/thioimides,train
+P430482,Polyimides/thioimides,train
+P430484,Polyimides/thioimides,train
+P430486,Polyimides/thioimides,train
+P430491,Polyimides/thioimides,train
+P430492,Polyimides/thioimides,train
+P430494,"Polyimides/thioimides, Polysulfones/sulfoxides/sufonates/sulfoamides",test
+P432010,Polyimides/thioimides,train
+P432011,Polyimides/thioimides,train
+P432021,Polyimides/thioimides,test
+P432022,Polyimides/thioimides,train
+P432023,Polyimides/thioimides,test
+P432024,Polyimides/thioimides,train
+P432025,Polyimides/thioimides,train
+P432029,Polyimides/thioimides,train
+P432042,Polyimides/thioimides,train
+P432048,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P432049,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P432050,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyketones/thioketones",test
+P432051,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P432052,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P432053,"Polyimides/thioimides, Polyoxides/ethers/acetals",test
+P432054,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P432056,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P432060,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P432061,"Polyimides/thioimides, Polyoxides/ethers/acetals",test
+P432062,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P432066,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P432091,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polysulfides",train
+P432092,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P432093,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polysiloxanes/silanes",train
+P432094,"Polyimides/thioimides, Polysulfides",train
+P432095,"Polyimides/thioimides, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P432096,"Polyimides/thioimides, Polyoxides/ethers/acetals",test
+P432097,"Polyimides/thioimides, Polyoxides/ethers/acetals",test
+P432098,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P432099,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P432100,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P432102,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P432128,"Polyimides/thioimides, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P432129,"Polyimides/thioimides, Polyketones/thioketones",train
+P432130,"Polyimides/thioimides, Polyketones/thioketones",train
+P432163,"Polyimides/thioimides, Polyketones/thioketones",test
+P432177,"Polyimides/thioimides, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P432188,"Polyimides/thioimides, Polyamides/thioamides",train
+P432189,"Polyimides/thioimides, Polyamides/thioamides",train
+P432190,"Polyimides/thioimides, Polyamides/thioamides",train
+P432191,"Polyimides/thioimides, Polyamides/thioamides",train
+P432192,"Polyimides/thioimides, Polyamides/thioamides",train
+P432193,"Polyimides/thioimides, Polyamides/thioamides",train
+P432194,"Polyimides/thioimides, Polyamides/thioamides",train
+P432195,"Polyimides/thioimides, Polyamides/thioamides",train
+P432196,"Polyimides/thioimides, Polyamides/thioamides",train
+P432197,"Polyimides/thioimides, Polyamides/thioamides",train
+P432198,"Polyimides/thioimides, Polyamides/thioamides",test
+P432199,"Polyimides/thioimides, Polyamides/thioamides",train
+P432208,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P432209,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P432210,"Polyimides/thioimides, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P432211,"Polyimides/thioimides, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P432243,Polyimides/thioimides,train
+P432244,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P432245,"Polyimides/thioimides, Polyesters/thioesters",train
+P432246,"Polyimides/thioimides, Polyesters/thioesters",train
+P432251,"Polyimides/thioimides, Polyamides/thioamides",train
+P432278,"Polyimides/thioimides, Polyoxides/ethers/acetals",test
+P432279,Polyimides/thioimides,train
+P432280,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P432281,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyketones/thioketones",train
+P432282,Polyimides/thioimides,train
+P432283,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P432284,"Polyimides/thioimides, Polysulfides",train
+P432285,"Polyimides/thioimides, Polysulfides",train
+P432286,"Polyimides/thioimides, Polysulfides",train
+P432287,"Polyimides/thioimides, Polysulfides",train
+P432288,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P432289,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P432290,"Polyimides/thioimides, Polyoxides/ethers/acetals",test
+P432291,"Polyimides/thioimides, Polyimines",train
+P432292,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P432293,"Polyimides/thioimides, Polysulfones/sulfoxides/sufonates/sulfoamides",test
+P432294,"Polyimides/thioimides, Polysulfides",train
+P432295,Polyimides/thioimides,train
+P432300,Polyimides/thioimides,train
+P432301,Polyimides/thioimides,train
+P432302,Polyimides/thioimides,train
+P432303,Polyimides/thioimides,train
+P432304,Polyimides/thioimides,train
+P432305,Polyimides/thioimides,test
+P432306,Polyimides/thioimides,test
+P432307,Polyimides/thioimides,test
+P432308,Polyimides/thioimides,train
+P432309,Polyimides/thioimides,train
+P432310,Polyimides/thioimides,train
+P432311,Polyimides/thioimides,train
+P432312,Polyimides/thioimides,train
+P432313,Polyimides/thioimides,train
+P432314,Polyimides/thioimides,train
+P432315,Polyimides/thioimides,test
+P432374,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyamides/thioamides",train
+P432375,"Polyimides/thioimides, Polyamides/thioamides",train
+P432376,"Polyimides/thioimides, Polyamides/thioamides",train
+P432438,Polyimides/thioimides,train
+P432447,"Polyimides/thioimides, Polyamides/thioamides",train
+P432448,"Polyimides/thioimides, Polyamides/thioamides",train
+P432449,"Polyimides/thioimides, Polyamides/thioamides",train
+P432456,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P432459,Polyimides/thioimides,train
+P432472,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P432473,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P432474,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyketones/thioketones",train
+P432475,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P432476,Polyimides/thioimides,test
+P432477,Polyimides/thioimides,train
+P432478,"Polyimides/thioimides, Polyketones/thioketones",train
+P432479,Polyimides/thioimides,train
+P432480,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P432481,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P432482,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyketones/thioketones",train
+P432484,"Polyimides/thioimides, Polyoxides/ethers/acetals",test
+P432568,Polyimides/thioimides,train
+P432569,Polyimides/thioimides,train
+P432570,Polyimides/thioimides,test
+P432832,"Polyimides/thioimides, Polyketones/thioketones",train
+P432833,Polyimides/thioimides,train
+P432872,"Polyimides/thioimides, Polyketones/thioketones",train
+P432873,"Polyimides/thioimides, Polyketones/thioketones",train
+P433023,"Polyimides/thioimides, Polyoxides/ethers/acetals",test
+P433024,Polyimides/thioimides,train
+P433025,Polyimides/thioimides,train
+P433118,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P433119,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P433120,"Polyimides/thioimides, Polyketones/thioketones",train
+P433121,"Polyimides/thioimides, Polyketones/thioketones",train
+P433124,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P433125,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P433197,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P433210,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P433217,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P433227,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P433228,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P433230,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P433231,"Polyimides/thioimides, Polyoxides/ethers/acetals",test
+P433234,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P433238,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P433241,"Polyimides/thioimides, Polyoxides/ethers/acetals",test
+P433242,"Polyimides/thioimides, Polyoxides/ethers/acetals",test
+P433290,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P433320,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P433321,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polysulfones/sulfoxides/sufonates/sulfoamides",train
+P433446,Polyimides/thioimides,test
+P433460,Polyimides/thioimides,train
+P433463,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P433464,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyketones/thioketones",train
+P433465,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P433466,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P433467,"Polyimides/thioimides, Polyoxides/ethers/acetals",train
+P433589,Polyimides/thioimides,train
+P433667,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polysulfides, Polyamides/thioamides",train
+P433668,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polysulfides",train
+P433669,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polysulfides",train
+P433712,Polyimides/thioimides,train
+P440015,Polyanhydrides/thioanhydrides,train
+P450005,Polycarbonates/thiocarbonates,train
+P450017,Polycarbonates/thiocarbonates,train
+P450037,Polycarbonates/thiocarbonates,test
+P450038,Polycarbonates/thiocarbonates,train
+P450039,Polycarbonates/thiocarbonates,train
+P450042,Polycarbonates/thiocarbonates,test
+P450044,Polycarbonates/thiocarbonates,train
+P450045,Polycarbonates/thiocarbonates,train
+P450046,Polycarbonates/thiocarbonates,train
+P450047,Polycarbonates/thiocarbonates,train
+P450084,Polycarbonates/thiocarbonates,train
+P450085,Polycarbonates/thiocarbonates,train
+P452012,Polycarbonates/thiocarbonates,test
+P452013,Polycarbonates/thiocarbonates,train
+P452014,Polycarbonates/thiocarbonates,train
+P452029,Polycarbonates/thiocarbonates,train
+P452030,Polycarbonates/thiocarbonates,train
+P452031,Polycarbonates/thiocarbonates,test
+P460023,"Polyphosphazenes, Polyimines",test
+P460024,"Polyphosphazenes, Polyimines",train
+P460027,Polyimines,train
+P460028,Polyimines,test
+P460038,"Polyphosphazenes, Polyimines",train
+P460039,"Polyphosphazenes, Polyimines",train
+P460049,Polyimines,test
+P460063,Polyimines,test
+P460064,Polyimines,test
+P460065,Polyimines,train
+P460066,Polyimines,train
+P460145,Polyimines,train
+P460166,Polyimines,train
+P460178,"Polyphosphazenes, Polyimines",test
+P460221,"Polyphosphazenes, Polyimines",train
+P460223,"Polyphosphazenes, Polyimines",train
+P460224,"Polyphosphazenes, Polyimines",test
+P460225,"Polyphosphazenes, Polyimines",test
+P460226,"Polyphosphazenes, Polyimines",train
+P460227,"Polyphosphazenes, Polyimines",test
+P460229,"Polyphosphazenes, Polyimines",train
+P460230,"Polyphosphazenes, Polyimines",test
+P460240,Polyimines,train
+P460242,"Polyphosphazenes, Polyimines",train
+P460323,Polyimines,test
+P462070,Polyimines,test
+P462093,"Polyphosphazenes, Polyimines",test
+P462103,"Polyphosphazenes, Polyimines",train
+P462104,"Polyphosphazenes, Polyimines",train
+P462180,Polyimines,train
+P462313,Polyimines,train
+P462369,Polyimines,train
+P462379,Polyimines,train
+P470013,Polysiloxanes/silanes,train
+P470014,Polysiloxanes/silanes,train
+P470015,Polysiloxanes/silanes,train
+P470016,Polysiloxanes/silanes,train
+P470017,Polysiloxanes/silanes,train
+P470018,Polysiloxanes/silanes,train
+P470019,Polysiloxanes/silanes,train
+P470020,Polysiloxanes/silanes,train
+P470021,Polysiloxanes/silanes,train
+P470022,Polysiloxanes/silanes,test
+P470041,Polysiloxanes/silanes,train
+P470042,Polysiloxanes/silanes,test
+P470043,Polysiloxanes/silanes,train
+P470044,Polysiloxanes/silanes,train
+P470046,Polysiloxanes/silanes,train
+P470058,Polysiloxanes/silanes,test
+P470059,Polysiloxanes/silanes,train
+P470115,Polysiloxanes/silanes,train
+P470130,Polysiloxanes/silanes,train
+P470138,Polysiloxanes/silanes,train
+P470143,Polysiloxanes/silanes,train
+P472001,Polysiloxanes/silanes,train
+P472310,Polysiloxanes/silanes,train
+P472312,Polysiloxanes/silanes,train
+P490004,	Polyketones/thioketones,train
+P490005,	Polyketones/thioketones,train
+P490006,	Polyketones/thioketones,train
+P490007,	Polyketones/thioketones,test
+P500015,Polysulfones/sulfoxides/sufonates/sulfoamides,train
+P500023,Polysulfones/sulfoxides/sufonates/sulfoamides,test
+P502001,Polysulfones/sulfoxides/sufonates/sulfoamides,test
+P502017,Polysulfones/sulfoxides/sufonates/sulfoamides,test
+P510005,Polyphenylenes,train
+P510041,Polyphenylenes,train
+P512008,Polyphenylenes,train
+P512029,Polyphenylenes,train
+P512056,Polyphenylenes,test
+P512057,Polyphenylenes,test
+P512098,Polyphenylenes,train
+P512099,Polyphenylenes,test
+P512169,Polyphenylenes,train
+P512173,Polyphenylenes,train
+P520001,Other polymers,train
+P520022,Other polymers,test
+P520023,Other polymers,test
+P520024,Other polymers,train
+P520025,Other polymers,train
+P520026,Other polymers,train
+P520027,Other polymers,train

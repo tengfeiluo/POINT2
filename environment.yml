@@ -1,0 +1,24 @@
+# Platform-neutral environment for POINT2 (CPU models: QRF, MLP-D; RDKit fingerprints; SHAP).
+# For the graph models (GNN, GREA) add the GPU stack in requirements-gpu.txt after creating this env.
+name: point2
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+      - numpy<2
+      - pandas==2.2.3
+      - scipy
+      - scikit-learn==1.5.1
+      - rdkit
+      - quantile-forest
+      - tensorflow-cpu==2.17.0
+      - tensorflow-probability==0.24.0
+      - shap
+      - matplotlib
+      - joblib==1.3.2
+      - optuna
+      - tqdm
+      - tpot==0.12.2
+      - openai

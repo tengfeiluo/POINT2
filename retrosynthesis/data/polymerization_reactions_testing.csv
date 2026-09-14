@@ -1,0 +1,389 @@
+PID,CID1,CID2,Type,SMILES_CID1,SMILES_CID2,SMILES,Polymer Class
+P430109,25689,102401581,Polycondensation,C1=CC(=CC=C1N)OC2=CC=C(C=C2)S(=O)(=O)C3=CC=C(C=C3)OC4=CC=C(C=C4)N,C1=CC(=C2C(=C1)C(=O)N(C2=O)C3=CC=C(C=C3)C(=O)Cl)C4=CC5=C(C=C4)C(=O)N(C5=O)C6=CC=C(C=C6)C(=O)Cl,*c1ccc(C(=O)Nc2ccc(Oc3ccc(S(=O)(=O)c4ccc(Oc5ccc(NC(=O)c6ccc(N7C(=O)c8ccc(-c9cccc%10c9C(=O)N(*)C%10=O)cc8C7=O)cc6)cc5)cc4)cc3)cc2)cc1,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyamides/thioamides, Polysulfones/sulfoxides/sufonates/sulfoamides"
+P090251,196,4134690,Polycondensation,C(CCC(=O)O)CC(=O)O,C(CCCCCCCCCCO)CCCCCCCCCO,*CCCCCCCCCCCCCCCCCCCCOC(=O)CCCCC(=O)O*,Polyesters/thioesters
+P090251,12329,4134690,Polycondensation,COC(=O)CCCCC(=O)OC,C(CCCCCCCCCCO)CCCCCCCCCO,*CCCCCCCCCCCCCCCCCCCCOC(=O)CCCCC(=O)O*,Polyesters/thioesters
+P100753,273,15651833,Polycondensation,C(CCN)CCN,CCCCCCCCCCCCC(C(=O)OC1=CC=CC=C1)C(=O)OC2=CC=CC=C2,*CCCCCNC(=O)C(CCCCCCCCCCCC)C(=O)N*,Polyamides/thioamides
+P150130,785,102274575,Polycondensation,C1=CC(=CC=C1O)O,CC1=C(C=CC(=C1)OC(=O)OC2=CC=CC=C2)OC(=O)OC3=CC=CC=C3,*Oc1ccc(OC(=O)Oc2ccc(OC(*)=O)cc2)cc1C,Polycarbonates/thiocarbonates
+P432419,1317,67191,Polycondensation,C(CCCCCN)CCCCN,C1=CC2=C3C(=CC=C4C3=C1C5=C6C4=CC=C7C6=C(C=C5)C(=O)OC7=O)C(=O)OC2=O,*CCCCCCCCCCn1c(=O)c2ccc3c4ccc5c(=O)n(*)c(=O)c6ccc(c7ccc(c1=O)c2c37)c4c56,Polyimides/thioimides
+P100704,1317,6955,Polycondensation,C(CCCCCN)CCCCN,C1=CC=C(C(=C1)C(=O)Cl)C(=O)Cl,*CCCCCCCCCCNC(=O)c1ccccc1C(=O)N*,Polyamides/thioamides
+P370037,2286,69150,Polyaddition,CC(C)(C1=CC=C(C=C1)OCC2CO2)C3=CC=C(C=C3)OCC4CO4,C1=CC(=CC=C1C(=O)C2=CC=C(C=C2)O)O,*CC(O)COc1ccc(C(=O)c2ccc(OCC(O)COc3ccc(C(C)(C)c4ccc(O*)cc4)cc3)cc2)cc1,"Polyoxides/ethers/acetals, Polyketones/thioketones"
+P500011,3301,21255763,Polycondensation,C(CN)N,C1=CC(=CC=C1S(=O)(=O)Cl)S(=O)(=O)Cl,*c1ccc(S(=O)(=O)NCCNS(*)(=O)=O)cc1,Polysulfones/sulfoxides/sufonates/sulfoamides
+P462418,3301,0,Polycondensation,C(CN)N,,*c1ccc(C(=O)CNCCNCC(=O)c2ccc(S(*)(=O)=O)cc2)cc1,"Polyimines, Polyketones/thioketones, Polysulfones/sulfoxides/sufonates/sulfoamides"
+P370018,4837,101052370,Polycondensation,C1CNCCN1,O=C(Cl)OC1CC2CC(OC(=O)Cl)CC(C1)O2,*C(=O)OC1CC2CC(OC(=O)N3CCN(*)CC3)CC(C1)O2,"Polyoxides/ethers/acetals, Polyurethanes/thiourethanes"
+P090595,5192,11162,Polycondensation,C(CCCCC(=O)O)CCCC(=O)O,C1CC(CCC1O)O,*OC1CCC(OC(=O)CCCCCCCCC(*)=O)CC1,Polyesters/thioesters
+P090595,66072,11162,Polycondensation,C(CCCCC(=O)Cl)CCCC(=O)Cl,C1CC(CCC1O)O,*OC1CCC(OC(=O)CCCCCCCCC(*)=O)CC1,Polyesters/thioesters
+P090020,5192,174,Polycondensation,C(CCCCC(=O)O)CCCC(=O)O,C(CO)O,*CCOC(=O)CCCCCCCCC(=O)O*,Polyesters/thioesters
+P090020,7829,174,Polycondensation,COC(=O)CCCCCCCCC(=O)OC,C(CO)O,*CCOC(=O)CCCCCCCCC(=O)O*,Polyesters/thioesters
+P090020,8049,8064,Polycondensation,CCOC(=O)CCCCCCCCC(=O)OCC,C(CCO)CO,*CCOC(=O)CCCCCCCCC(=O)O*,Polyesters/thioesters
+P090020,74639,174,Ring_opening_polymerization/Polymer_reaction,C(CCCCC#N)CCCC#N,C(CO)O,*CCOC(=O)CCCCCCCCC(=O)O*,Polyesters/thioesters
+P372522,6550,73864,Polycondensation,C1C(CO1)(CCl)CCl,C1=CC(=CC=C1C(C2=CC=C(C=C2)O)(C(F)(F)F)C(F)(F)F)O,*COc1ccc(C(c2ccc(OCC3(*)COC3)cc2)(C(F)(F)F)C(F)(F)F)cc1,Polyoxides/ethers/acetals
+P100582,6567,224167,Polycondensation,CC(CN)N,C1=CC(=CC=C1C(=O)O)S(=O)(=O)C2=CC=C(C=C2)C(=O)O,*c1ccc(C(=O)NCC(C)NC(=O)c2ccc(S(*)(=O)=O)cc2)cc1,"Polyamides/thioamides, Polysulfones/sulfoxides/sufonates/sulfoamides"
+P373683,6620,102299932,Polycondensation,CC1=C(C=CC(=C1)C(C)(C)C2=CC(=C(C=C2)O)C)O,CN1CCN(CC1)C2=NC(=NC(=N2)OC3=CC4=C(C=C3)C=C(C=C4)C(=O)Cl)OC5=CC6=C(C=C5)C=C(C=C6)C(=O)Cl,*Oc1ccc2cc(C(=O)Oc3ccc(C(C)(C)c4ccc(OC(=O)c5ccc6cc(Oc7nc(*)nc(N8CCN(C)CC8)n7)ccc6c5)c(C)c4)cc3C)ccc2c1,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines"
+P070459,6623,75608,Polycondensation,CC(C)(C1=CC=C(C=C1)O)C2=CC=C(C=C2)O,C1=CC(=CC=C1C2=NN=C(O2)C3=CC=C(C=C3)Cl)Cl,*c1ccc(Oc2ccc(C(C)(C)c3ccc(Oc4ccc(-c5nnc(*)o5)cc4)cc3)cc2)cc1,"Polyoxides/ethers/acetals, Polyimines"
+P150011,6623,74843,Polycondensation,CC(C)(C1=CC=C(C=C1)O)C2=CC=C(C=C2)O,CC(C)(C1=CC=C(C=C1)OC(=O)Cl)C2=CC=C(C=C2)OC(=O)Cl,*Oc1ccc(C(C)(C)c2ccc(OC(*)=O)cc2)cc1,Polycarbonates/thiocarbonates
+P150011,6623,6371,Polycondensation,CC(C)(C1=CC=C(C=C1)O)C2=CC=C(C=C2)O,C(=O)(Cl)Cl,*Oc1ccc(C(C)(C)c2ccc(OC(*)=O)cc2)cc1,Polycarbonates/thiocarbonates
+P150011,6623,10426,Polycondensation,CC(C)(C1=CC=C(C=C1)O)C2=CC=C(C=C2)O,C(=O)(OC(Cl)(Cl)Cl)Cl,*Oc1ccc(C(C)(C)c2ccc(OC(*)=O)cc2)cc1,Polycarbonates/thiocarbonates
+P370596,6623,22023798,Polycondensation,CC(C)(C1=CC=C(C=C1)O)C2=CC=C(C=C2)O,C1=CC(=CC(=C1)C(=O)C2=CC=C(C=C2)Cl)C(=O)C3=CC=C(C=C3)Cl,*Oc1ccc(C(C)(C)c2ccc(Oc3ccc(C(=O)c4cccc(C(=O)c5ccc(*)cc5)c4)cc3)cc2)cc1,"Polyoxides/ethers/acetals, Polyketones/thioketones"
+P373414,6623,101523292,Polycondensation,CC(C)(C1=CC=C(C=C1)O)C2=CC=C(C=C2)O,C1=CC(=C(C(=C1)F)C(=O)OC2=CC=C(C=C2)N=NC3=CC=C(C=C3)C#N)F,*Oc1cc(Oc2ccc(C(C)(C)c3ccc(*)cc3)cc2)cc(C(=O)Oc2ccc(/N=N/c3ccc(C#N)cc3)cc2)c1,Polyoxides/ethers/acetals
+P520018,6905,10932564,Polycondensation,C1(=C(C(=C(C(=C1Br)Br)Br)Br)Br)Br,[Na][Se][Se][Na],*[Se][Se]c1c(Br)c(Br)c(*)c(Br)c1Br,Other polymers
+P433621,6966,10987793,Polycondensation,C1=C2C(=CC3=C1C(=O)OC3=O)C(=O)OC2=O,CC(C1=CC=C(O1)CN)C2=CC=C(O2)CN,*Cc1ccc(C(C)c2ccc(Cn3c(=O)c4cc5c(=O)n(*)c(=O)c5cc4c3=O)o2)o1,"Polyimides/thioimides, Polyoxides/ethers/acetals"
+P433445,6966,24260,Polycondensation,C1=C2C(=CC3=C1C(=O)OC3=O)C(=O)OC2=O,Nc1ccc(-c2nc3cc(N)ccc3[nH]2)cc1,*c1ccc(-c2nc3cc(-n4c(=O)c5cc6c(=O)n(*)c(=O)c6cc5c4=O)ccc3[nH]2)cc1,"Polyimides/thioimides, Polyimines"
+P130064,6966,7111,Polycondensation,C1=C2C(=CC3=C1C(=O)OC3=O)C(=O)OC2=O,C1=CC(=CC=C1C2=CC=C(C=C2)N)N,*c1ccc(-c2ccc(-n3c(=O)c4cc5c(=O)n(*)c(=O)c5cc4c3=O)cc2)cc1,Polyimides/thioimides
+P460155,7111,85603485,Polycondensation,C1=CC(=CC=C1C2=CC=C(C=C2)N)N,CCCCCCCCCCCCCCCCCCOC1=CC(=C(C=C1C=O)OCCCCCCCCCCCCCCCCCC)C=O,*=Cc1cc(OCCCCCCCCCCCCCCCCCC)c(/C=N/c2ccc(-c3ccc(N=*)cc3)cc2)cc1OCCCCCCCCCCCCCCCCCC,Polyimines
+P430169,7112,102076477,Polycondensation,C1=CC(=CC=C1C2=CC=C(C=C2)O)O,C1=CC(=CC=C1C(=O)C2=CC3=C(C=C2)C(=O)N(C3=O)C4=CC=C(C=C4)N5C(=O)C6=C(C5=O)C=C(C=C6)C(=O)C7=CC=C(C=C7)F)F,*C(=O)c1ccc(Oc2ccc(-c3ccc(Oc4ccc(C(=O)c5ccc6c(c5)C(=O)N(c5ccc(N7C(=O)c8ccc(*)cc8C7=O)cc5)C6=O)cc4)cc3)cc2)cc1,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyketones/thioketones"
+P392441,7112,100949336,Polycondensation,C1=CC(=CC=C1C2=CC=C(C=C2)O)O,CCCCCCCCCCOC(=O)C1=CC(=C(C=C1C(=O)O)C(=O)OCCCCCCCCCC)C(=O)O,*Oc1ccc(-c2ccc(OC(=O)c3cc(C(=O)OCCCCCCCCCC)c(C(*)=O)cc3C(=O)OCCCCCCCCCC)cc2)cc1,Polyesters/thioesters
+P370062,7451,19431850,Polycondensation,C1=CC(=CC(=C1)C(=O)Cl)C(=O)Cl,COC1=C(C=CC(=C1)C(=O)O)OCCOC2=C(C=C(C=C2)C(=O)O)OC,*CCOc1ccc(C(=O)OC(=O)c2cccc(C(=O)OC(=O)c3ccc(O*)c(OC)c3)c2)cc1OC,"Polyoxides/ethers/acetals, Polyanhydrides/thioanhydrides"
+P390142,7451,71813,Polycondensation,C1=CC(=CC(=C1)C(=O)Cl)C(=O)Cl,C(C(CO)(CCl)CCl)O,*CC(CCl)(CCl)COC(=O)c1cccc(C(=O)O*)c1,Polyesters/thioesters
+P090027,7488,13739,Polycondensation/Polymer_reaction,C1=CC(=CC=C1C(=O)Cl)C(=O)Cl,C1=CC(=CC=C1C(=O)OCCO)C(=O)OCCO,*CCOC(=O)c1ccc(C(=O)O*)cc1,Polyesters/thioesters
+P090027,8441,174,Polycondensation,COC(=O)C1=CC=C(C=C1)C(=O)OC,C(CO)O,*CCOC(=O)c1ccc(C(=O)O*)cc1,Polyesters/thioesters
+P090027,7489,174,Polycondensation,C1=CC(=CC=C1C(=O)O)C(=O)O,C(CO)O,*CCOC(=O)c1ccc(C(=O)O*)cc1,Polyesters/thioesters
+P090027,7488,13739,Polycondensation/Polymer_reaction,C1=CC(=CC=C1C(=O)Cl)C(=O)Cl,C1=CC(=CC=C1C(=O)OCCO)C(=O)OCCO,*CCOC(=O)c1ccc(C(=O)O*)cc1,Polyesters/thioesters
+P090033,7488,37153,Polycondensation,C1=CC(=CC=C1C(=O)Cl)C(=O)Cl,C(CCCCCO)CCCCO,*CCCCCCCCCCOC(=O)c1ccc(C(=O)O*)cc1,Polyesters/thioesters
+P090033,8441,37153,Polycondensation,COC(=O)C1=CC=C(C=C1)C(=O)OC,C(CCCCCO)CCCCO,*CCCCCCCCCCOC(=O)c1ccc(C(=O)O*)cc1,Polyesters/thioesters
+P372380,7488,101039602,Polycondensation,C1=CC(=CC=C1C(=O)Cl)C(=O)Cl,C1=CC=C(C=C1)C2=CC(=CC(=C2C3=CC=C(C=C3)N)C4=CC=CC=C4)C5=CC=C(C=C5)OCCCCCCOC6=CC=C(C=C6)C7=CC(=C(C(=C7)C8=CC=CC=C8)C9=CC=C(C=C9)N)C1=CC=CC=C1,*CCCCCCOc1ccc(-c2cc(-c3ccccc3)c(-c3ccc(NC(=O)c4ccc(C(=O)Nc5ccc(-c6c(-c7ccccc7)cc(-c7ccc(O*)cc7)cc6-c6ccccc6)cc5)cc4)cc3)c(-c3ccccc3)c2)cc1,"Polyoxides/ethers/acetals, Polyamides/thioamides"
+P402074,7488,101940003,Polycondensation,C1=CC(=CC=C1C(=O)Cl)C(=O)Cl,C1=CC=C(C=C1)C2=CC=C(C=C2)C3=CC(=CC(=C3C4=CC=C(C=C4)N)C5=CC=C(C=C5)C6=CC=CC=C6)C7=CC=C(C=C7)C8=CC(=C(C(=C8)C9=CC=C(C=C9)C1=CC=CC=C1)C1=CC=C(C=C1)N)C1=CC=C(C=C1)C1=CC=CC=C1,*Nc1ccc(-c2c(-c3ccc(-c4ccccc4)cc3)cc(-c3ccc(-c4cc(-c5ccc(-c6ccccc6)cc5)c(-c5ccc(NC(=O)c6ccc(C(*)=O)cc6)cc5)c(-c5ccc(-c6ccccc6)cc5)c4)cc3)cc2-c2ccc(-c3ccccc3)cc2)cc1,Polyamides/thioamides
+P373759,7488,0,Polycondensation,C1=CC(=CC=C1C(=O)Cl)C(=O)Cl,,*=Cc1ccc(C(=O)c2ccc(C(=O)c3ccc(/C=C4\CN(C)CC(=*)C4=O)o3)cc2)o1,"Polyoxides/ethers/acetals, Polyimines, Polyketones/thioketones"
+P392252,7488,299571,Polycondensation,C1=CC(=CC=C1C(=O)Cl)C(=O)Cl,CC(C#CC#CC(C)O)O,*OC(C)C#CC#CC(C)OC(=O)c1ccc(C(*)=O)cc1,Polyesters/thioesters
+P450033,7577,101717406,Polycondensation,C1=CC(=CC=C1CC2=CC=C(C=C2)N)N,C(CCCOC(=O)SCl)CCOC(=O)SCl,*CCCCCCOC(=O)SNc1ccc(Cc2ccc(NSC(=O)O*)cc2)cc1,"Polycarbonates/thiocarbonates, Polyimines"
+P433040,7577,101490691,Polycondensation,C1=CC(=CC=C1CC2=CC=C(C=C2)N)N,C1=CC=C(C=C1)P(=O)(C2=CC=CC(=C2)N3C(=O)C4=C(C3=O)C=C(C=C4)C(=O)O)C5=CC=CC(=C5)N6C(=O)C7=C(C6=O)C=C(C=C7)C(=O)O,*C(=O)Nc1ccc(Cc2ccc(NC(=O)c3ccc4c(c3)C(=O)N(c3cccc(P(=O)(c5ccccc5)c5cccc(N6C(=O)c7ccc(*)cc7C6=O)c5)c3)C4=O)cc2)cc1,"Polyimides/thioimides, Polyamides/thioamides"
+P130166,75498,7577,Polycondensation,C1=CC2=C(C=C1C(=O)C3=CC4=C(C=C3)C(=O)OC4=O)C(=O)OC2=O,C1=CC(=CC=C1CC2=CC=C(C=C2)N)N,*C(=O)c1ccc2c(c1)C(=O)N(c1ccc(Cc3ccc(N4C(=O)c5ccc(*)cc5C4=O)cc3)cc1)C2=O,"Polyimides/thioimides, Polyketones/thioketones"
+P432225,7577,102249732,Polyaddition/Polymer_reaction,C1=CC(=CC=C1CC2=CC=C(C=C2)N)N,C1=CC=C(C(=C1)CCC2=CC=C(C=C2)N=C=O)N=C=O,*c1ccc(CCc2ccccc2N2C(=O)C(=O)N(c3ccc(Cc4ccc(N5C(=O)C(=O)N(*)C5=O)cc4)cc3)C2=O)cc1,"Polyimides/thioimides, Polyureas/thioureas"
+P430449,7579,102402494,Polycondensation,C1=CC(=CC=C1N)OC2=CC=C(C=C2)N,C1=CC(=CC2=C1C=CC(=C2)OC3=CC=C(C=C3)N4C(=O)C5=C(C4=O)C=C(C=C5)C(=O)O)OC6=CC=C(C=C6)N7C(=O)C8=C(C7=O)C=C(C=C8)C(=O)O,*C(=O)Nc1ccc(Oc2ccc(NC(=O)c3ccc4c(c3)C(=O)N(c3ccc(Oc5ccc6ccc(Oc7ccc(N8C(=O)c9ccc(*)cc9C8=O)cc7)cc6c5)cc3)C4=O)cc2)cc1,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyamides/thioamides"
+P433336,7579,123414,Polycondensation,C1=CC(=CC=C1N)OC2=CC=C(C=C2)N,C1=CC=C(C=C1)OP(=O)(N=[N+]=[N-])OC2=CC=CC=C2,*c1ccc(Oc2ccc3ccccc3c2-c2c(Oc3ccc(N4C(=O)c5ccc(NC(=O)Nc6ccc(Oc7ccc(NC(=O)Nc8ccc9c(c8)C(=O)N(*)C9=O)cc7)cc6)cc5C4=O)cc3)ccc3ccccc23)cc1,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyureas/thioureas"
+P433690,7579,101952188,Polycondensation,C1=CC(=CC=C1N)OC2=CC=C(C=C2)N,C1=CC=C(C=C1)C2=C(C=CC(=C2)N3C(=O)C4=C(C3=O)C=C(C=C4)C(=O)O)OC5=C(C=C(C=C5)N6C(=O)C7=C(C6=O)C=C(C=C7)C(=O)O)C8=CC=CC=C8,*C(=O)Nc1ccc(Oc2ccc(NC(=O)c3ccc4c(c3)C(=O)N(c3ccc(Oc5ccc(N6C(=O)c7ccc(*)cc7C6=O)cc5-c5ccccc5)c(-c5ccccc5)c3)C4=O)cc2)cc1,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyamides/thioamides"
+P430220,7579,2251397,Polycondensation,C1=CC(=CC=C1N)OC2=CC=C(C=C2)N,C1=CC2=C(C=C1C(=O)C3=CC4=C(C=C3)C(=O)N(C4=O)CCC(=O)O)C(=O)N(C2=O)CCC(=O)O,*CCC(=O)Nc1ccc(Oc2ccc(NC(=O)CCN3C(=O)c4ccc(C(=O)c5ccc6c(c5)C(=O)N(*)C6=O)cc4C3=O)cc2)cc1,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyamides/thioamides, Polyketones/thioketones"
+P074436,7814,101996856,Polycondensation,C1=CC(=CC=C1N)N,CC(C)(C1=CC=C(C=C1)C(C)(C)C2=CC=C(C=C2)OC3=CC=C(C=C3)C(=O)O)C4=CC=C(C=C4)OC5=CC=C(C=C5)C(=O)O,*Oc1ccc(C(C)(C)c2ccc(C(C)(C)c3ccc(Oc4ccc(C(=O)Nc5ccc(NC(=O)c6ccc(*)cc6)cc5)cc4)cc3)cc2)cc1,"Polyoxides/ethers/acetals, Polyamides/thioamides"
+P030024,7904,0,Addition_polymerization,CC(=O)OC=C,,*CC(*)OC(C)=O,Polyvinyls
+P430334,7904,86926,Addition_polymerization,CC(=O)OC=C,C1=CC(=CC(=C1)N2C(=O)C=CC2=O)C(=O)O,*CC(OC(C)=O)C1C(=O)N(c2cccc(C(=O)O)c2)C(=O)C1*,Polyimides/thioimides
+P440010,7992,13010,Addition_polymerization,CC(C)COC=C,CC1=C(C(=O)OC1=O)C,*CC(OCC(C)C)C1(C)C(=O)OC(=O)C1(*)C,Polyanhydrides/thioanhydrides
+P372048,8096,62551,Polycondensation,C(CSCCC(=O)O)C(=O)O,C(COCCOCCOCCOCCO)O,*CCOCCOCCOCCOCCOC(=O)CCSCCC(=O)O*,"Polyoxides/ethers/acetals, Polysulfides, Polyesters/thioesters"
+P440007,8108,7923,Addition_polymerization,CCCCOC=C,C1=CC(=O)OC1=O,*CC(OCCCC)C1C(=O)OC(=O)C1*,Polyanhydrides/thioanhydrides
+P372173,8200,11004750,Polycondensation,C(COCCOCCOCCO)O,C1=CC(=CC=C1C(=O)OC2=CC=C(C=C2)C(=O)Cl)C(=O)OC3=CC=C(C=C3)C(=O)Cl,*Oc1ccc(C(=O)OCCOCCOCCOCCOC(=O)c2ccc(OC(=O)c3ccc(C(*)=O)cc3)cc2)cc1,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P430213,8255,236791,Addition_polymerization,CC(=C)C,CC1=C(C(=CC=C1)C)N2C(=O)C=CC2=O,*CC(C)(C)C1C(=O)N(c2c(C)cccc2C)C(=O)C1*,Polyimides/thioimides
+P370309,8441,32881,Polycondensation,COC(=O)C1=CC=C(C=C1)C(=O)OC,CC(CO)OCC(C)O,*OC(C)COC(C)COC(=O)c1ccc(C(*)=O)cc1,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P090267,8441,4134690,Polycondensation,COC(=O)C1=CC=C(C=C1)C(=O)OC,C(CCCCCCCCCCO)CCCCCCCCCO,*CCCCCCCCCCCCCCCCCCCCOC(=O)c1ccc(C(=O)O*)cc1,Polyesters/thioesters
+P462220,8513,24007,Polycondensation,C1=CC2=C(C(=C1)N)C(=O)C3=C(C2=O)C(=CC=C3)N,O=[Se]=O,*Nc1cccc2c1C(=O)c1cccc(N[Se]*)c1C2=O,"Polyimines, Polyketones/thioketones"
+P090474,8554,7896,Polycondensation,COC(=O)C1=CC=CC=C1C(=O)OC,CC(CCO)O,*OC(C)CCOC(=O)c1ccccc1C(*)=O,Polyesters/thioesters
+P460175,9321,7860,Polycondensation,NN,C(=O)C=O,*=C/C=N/N=*,Polyimines
+P373771,9582,20449551,Polycondensation,C1=CC(=CC=C1C(=O)C2=CC=C(C=C2)F)F,C1CCC2CC(CCC2C1)(C3=CC=C(C=C3)O)C4=CC=C(C=C4)O,*Oc1ccc(C2(c3ccc(Oc4ccc(C(=O)c5ccc(*)cc5)cc4)cc3)CCC3CCCCC3C2)cc1,"Polyoxides/ethers/acetals, Polyketones/thioketones"
+P430204,10935,7501,Addition_polymerization,C1=CC(=O)NC1=O,C=CC1=CC=CC=C1,*CC(c1ccccc1)C1C(=O)NC(=O)C1*,Polyimides/thioimides
+P402342,11443,101460348,Polycondensation,CC1=C(C=C(C=C1)N=C=O)N=C=O,CCC(C)C(C(=O)NC1=CC(=CC(=C1)C(=O)O)C(=O)O)N2C(=O)C3=CC=CC=C3C2=O,*Nc1cc(NC(=O)c2cc(NC(=O)C(C(C)CC)N3C(=O)c4ccccc4C3=O)cc(C(*)=O)c2)ccc1C,Polyamides/thioamides
+P090160,11443,20325704,Polyaddition,CC1=C(C=C(C=C1)N=C=O)N=C=O,C(CCOC(=O)CS)CCOC(=O)CS,*CCCCCOC(=O)CSC(=O)Nc1ccc(C)c(NC(=O)SCC(=O)O*)c1,"Polyesters/thioesters, Polyurethanes/thiourethanes"
+P380015,11598,101059138,Polyaddition,C=CCCC=C,C1=CC(=CC=C1CCS)CC2=CC=C(C=C2)CCS,*CCCCCCSCCc1ccc(Cc2ccc(CCS*)cc2)cc1,Polysulfides
+P090302,12374,5214895,Polycondensation,C(CCCO)CCO,C1=CC(=CC(=C1)N=C=O)C(=O)Cl,*CCCCCCOC(=O)c1cccc(NC(=O)O*)c1,"Polyesters/thioesters, Polyurethanes/thiourethanes"
+P392396,12736,79758,Polycondensation,C(CCCCCC(=O)O)CCCCC(=O)O,C(CCCCCCO)CCCCCO,*CCCCCCCCCCCCOC(=O)CCCCCCCCCCC(=O)O*,Polyesters/thioesters
+P310001,12757,0,Addition_polymerization,C=CC1CCCCC1,,*CCC1(*)CCCCC1,Polyolefins
+P010028,13033,0,Addition_polymerization,C=CCCC1=CC=CC=C1,,*CC(*)CCc1ccccc1,Polyvinyls
+P090465,13099,7896,Polycondensation,COC(=O)C1=CC=C(C=C1)C2=CC=C(C=C2)C(=O)OC,CC(CCO)O,*OC(C)CCOC(=O)c1ccc(-c2ccc(C(*)=O)cc2)cc1,Polyesters/thioesters
+P433550,13192,101512458,Polyaddition,C(CCCN=C=O)CCN=C=O,CC(C)CC(C(=O)NC1=CC=C(C=C1)OC2=CC=C(C=C2)N)N3C(=O)C4=CC5=C(C=C4C3=O)C(=O)N(C5=O)C(CC(C)C)C(=O)NC6=CC=C(C=C6)OC7=CC=C(C=C7)N,*C(CC(C)C)C(=O)Nc1ccc(Oc2ccc(NC(=O)NCCCCCCNC(=O)Nc3ccc(Oc4ccc(NC(=O)C(CC(C)C)n5c(=O)c6cc7c(=O)n(*)c(=O)c7cc6c5=O)cc4)cc3)cc2)cc1,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyamides/thioamides, Polyureas/thioureas"
+P442009,13557,7923,Addition_polymerization,CC(C)OC=C,C1=CC(=O)OC1=O,*CC(OC(C)C)C1C(=O)OC(=O)C1*,Polyanhydrides/thioanhydrides
+P373188,14106,3764404,Polycondensation,C1CC(CCC1C(=O)O)C(=O)O,C1=CC=C2C(=C1)C3=CC=CC=C3C2(C4=CC=C(C=C4)OCCO)C5=CC=C(C=C5)OCCO,*CCOC(=O)C1CCC(C(=O)OCCOc2ccc(C3(c4ccc(O*)cc4)c4ccccc4-c4ccccc43)cc2)CC1,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P372870,15088,102303139,Polycondensation,COC(=O)C1=CC(=CC=C1)C(=O)OC,C1=CC(=CC(=C1)OCCCCCCCCCCCO)C2=NN=C(S2)C3=CC(=CC=C3)OCCCCCCCCCCCO,*c1cccc(OCCCCCCCCCCCOC(=O)c2cccc(C(=O)OCCCCCCCCCCCOc3cccc(-c4nnc(*)s4)c3)c2)c1,"Polyoxides/ethers/acetals, Polysulfides, Polyesters/thioesters, Polyimines"
+P330081,631725,0,Addition_polymerization/Polymer_reaction,C=CN1C2=C(C=C(C=C2)Br)C3=C1C=CC(=C3)Br,,*CC(*)n1c2ccc(Br)cc2c2cc(Br)ccc21,Polyvinyls
+P370221,15903,0,Ring_opening_polymerization,C1C(O1)CCC2CO2,,*COC1CCC(*)OC1,Polyoxides/ethers/acetals
+P370083,16402,54238812,Polycondensation,C(CCCN)CCN,C(CCCOCCCCC(=O)O)CCC(=O)O,*CCCCCCC(=O)NCCCCCCNC(=O)CCCCO*,"Polyoxides/ethers/acetals, Polyamides/thioamides"
+P100522,16402,54337306,Polycondensation,C(CCCN)CCN,C(CCCCCOCCCC(=O)O)CCCCC(=O)O,*CCCCCCCCCCC(=O)NCCCCCCNC(=O)CCCO*,"Polyoxides/ethers/acetals, Polyamides/thioamides"
+P100080,16402,12292,Polycondensation,C(CCCN)CCN,CC(CCC(=O)O)CC(=O)O,*CCCCCCNC(=O)CCC(C)CC(=O)N*,Polyamides/thioamides
+P100464,16402,79549,Polycondensation,C(CCCN)CCN,COC(=O)C1=NC(=CC=C1)C(=O)OC,*C(=O)NCCCCCCNC(=O)c1cccc(*)n1,"Polyamides/thioamides, Polyimines"
+P100464,16402,77335,Polycondensation,C(CCCN)CCN,C1=CC(=NC(=C1)C(=O)Cl)C(=O)Cl,*C(=O)NCCCCCCNC(=O)c1cccc(*)n1,"Polyamides/thioamides, Polyimines"
+P400183,16402,342156,Polycondensation,C(CCCN)CCN,C1=CC=C(C=C1)P(CCC#N)CCC#N,*CCCCCCNC(=O)CCP(CCC(=O)N*)c1ccccc1,Polyamides/thioamides
+P460320,16720,606648,Polycondensation,C1=CC2=C(C=CC=C2N)C(=C1)N,COC1=CC(=C(C=C1C=O)OC)C=O,*=Cc1cc(OC)c(/C=N/c2cccc3c(N=*)cccc23)cc1OC,Polyimines
+P433664,16720,101584336,Polycondensation,C1=CC2=C(C=CC=C2N)C(=C1)N,C1=CC=NC(=C1)C2=NN=C(O2)C3=CC(=CC(=C3)N4C(=O)C5=C(C4=O)C=C(C=C5)C(=O)O)N6C(=O)C7=C(C6=O)C=C(C=C7)C(=O)O,*C(=O)Nc1cccc2c(NC(=O)c3ccc4c(c3)C(=O)N(c3cc(-c5nnc(-c6ccccn6)o5)cc(N5C(=O)c6ccc(*)cc6C5=O)c3)C4=O)cccc12,"Polyimides/thioimides, Polyamides/thioamides"
+P433453,20113,101490693,Polycondensation,CC(C)(C1=CC(=C(C(=C1)Br)OCCO)Br)C2=CC(=C(C(=C2)Br)OCCO)Br,C1=CC=C(C=C1)P(=O)(C2=CC=CC(=C2)N3C(=O)C4=C(C3=O)C=C(C=C4)C(=O)N=[N+]=[N-])C5=CC=CC(=C5)N6C(=O)C7=C(C6=O)C=C(C=C7)C(=O)N=[N+]=[N-],*c1cccc(P(=O)(c2ccccc2)c2cccc(N3C(=O)c4ccc(NC(=O)OCCOc5c(Br)cc(C(C)(C)c6cc(Br)c(OCCOC(=O)Nc7ccc8c(c7)C(=O)N(*)C8=O)c(Br)c6)cc5Br)cc4C3=O)c2)c1,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyurethanes/thiourethanes"
+P402192,20571,4246116,Polycondensation,C1=CC=C2C(=C1)C=CC(=C2C3=C(C=CC4=CC=CC=C43)N)N,C1=CC(=CC=C1C(=O)Cl)N=NC2=CC=C(C=C2)C(=O)Cl,*/N=N/c1ccc(C(=O)Nc2ccc3ccccc3c2-c2c(NC(=O)c3ccc(*)cc3)ccc3ccccc23)cc1,"Polyamides/thioamides, Polyimines"
+P402192,20571,4246116,Polycondensation,C1=CC=C2C(=C1)C=CC(=C2C3=C(C=CC4=CC=CC=C43)N)N,C1=CC(=CC=C1C(=O)Cl)N=NC2=CC=C(C=C2)C(=O)Cl,*/N=N/c1ccc(C(=O)Nc2ccc3ccccc3c2-c2c(NC(=O)c3ccc(*)cc3)ccc3ccccc23)cc1,"Polyamides/thioamides, Polyimines"
+P070053,21158,0,Ring_opening_polymerization,CC1C(O1)(C)C,,*OC(C)(C)C(*)C,Polyoxides/ethers/acetals
+P100625,24250,101056016,Polycondensation,C(CCCCN)CCCN,C1C2=CC=CC=C2C(O1)(C3=CC=C(C=C3)C(=O)Cl)C4=CC=C(C=C4)C(=O)Cl,*c1ccc(NC(=O)CCCCCCCCC(=O)Nc2ccc(C3(*)OC(=O)c4ccccc43)cc2)cc1,"Polyesters/thioesters, Polyamides/thioamides"
+P432039,24250,14047395,Polycondensation,C(CCCCN)CCCN,C1=CC(=CC=C1C2=CC3=C(C=C2)C(=O)OC3=O)C4=CC5=C(C=C4)C(=O)OC5=O,*CCCCCCCCN1C(=O)c2ccc(-c3ccc(-c4ccc5c(c4)C(=O)N(*)C5=O)cc3)cc2C1=O,Polyimides/thioimides
+P210035,36155,0,Addition_polymerization,CC1=CC=C(C=C1)S(=O)(=O)OCC#CC#CCOS(=O)(=O)C2=CC=C(C=C2)C,,*=C=C=C(COS(=O)(=O)c1ccc(C)cc1)C(=*)COS(=O)(=O)c1ccc(C)cc1,Polyvinyls
+P512021,66041,10863692,Polycondensation,C=CC1=CC=C(C=C1)C=C,CCCCOC1=CC(=C(C=C1I)OCCCC)I,*/C=C/c1cc(OCCCC)c(/C=C/c2ccc(*)cc2)cc1OCCCC,Polyphenylenes
+P382389,66072,102276557,Polycondensation,C(CCCCC(=O)Cl)CCCC(=O)Cl,C1=CC(=O)C=CC1=CC=C2NNC(=C3C=CC(=O)C=C3)S2,*/C=C/c1ccc(OC(=O)CCCCCCCCC(=O)Oc2ccc(-c3nnc(*)s3)cc2)cc1,"Polysulfides, Polyesters/thioesters, Polyimines"
+P392010,66072,20376577,Polycondensation,C(CCCCC(=O)Cl)CCCC(=O)Cl,C1=CC(=CC=C1C=CC=CC2=CC=C(C=C2)O)O,*Oc1ccc(/C=C/C=C/c2ccc(OC(=O)CCCCCCCCC(*)=O)cc2)cc1,Polyesters/thioesters
+P372374,66072,102243338,Polycondensation,C(CCCCC(=O)Cl)CCCC(=O)Cl,C1=CC=C(C=C1)CC(C(=O)NCC(=O)NCCCOCCOCCOCCCNC(=O)CNC(=O)C(CC2=CC=CC=C2)N)N,*CCCNC(=O)CNC(=O)C(Cc1ccccc1)NC(=O)CCCCCCCCC(=O)NC(Cc1ccccc1)C(=O)NCC(=O)NCCCOCCOCCO*,"Polyoxides/ethers/acetals, Polyamides/thioamides"
+P402356,66859,1211926,Polycondensation,C1=CC(=CC(=C1)N)C(=O)NC2=CC=CC(=C2)N,C1=CC(=CC(=C1)C2=NC3=C(N2)C=C(C=C3)C(=O)O)C4=NC5=C(N4)C=C(C=C5)C(=O)O,*C(=O)Nc1cccc(C(=O)Nc2cccc(NC(=O)c3ccc4[nH]c(-c5cccc(-c6nc7cc(*)ccc7[nH]6)c5)nc4c3)c2)c1,"Polyamides/thioamides, Polyimines"
+P050019,67727,0,Addition_polymerization,C=CC(C(C(F)(F)F)(F)F)(F)F,,*CC(*)C(F)(F)C(F)(F)C(F)(F)F,Polyhalo-olefins
+P100634,68183,101056016,Polycondensation,C1=CC=C2C(=C1)C(=O)OC2(C3=CC=C(C=C3)N)C4=CC=C(C=C4)N,C1C2=CC=CC=C2C(O1)(C3=CC=C(C=C3)C(=O)Cl)C4=CC=C(C=C4)C(=O)Cl,*c1ccc(NC(=O)c2ccc(C3(c4ccc(C(=O)Nc5ccc(C6(*)OC(=O)c7ccccc76)cc5)cc4)OC(=O)c4ccccc43)cc2)cc1,"Polyesters/thioesters, Polyamides/thioamides"
+P190003,69150,9582,Polycondensation,C1=CC(=CC=C1C(=O)C2=CC=C(C=C2)O)O,C1=CC(=CC=C1C(=O)C2=CC=C(C=C2)F)F,*Oc1ccc(C(=O)c2ccc(*)cc2)cc1,"Polyoxides/ethers/acetals, Polyketones/thioketones"
+P190003,74193,0,Polycondensation,C1=CC=C(C=C1)OC2=CC=C(C=C2)C(=O)Cl,,*Oc1ccc(C(=O)c2ccc(*)cc2)cc1,"Polyoxides/ethers/acetals, Polyketones/thioketones"
+P190003,75182,0,Polycondensation,C1=CC=C(C=C1)OC2=CC=C(C=C2)C(=O)O,,*Oc1ccc(C(=O)c2ccc(*)cc2)cc1,"Polyoxides/ethers/acetals, Polyketones/thioketones"
+P100669,69533,10457,Polycondensation,C(CCCN)CCCN,C(CCCC(=O)O)CCC(=O)O,*CCCCCCCNC(=O)CCCCCCC(=O)N*,Polyamides/thioamides
+P100669,69533,534653,Polycondensation,C(CCCN)CCCN,C(CCCC(=O)Cl)CCC(=O)Cl,*CCCCCCCNC(=O)CCCCCCC(=O)N*,Polyamides/thioamides
+P373752,69558,2058710,Polycondensation,C(=O)C1=C(C(=C(C(=C1F)F)F)F)F,C1=CC=C(C=C1)OC2=CC=C(C=C2)C(=O)C3=CC=C(C=C3)C(=O)C4=CC=C(C=C4)OC5=CC=CC=C5,*Oc1ccc(C(c2ccc(Oc3ccc(C(=O)c4ccc(C(=O)c5ccc(*)cc5)cc4)cc3)cc2)c2c(F)c(F)c(F)c(F)c2F)cc1,"Polyoxides/ethers/acetals, Polyketones/thioketones"
+P433145,70677,102179546,Polycondensation,C1=CC2=C(C=C1C(C3=CC4=C(C=C3)C(=O)OC4=O)(C(F)(F)F)C(F)(F)F)C(=O)OC2=O,C1C2CC3CC1CC(C2)(C3)C4=CC=C(C=C4)OC5=CC=C(C=C5)P(=O)(C6=CC=CC(=C6)N)C7=CC=CC(=C7)N,*c1ccc2c(c1)C(=O)N(c1cccc(P(=O)(c3ccc(Oc4ccc(C56CC7CC(CC(C7)C5)C6)cc4)cc3)c3cccc(N4C(=O)c5ccc(C(*)(C(F)(F)F)C(F)(F)F)cc5C4=O)c3)c1)C2=O,Polyimides/thioimides
+P432475,70677,22020547,Polycondensation,C1=CC2=C(C=C1C(C3=CC4=C(C=C3)C(=O)OC4=O)(C(F)(F)F)C(F)(F)F)C(=O)OC2=O,CC1=CC(=CC(=C1OC2=CC=C(C=C2)N)C)CC3=CC(=C(C(=C3)C)OC4=CC=C(C=C4)N)C,*c1ccc2c(c1)C(=O)N(c1ccc(Oc3c(C)cc(Cc4cc(C)c(Oc5ccc(N6C(=O)c7ccc(C(*)(C(F)(F)F)C(F)(F)F)cc7C6=O)cc5)c(C)c4)cc3C)cc1)C2=O,"Polyimides/thioimides, Polyoxides/ethers/acetals"
+P433256,70677,53401137,Polycondensation,C1=CC2=C(C=C1C(C3=CC4=C(C=C3)C(=O)OC4=O)(C(F)(F)F)C(F)(F)F)C(=O)OC2=O,C1=CC(=CC=C1N)OC2=CC=C(C=C2)OC3=C(C=C(C=C3)N)C(F)(F)F,*c1ccc2c(c1)C(=O)N(c1ccc(Oc3ccc(Oc4ccc(N5C(=O)c6ccc(C(*)(C(F)(F)F)C(F)(F)F)cc6C5=O)cc4)cc3)c(C(F)(F)F)c1)C2=O,"Polyimides/thioimides, Polyoxides/ethers/acetals"
+P432204,70677,102404332,Polycondensation,C1=CC2=C(C=C1C(C3=CC4=C(C=C3)C(=O)OC4=O)(C(F)(F)F)C(F)(F)F)C(=O)OC2=O,C1=CC(=CC=C1N)NC(=O)C(C(C(C(C(=O)NC2=CC=C(C=C2)N)(F)F)(F)F)(F)F)(F)F,*c1ccc2c(c1)C(=O)N(c1ccc(NC(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(=O)Nc3ccc(N4C(=O)c5ccc(C(*)(C(F)(F)F)C(F)(F)F)cc5C4=O)cc3)cc1)C2=O,"Polyimides/thioimides, Polyamides/thioamides"
+P432383,70677,23516473,Polycondensation/Polymer_reaction,C1=CC2=C(C=C1C(C3=CC4=C(C=C3)C(=O)OC4=O)(C(F)(F)F)C(F)(F)F)C(=O)OC2=O,C1=CC(=CC=C1N)OC2=C(C=C(C=C2)N)O,*c1ccc2c(c1)C(=O)N(c1ccc(Oc3ccc(N4C(=O)c5ccc(C(*)(C(F)(F)F)C(F)(F)F)cc5C4=O)cc3)c(OCCN(CC)c3ccc(/N=N/c4ccc([N+](=O)[O-])cc4)cc3)c1)C2=O,"Polyimides/thioimides, Polyoxides/ethers/acetals"
+P433705,70677,765832,Polycondensation,C1=CC2=C(C=C1C(C3=CC4=C(C=C3)C(=O)OC4=O)(C(F)(F)F)C(F)(F)F)C(=O)OC2=O,C1=CC(=CC=C1NC(=S)N)OC2=CC=C(C=C2)NC(=S)N,*C(=S)Nc1ccc(Oc2ccc(NC(=S)N3C(=O)c4ccc(C(c5ccc6c(c5)C(=O)N(*)C6=O)(C(F)(F)F)C(F)(F)F)cc4C3=O)cc2)cc1,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyureas/thioureas"
+P433465,70677,101475503,Polycondensation,C1=CC2=C(C=C1C(C3=CC4=C(C=C3)C(=O)OC4=O)(C(F)(F)F)C(F)(F)F)C(=O)OC2=O,CC1(CC(C2=C1C=CC(=C2)OC3=C(C=C(C=C3)C4=CC=C(C=C4)N)C(F)(F)F)(C)C5=CC=C(C=C5)OC6=C(C=C(C=C6)C7=CC=C(C=C7)N)C(F)(F)F)C,*c1ccc2c(c1)C(=O)N(c1ccc(-c3ccc(Oc4ccc5c(c4)C(C)(c4ccc(Oc6ccc(-c7ccc(N8C(=O)c9ccc(C(*)(C(F)(F)F)C(F)(F)F)cc9C8=O)cc7)cc6C(F)(F)F)cc4)CC5(C)C)c(C(F)(F)F)c3)cc1)C2=O,"Polyimides/thioimides, Polyoxides/ethers/acetals"
+P430494,70677,2955,Polycondensation,C1=CC2=C(C=C1C(C3=CC4=C(C=C3)C(=O)OC4=O)(C(F)(F)F)C(F)(F)F)C(=O)OC2=O,C1=CC(=CC=C1N)S(=O)(=O)C2=CC=C(C=C2)N,*c1ccc2c(c1)C(=O)N(c1ccc(S(=O)(=O)c3ccc(N4C(=O)c5ccc(C(*)(C(F)(F)F)C(F)(F)F)cc5C4=O)cc3)cc1)C2=O,"Polyimides/thioimides, Polysulfones/sulfoxides/sufonates/sulfoamides"
+P402170,21397005,7579,Polyaddition,C1=CC(=C(C=C1C(=O)Cl)C(=O)O)C(=O)Cl,C1=CC(=CC=C1N)OC2=CC=C(C=C2)N,*Nc1ccc(Oc2ccc(NC(=O)c3ccc(C(*)=O)cc3C(=O)O)cc2)cc1,"Polyoxides/ethers/acetals, Polyamides/thioamides"
+P370230,72700,12450688,Polycondensation,C1=CC(=CC(=C1)C(=O)NN)C(=O)NN,C1CC(CCC1C(=O)Cl)C(=O)Cl,*c1nnc(-c2cccc(-c3nnc(C4CCC(*)CC4)o3)c2)o1,"Polyoxides/ethers/acetals, Polyimines"
+P370233,72700,20329703,Polycondensation,C1=CC(=CC(=C1)C(=O)NN)C(=O)NN,C1=CC(=CC(=C1)OCCCCCCCCCCOC2=CC=CC(=C2)C(=O)Cl)C(=O)Cl,*c1cccc(OCCCCCCCCCCOc2cccc(-c3nnc(-c4cccc(-c5nnc(*)o5)c4)o3)c2)c1,"Polyoxides/ethers/acetals, Polyimines"
+P430259,74574,11741,Polyaddition/Polymer_reaction,C1=CC2=C(C=C1OC3=CC4=C(C=C3)C(=O)OC4=O)C(=O)OC2=O,C1=CC(=CC(=C1)S(=O)(=O)C2=CC=CC(=C2)N)N,*c1cccc(S(=O)(=O)c2cccc(N3C(=O)c4ccc(Oc5ccc6c(c5)C(=O)N(*)C6=O)cc4C3=O)c2)c1,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polysulfones/sulfoxides/sufonates/sulfoamides"
+P434192,74574,102218298,Polycondensation,C1=CC2=C(C=C1OC3=CC4=C(C=C3)C(=O)OC4=O)C(=O)OC2=O,C1=CC=C(C=C1)[Si](C2=CC=C(C=C2)N)(C3=CC=C(C=C3)N)O[Si](C4=CC=CC=C4)(C5=CC=C(C=C5)N)C6=CC=C(C=C6)N,*c1ccc(cc1)[Si](c1ccc(cc1)N1C(=O)c2c(C1=O)cc(cc2)Oc1ccc2c(c1)C(=O)N(C2=O)*)(c1ccccc1)O[Si](c1ccc(cc1)N1C(=O)c2c(C1=O)cc(cc2)Oc1ccc2c(c1)C(=O)N(C2=O)*)(c1ccc(cc1)*)c1ccccc1,"Polyimides/thioimides,Polyoxides/ethers/acetals,Polysiloxanes/silanes"
+P500027,75386,241860,Polycondensation,CC1=C(C=CC(=C1)C2(CCCCC2)C3=CC(=C(C=C3)O)C)O,CC1=C(C=C(C=C1)S(=O)(=O)Cl)S(=O)(=O)Cl,*OS(=O)(=O)c1cc(S(=O)(=O)Oc2ccc(C3(c4ccc(*)c(C)c4)CCCCC3)cc2C)ccc1C,Polysulfones/sulfoxides/sufonates/sulfoamides
+P432513,75494,316507,Polycondensation,C1=CC2=C(C=C1C3=CC4=C(C=C3)C(=O)OC4=O)C(=O)OC2=O,C1=CC(=CC(=C1)OCCCCCOC2=CC=CC(=C2)N)N,*c1cccc(OCCCCCOc2cccc(N3C(=O)c4ccc(-c5ccc6c(c5)C(=O)N(*)C6=O)cc4C3=O)c2)c1,"Polyimides/thioimides, Polyoxides/ethers/acetals"
+P430465,75494,2955,Polycondensation,C1=CC2=C(C=C1C3=CC4=C(C=C3)C(=O)OC4=O)C(=O)OC2=O,C1=CC(=CC=C1N)S(=O)(=O)C2=CC=C(C=C2)N,*c1ccc(S(=O)(=O)c2ccc(N3C(=O)c4ccc(-c5ccc6c(c5)C(=O)N(*)C6=O)cc4C3=O)cc2)cc1,"Polyimides/thioimides, Polysulfones/sulfoxides/sufonates/sulfoamides"
+P432563,75494,54098512,Polycondensation,C1=CC2=C(C=C1C3=CC4=C(C=C3)C(=O)OC4=O)C(=O)OC2=O,CCCCCCCCCCNC(=O)C1=CC(=CC(=C1)N)N,*c1cc(C(=O)NCCCCCCCCCC)cc(N2C(=O)c3ccc(-c4ccc5c(c4)C(=O)N(*)C5=O)cc3C2=O)c1,Polyimides/thioimides
+P433307,75494,17834593,Polycondensation,C1=CC2=C(C=C1C3=CC4=C(C=C3)C(=O)OC4=O)C(=O)OC2=O,C1=CC(=C(C(=C1)OC2=CC=C(C=C2)N)C#N)OC3=CC=C(C=C3)N,*c1ccc(Oc2cccc(Oc3ccc(N4C(=O)c5ccc(-c6ccc7c(c6)C(=O)N(*)C7=O)cc5C4=O)cc3)c2C#N)cc1,"Polyimides/thioimides, Polyoxides/ethers/acetals"
+P432754,75494,125103,Polycondensation,C1=CC2=C(C=C1C3=CC4=C(C=C3)C(=O)OC4=O)C(=O)OC2=O,C1=CC=C(C=C1)C2=C(C=CC(=C2)OC3=CC=C(C=C3)N)OC4=CC=C(C=C4)N,*c1ccc(Oc2ccc(Oc3ccc(N4C(=O)c5ccc(-c6ccc7c(c6)C(=O)N(*)C7=O)cc5C4=O)cc3)c(-c3ccccc3)c2)cc1,"Polyimides/thioimides, Polyoxides/ethers/acetals"
+P433412,75494,69917,Polycondensation,C1=CC2=C(C=C1C3=CC4=C(C=C3)C(=O)OC4=O)C(=O)OC2=O,C1=CC(=CC=C1C(=O)NC2=CC=C(C=C2)N)N,*c1ccc(C(=O)Nc2ccc(N3C(=O)c4ccc(-c5ccc6c(c5)C(=O)N(*)C6=O)cc4C3=O)cc2)cc1,"Polyimides/thioimides, Polyamides/thioamides"
+P430094,75494,85725737,Polyaddition/Polymer_reaction,C1=CC2=C(C=C1C3=CC4=C(C=C3)C(=O)OC4=O)C(=O)OC2=O,C1=CC(=CC(=C1)C(=O)NC2=CC=C(C=C2)C3=CC=C(C=C3)N)C(=O)NC4=CC=C(C=C4)C5=CC=C(C=C5)N,*c1ccc(-c2ccc(NC(=O)c3cccc(C(=O)Nc4ccc(-c5ccc(N6C(=O)c7ccc(-c8ccc9c(c8)C(=O)N(*)C9=O)cc7C6=O)cc5)cc4)c3)cc2)cc1,"Polyimides/thioimides, Polyamides/thioamides"
+P433579,75498,102047759,Polycondensation,C1=CC2=C(C=C1C(=O)C3=CC4=C(C=C3)C(=O)OC4=O)C(=O)OC2=O,C1=CC(=CC(=C1)N)C(=O)C2=CC=C(C=C2)OC3=CC=C(C=C3)N,*C(=O)c1ccc2c(c1)C(=O)N(c1cccc(C(=O)c3ccc(Oc4ccc(N5C(=O)c6ccc(*)cc6C5=O)cc4)cc3)c1)C2=O,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyketones/thioketones"
+P130366,75498,76547,Polyaddition/Polymer_reaction,C1=CC2=C(C=C1C(=O)C3=CC4=C(C=C3)C(=O)OC4=O)C(=O)OC2=O,CC1=CC(=C(C(=C1N)C)N)C,*C(=O)c1ccc2c(c1)C(=O)N(c1c(C)cc(C)c(N3C(=O)c4ccc(*)cc4C3=O)c1C)C2=O,"Polyimides/thioimides, Polyketones/thioketones"
+P432046,75498,2996234,Polyaddition/Polymer_reaction,C1=CC2=C(C=C1C(=O)C3=CC4=C(C=C3)C(=O)OC4=O)C(=O)OC2=O,C1=CC=C2C(=C1)N=C(S2)C3=CC(=CC(=C3)N)N,*C(=O)c1ccc2c(c1)C(=O)N(c1cc(-c3nc4ccccc4s3)cc(N3C(=O)c4ccc(*)cc4C3=O)c1)C2=O,"Polyimides/thioimides, Polyketones/thioketones"
+P432127,75682,629349,Polycondensation,C1=CC2=C(C=C1S(=O)(=O)C3=CC4=C(C=C3)C(=O)OC4=O)C(=O)OC2=O,C1=CC(=C(C=C1N)C(F)(F)F)C2=C(C=C(C=C2)N)C(F)(F)F,*c1ccc(-c2ccc(N3C(=O)c4ccc(S(=O)(=O)c5ccc6c(c5)C(=O)N(*)C6=O)cc4C3=O)cc2C(F)(F)F)c(C(F)(F)F)c1,"Polyimides/thioimides, Polysulfones/sulfoxides/sufonates/sulfoamides"
+P070589,75871,15816,Polycondensation,C1=CC(=CC(=C1)OC2=CC=C(C=C2)N)N,C(CCCCC(=O)O)CCCCC(=O)O,*Oc1cccc(NC(=O)CCCCCCCCCC(=O)Nc2ccc(*)cc2)c1,"Polyoxides/ethers/acetals, Polyamides/thioamides"
+P430224,75871,1901615,Polycondensation,C1=CC(=CC(=C1)OC2=CC=C(C=C2)N)N,C1=CC2=C(C=C1C(=O)C3=CC4=C(C=C3)C(=O)N(C4=O)CC(=O)O)C(=O)N(C2=O)CC(=O)O,*CC(=O)Nc1ccc(Oc2cccc(NC(=O)CN3C(=O)c4ccc(C(=O)c5ccc6c(c5)C(=O)N(*)C6=O)cc4C3=O)c2)cc1,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyamides/thioamides, Polyketones/thioketones"
+P370459,76716,102272745,Polycondensation,C1=CC=C2C(=C1)C3=CC=CC=C3C2(C4=CC=C(C=C4)O)C5=CC=C(C=C5)O,C1=CC(=CC=C1C2=C(C(=C(C(=C2C3=CC=C(C=C3)F)C(=O)C4=CC=C(C=C4)F)C(=O)C5=CC=C(C=C5)F)C6=CC=C(C=C6)F)C7=CC=C(C=C7)F)F,*Oc1ccc(C2(c3ccc(Oc4ccc(C(=O)c5c(C(=O)c6ccc(*)cc6)c(-c6ccc(F)cc6)c(-c6ccc(F)cc6)c(-c6ccc(F)cc6)c5-c5ccc(F)cc5)cc4)cc3)c3ccccc3-c3ccccc32)cc1,"Polyoxides/ethers/acetals, Polyketones/thioketones"
+P372429,76716,100974683,Polycondensation,C1=CC=C2C(=C1)C3=CC=CC=C3C2(C4=CC=C(C=C4)O)C5=CC=C(C=C5)O,C1=CC(=C(C=C1C2=CC=C(S2)C3=CC(=C(C=C3)F)C(F)(F)F)C(F)(F)F)F,*c1ccc(Oc2ccc(C3(c4ccc(Oc5ccc(-c6ccc(*)s6)cc5C(F)(F)F)cc4)c4ccccc4-c4ccccc43)cc2)c(C(F)(F)F)c1,"Polyoxides/ethers/acetals, Polysulfides"
+P090098,77076,0,Ring_opening_polymerization,C1CCCCCCC(=O)OCCCCCC1,,*CCCCCCCCCCCCCC(=O)O*,Polyesters/thioesters
+P090530,79717,8496,Polycondensation,CC1=CC(=CC(=C1O)C)C(C)(C)C2=CC(=C(C(=C2)C)O)C,C1=CC(=CC(=C1)C(=O)O)C(=O)O,*Oc1c(C)cc(C(C)(C)c2cc(C)c(OC(=O)c3cccc(C(*)=O)c3)c(C)c2)cc1C,Polyesters/thioesters
+P390345,80444,101692623,Polycondensation,C1=CC(=C(C=C1CC2=CC(=C(C=C2)N)C(=O)O)C(=O)O)N,C1=C(C=C(C=C1C(=O)Cl)N2C(=O)C3=C(C2=O)C(=C(C(=C3Cl)Cl)Cl)Cl)C(=O)Cl,*Cc1ccc2nc(-c3cc(-c4nc5ccc(*)cc5c(=O)o4)cc(N4C(=O)c5c(Cl)c(Cl)c(Cl)c(Cl)c5C4=O)c3)oc(=O)c2c1,"Polyesters/thioesters, Polyimines"
+P150018,81259,6371,Polycondensation,CC(C)CC(C)(C1=CC=C(C=C1)O)C2=CC=C(C=C2)O,C(=O)(Cl)Cl,*Oc1ccc(C(C)(CC(C)C)c2ccc(OC(*)=O)cc2)cc1,Polycarbonates/thiocarbonates
+P452061,82437,0,Polycondensation,CC(=O)OC1=CC=C(C=C1)C(C)(C)C2=CC=C(C=C2)OC(=O)C,,*Oc1ccc(C(C)(C)c2ccc(OC(=O)Oc3ccc(Cc4ccc(OC(*)=O)cc4)cc3)cc2)cc1,Polycarbonates/thiocarbonates
+P370344,83119,71348055,Polycondensation,CC(C)(C1=CC=C(C=C1)OC2=CC=C(C=C2)N)C3=CC=C(C=C3)OC4=CC=C(C=C4)N,C1=CC(=CC2=C1C=CC(=C2)OC3=CC=C(C=C3)C(=O)O)OC4=CC=C(C=C4)C(=O)O,*Oc1ccc2ccc(Oc3ccc(C(=O)Nc4ccc(Oc5ccc(C(C)(C)c6ccc(Oc7ccc(NC(=O)c8ccc(*)cc8)cc7)cc6)cc5)cc4)cc3)cc2c1,"Polyoxides/ethers/acetals, Polyamides/thioamides"
+P372411,90039,101353365,Polycondensation,C(COCC(=O)O)OCC(=O)O,CC(C)OC(=O)C(CC1=CC=C(C=C1)O)NC(=O)CCC2=CC=C(C=C2)O,*Oc1ccc(CC(NC(=O)CCc2ccc(OC(=O)COCCOCC(*)=O)cc2)C(=O)OC(C)C)cc1,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyamides/thioamides"
+P070041,91521,0,Ring_opening_polymerization,C1C(O1)COC2=CC=CC3=CC=CC=C32,,*CC(COc1cccc2ccccc12)O*,Polyoxides/ethers/acetals
+P433323,92950,67191,Polycondensation,CC(CCN)CC(C)(C)CN,C1=CC2=C3C(=CC=C4C3=C1C5=C6C4=CC=C7C6=C(C=C5)C(=O)OC7=O)C(=O)OC2=O,*CCC(C)CC(C)(C)Cn1c(=O)c2ccc3c4ccc5c(=O)n(*)c(=O)c6ccc(c7ccc(c1=O)c2c37)c4c56,Polyimides/thioimides
+P382446,94041,0,Polycondensation,COC(=O)CC1=CSC=C1,,*c1cc(CC(=O)OC)c(*)s1,Polysulfides
+P432889,94343,0,Ring_opening_polymerization,CCCCCCCCN1C(=O)C2C3CC(C2C1=O)C=C3,,*/C=C/C1CC(*)C2C(=O)N(CCCCCCCC)C(=O)C12,Polyimides/thioimides
+P372165,95071,248905,Polycondensation,C1=CC(=CC=C1OCCO)S(=O)(=O)C2=CC=C(C=C2)OCCO,CC1=CC=C(C=C1)OP(=O)(Cl)Cl,*CCOc1ccc(S(=O)(=O)c2ccc(OCCOP(=O)(O*)Oc3ccc(C)cc3)cc2)cc1,"Polyoxides/ethers/acetals, Polysulfones/sulfoxides/sufonates/sulfoamides"
+P340134,95114,0,Addition_polymerization,C=CCN(CC=C)C(=O)C=C,,*CC(*)C(=O)N(CC=C)CC=C,"Polyacrylics, Polyvinyls"
+P330177,99382,0,Addition_polymerization,C1=CC=C(C=C1)C#CI,,*/C(I)=C(/*)c1ccccc1,Polyvinyls
+P433014,102724,0,Polycondensation,C1CC2C(C1)C3CC2CC3(C4=CC=C(C=C4)O)C5=CC=C(C=C5)O,,*C(=O)Oc1ccc(C2(c3ccc(OC(=O)c4ccc5c(c4)C(=O)N(c4ccc(-c6ccc(N7C(=O)c8ccc(*)cc8C7=O)cc6C)c(C)c4)C5=O)cc3)CC3CC2C2CCCC32)cc1,"Polyimides/thioimides, Polyesters/thioesters"
+P340054,114794,0,Addition_polymerization,CCCNC(=O)C=C,,*CC(*)C(=O)NCCC,"Polyacrylics, Polyvinyls"
+P522002,120463,101676325,Addition_polymerization,C#CC1=CC=C(C=C1)C#C,C1=CC(=CC=C1[SeH])[SeH],*/C=C/[Se]c1ccc([Se]/C=C/c2ccc(*)cc2)cc1,Other polymers
+P470116,120463,74207,Polycondensation,C#CC1=CC=C(C=C1)C#C,C1=CC=C(C=C1)[SiH](Cl)Cl,*C#Cc1ccc(C#C[SiH](*)c2ccccc2)cc1,Polysiloxanes/silanes
+P430367,121657,1514638,Polycondensation,C1=CC(=CC(=C1)OC2=CC=C(C=C2)S(=O)(=O)C3=CC=C(C=C3)OC4=CC=CC(=C4)N)N,C1=CC(=CC=C1N2C(=O)C3=C(C2=O)C=C(C=C3)Cl)I,*C(=O)Nc1cccc(Oc2ccc(S(=O)(=O)c3ccc(Oc4cccc(NC(=O)c5ccc(N6C(=O)c7ccc(*)cc7C6=O)cc5)c4)cc3)cc2)c1,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyamides/thioamides, Polysulfones/sulfoxides/sufonates/sulfoamides"
+P430367,121657,712,Polycondensation,C1=CC(=CC(=C1)OC2=CC=C(C=C2)S(=O)(=O)C3=CC=C(C=C3)OC4=CC=CC(=C4)N)N,C=O,*C(=O)Nc1cccc(Oc2ccc(S(=O)(=O)c3ccc(Oc4cccc(NC(=O)c5ccc(N6C(=O)c7ccc(*)cc7C6=O)cc5)c4)cc3)cc2)c1,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyamides/thioamides, Polysulfones/sulfoxides/sufonates/sulfoamides"
+P472175,123130,101431716,Addition_polymerization,C#CC1=CC(=CC=C1)C#C,C[SiH](CCC(F)(F)F)C1=CC(=CC=C1)[SiH](C)CCC(F)(F)F,*/C=C/c1cccc(/C=C/[Si](C)(CCC(F)(F)F)c2cccc([Si](*)(C)CCC(F)(F)F)c2)c1,Polysiloxanes/silanes
+P100551,193422,66057,Polyaddition,C=CC(=O)N1CCN(CC1)C(=O)C=C,CC1CNCCN1,*C(=O)CCN1CCN(CCC(=O)N2CCN(*)CC2)C(C)C1,"Polyamides/thioamides, Polyimines"
+P180024,220225,0,Ring_opening_polymerization/Polymer_reaction,Brc1ccc(COP2(OCc3ccc(Br)cc3)=NP(OCc3ccc(Br)cc3)(OCc3ccc(Br)cc3)=NP(OCc3ccc(Br)cc3)(OCc3ccc(Br)cc3)=N2)cc1,,*N=P(*)(OCc1ccc(Br)cc1)OCc1ccc(Br)cc1,"Polyphosphazenes, Polyimines"
+P180014,220225,0,Ring_opening_polymerization/Polymer_reaction,c1ccc(COP2(OCc3ccccc3)=NP(OCc3ccccc3)(OCc3ccccc3)=NP(OCc3ccccc3)(OCc3ccccc3)=N2)cc1,,*N=P(*)(OCc1ccccc1)OCc1ccccc1,"Polyphosphazenes, Polyimines"
+P150039,225740,6371,Polycondensation,C1CCC(CC1)(C2=CC(=C(C(=C2)Cl)O)Cl)C3=CC(=C(C(=C3)Cl)O)Cl,C(=O)(Cl)Cl,*Oc1c(Cl)cc(C2(c3cc(Cl)c(OC(*)=O)c(Cl)c3)CCCCC2)cc1Cl,Polycarbonates/thiocarbonates
+P500025,232446,241860,Polycondensation,C1CCC(CC1)(C2=CC=C(C=C2)O)C3=CC=C(C=C3)O,CC1=C(C=C(C=C1)S(=O)(=O)Cl)S(=O)(=O)Cl,*OS(=O)(=O)c1cc(S(=O)(=O)Oc2ccc(C3(c4ccc(*)cc4)CCCCC3)cc2)ccc1C,Polysulfones/sulfoxides/sufonates/sulfoamides
+P452007,232881,10967529,Polycondensation,C1=CC=C(C=C1)C(C2=CC=CC=C2)(C3=CC=C(C=C3)O)C4=CC=C(C=C4)O,CC1(C(C(C1OC(=O)Cl)(C)C)OC(=O)Cl)C,*Oc1ccc(C(c2ccccc2)(c2ccccc2)c2ccc(OC(=O)OC3C(C)(C)C(OC(*)=O)C3(C)C)cc2)cc1,Polycarbonates/thiocarbonates
+P370654,318275,7766,Polycondensation/Polymer_reaction,CC1(OC(C(O1)CO)CO)C,CCOC(=O)OCC,*COC(=O)OCC1OC(OCC)(OCC)OC1*,"Polyoxides/ethers/acetals, Polycarbonates/thiocarbonates"
+P450059,318275,7766,Polycondensation/Polymer_reaction,CC1(OC(C(O1)CO)CO)C,CCOC(=O)OCC,*CC(OC(C)=O)C(COC(=O)O*)OC(C)=O,Polycarbonates/thiocarbonates
+P160013,347076,0,Ring_opening_polymerization,CCCCCCCCCCCC1=NCCO1,,*CCN(*)C(=O)CCCCCCCCCCC,Polyimines
+P433194,363538,94745,Polycondensation,C1=CC(=CC=C1N2C(=O)C3=C(C2=O)C=C(C=C3)C(=O)O)S(=O)(=O)C4=CC=C(C=C4)N5C(=O)C6=C(C5=O)C=C(C=C6)C(=O)O,C1CCC2(C1)C(=O)NC(=O)N2,*C(=O)N1C(=O)N(C(=O)c2ccc3c(c2)C(=O)N(c2ccc(S(=O)(=O)c4ccc(N5C(=O)c6ccc(*)cc6C5=O)cc4)cc2)C3=O)C2(CCCC2)C1=O,"Polyimides/thioimides, Polyureas/thioureas, Polyketones/thioketones, Polysulfones/sulfoxides/sufonates/sulfoamides"
+P070192,409128,54238812,Polycondensation,C(CCN)CCOCCCCCN,C(CCCOCCCCC(=O)O)CCC(=O)O,*CCCCCCC(=O)NCCCCCOCCCCCNC(=O)CCCCO*,"Polyoxides/ethers/acetals, Polyamides/thioamides"
+P510054,458188,0,Polycondensation,C1=CC=C(C=C1)C(=O)C2=C(C=CC(=C2)Cl)Cl,,*c1ccc(*)c(C(=O)c2ccccc2)c1,Polyphenylenes
+P080002,521081,0,Addition_polymerization,C(=S)(F)F,,*SC(*)(F)F,Polysulfides
+P010060,523967,0,Addition_polymerization,C=CCCC1CCCCC1,,*CC(*)CCC1CCCCC1,Polyolefins
+P373629,612294,0,Polycondensation,C1=CC(=C(C=C1C2=CC(=C(C=C2)O)N)N)O,,*c1ccc(SSc2ccc(-c3nc4ccc(-c5ccc6nc(*)oc6c5)cc4o3)cc2)cc1,"Polyoxides/ethers/acetals, Polysulfides, Polyimines"
+P462554,622236,95927,Polycondensation,C1=CC(=CC=C1C(C2=CC=C(C=C2)N)(C(F)(F)F)C(F)(F)F)N,C1=CC(=CC=C1S(=O)(=O)C2=CC=C(C=C2)Br)Br,*c1ccc(Nc2ccc(C(c3ccc(Nc4ccc(S(*)(=O)=O)cc4)cc3)(C(F)(F)F)C(F)(F)F)cc2)cc1,"Polyimines, Polysulfones/sulfoxides/sufonates/sulfoamides"
+P432196,622236,101988105,Polycondensation,C1=CC(=CC=C1C(C2=CC=C(C=C2)N)(C(F)(F)F)C(F)(F)F)N,CC1=CC(=CC(=C1N2C(=O)C3=C(C2=O)C=C(C=C3)C(=O)O)C)C4=CC(=C(C(=C4)C)N5C(=O)C6=C(C5=O)C=C(C=C6)C(=O)O)C,*C(=O)Nc1ccc(C(c2ccc(NC(=O)c3ccc4c(c3)C(=O)N(c3c(C)cc(-c5cc(C)c(N6C(=O)c7ccc(*)cc7C6=O)c(C)c5)cc3C)C4=O)cc2)(C(F)(F)F)C(F)(F)F)cc1,"Polyimides/thioimides, Polyamides/thioamides"
+P390403,632384,71331263,Polycondensation,CC1=C(C=C(C=C1)C(C2=CC(=C(C=C2)C)N)(C(F)(F)F)C(F)(F)F)N,C1=CC(=CC(=C1)C(=O)OC2=CC=C(C=C2)C(=O)Cl)C(=O)OC3=CC=C(C=C3)C(=O)Cl,*Oc1ccc(C(=O)Nc2cc(C(c3ccc(C)c(NC(=O)c4ccc(OC(=O)c5cccc(C(*)=O)c5)cc4)c3)(C(F)(F)F)C(F)(F)F)ccc2C)cc1,"Polyesters/thioesters, Polyamides/thioamides"
+P400375,632603,12208,Polycondensation,C1=CC(=C(C=C1C(C2=CC(=C(C=C2)O)N)(C(F)(F)F)C(F)(F)F)N)O,C1=CC(=CC=C1I)I,*Nc1cc(C(c2ccc(O)c(NC(=O)c3ccc(C(*)=O)cc3)c2)(C(F)(F)F)C(F)(F)F)ccc1O,Polyamides/thioamides
+P370446,632603,102274467,Polycondensation/Polymer_reaction,C1=CC(=C(C=C1C(C2=CC(=C(C=C2)O)N)(C(F)(F)F)C(F)(F)F)N)O,C1=CC=C(C=C1)C(C2=CC=C(C=C2)C(=O)Cl)(C3=CC=C(C=C3)C(=O)Cl)C(F)(F)F,*c1ccc2oc(-c3ccc(C(c4ccccc4)(c4ccc(-c5nc6cc(C(*)(C(F)(F)F)C(F)(F)F)ccc6o5)cc4)C(F)(F)F)cc3)nc2c1,"Polyoxides/ethers/acetals, Polyimines"
+P432922,632695,3098469,Polycondensation,C1=CC(=CC=C1C2=CC=C(C=C2)OC3=CC=C(C=C3)N)OC4=CC=C(C=C4)N,C1=CC(=CC=C1C2=CC=C(C=C2)OC3=CC=C(C=C3)N4C(=O)C5=C(C4=O)C=C(C=C5)C(=O)O)OC6=CC=C(C=C6)N7C(=O)C8=C(C7=O)C=C(C=C8)C(=O)O,*C(=O)Nc1ccc(Oc2ccc(-c3ccc(Oc4ccc(NC(=O)c5ccc6c(c5)C(=O)N(c5ccc(Oc7ccc(-c8ccc(Oc9ccc(N%10C(=O)c%11ccc(*)cc%11C%10=O)cc9)cc8)cc7)cc5)C6=O)cc4)cc3)cc2)cc1,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyamides/thioamides"
+P430102,632695,102401580,Polycondensation,C1=CC(=CC=C1C2=CC=C(C=C2)OC3=CC=C(C=C3)N)OC4=CC=C(C=C4)N,C1=CC(=CC(=C1)N2C(=O)C3=C(C2=O)C=C(C=C3)C4=CC5=C(C=C4)C(=O)N(C5=O)C6=CC=CC(=C6)C(=O)Cl)C(=O)Cl,*c1cccc(C(=O)Nc2ccc(Oc3ccc(-c4ccc(Oc5ccc(NC(=O)c6cccc(N7C(=O)c8ccc(-c9ccc%10c(c9)C(=O)N(*)C%10=O)cc8C7=O)c6)cc5)cc4)cc3)cc2)c1,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyamides/thioamides"
+P360034,638069,0,Addition_polymerization,CC=C(C)C=C,,*/C=C(\C)C(C)C*,Polydienes
+P433647,652960,1069197,Polycondensation,C1=CC=C2C(=C1)NC(=N2)C3=CC(=CC(=C3)N)N,C1=CC(=CC(=C1)N2C(=O)C3=C(C2=O)C=C(C=C3)C(=O)O)N4C(=O)C5=C(C4=O)C=C(C=C5)C(=O)O,*C(=O)Nc1cc(NC(=O)c2ccc3c(c2)C(=O)N(c2cccc(N4C(=O)c5ccc(*)cc5C4=O)c2)C3=O)cc(-c2nc3ccccc3[nH]2)c1,"Polyimides/thioimides, Polyamides/thioamides"
+P370772,660572,67842,Polycondensation,C=C(C1=CC=C(C=C1)O)C2=CC=C(C=C2)O,C1=CC(=CC=C1F)S(=O)(=O)C2=CC=C(C=C2)F,*Oc1ccc(S(=O)(=O)c2ccc(Oc3ccc(C(=C)c4ccc(*)cc4)cc3)cc2)cc1,"Polyoxides/ethers/acetals, Polysulfones/sulfoxides/sufonates/sulfoamides"
+P432913,1107279,101694481,Polycondensation,C1=CC=C(C(=C1)C2=CC=CC=C2OC3=CC=C(C=C3)N)OC4=CC=C(C=C4)N,C1=CC(=CC(=C1)OC2=CC=C(C=C2)N3C(=O)C4=C(C3=O)C(=CC=C4)C(=O)O)N5C(=O)C6=C(C5=O)C(=CC=C6)C(=O)O,*C(=O)Nc1ccc(Oc2ccccc2-c2ccccc2Oc2ccc(NC(=O)c3ccc4c(c3)C(=O)N(c3ccc(Oc5ccc(N6C(=O)c7ccc(*)cc7C6=O)cc5)cc3)C4=O)cc2)cc1,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyamides/thioamides"
+P402375,1211926,7814,Polycondensation,C1=CC(=CC(=C1)C2=NC3=C(N2)C=C(C=C3)C(=O)O)C4=NC5=C(N4)C=C(C=C5)C(=O)O,C1=CC(=CC=C1N)N,*C(=O)Nc1ccc(NC(=O)c2ccc3[nH]c(-c4cccc(-c5nc6cc(*)ccc6[nH]5)c4)nc3c2)cc1,"Polyamides/thioamides, Polyimines"
+P020138,1514184,0,Addition_polymerization,COC1=C(C=C(C=C1)Br)C=C,,*CC(*)c1cc(Br)ccc1OC,"Polystyrenes, Polyvinyls"
+P373135,1894558,578122,Polycondensation,C(C(=O)NN)SC1=NN=C(S1)SCC(=O)NN,C1=CC(=CC=C1C=O)OCCOC2=CC=C(C=C2)C=O,*SCC(=O)N/N=C/c1ccc(OCCOc2ccc(/C=N/NC(=O)CSc3nnc(*)s3)cc2)cc1,"Polyoxides/ethers/acetals, Polysulfides, Polyamides/thioamides, Polyimines"
+P100760,2749887,3083765,Polycondensation,C1=CC(=CC=C1CCN)CCN,C(CCCCCCCC(=O)O)CCCCCCCC(=O)O,*CCc1ccc(CCNC(=O)CCCCCCCCCCCCCCCC(=O)N*)cc1,Polyamides/thioamides
+P380040,2777982,77689,Polycondensation,C(=S)(C(=S)N)N,C1=CC(=CC=C1C2=CC=C(C=C2)C(=O)CBr)C(=O)CBr,*c1ccc(-c2ccc(-c3csc(-c4nc(*)cs4)n3)cc2)cc1,"Polysulfides, Polyimines"
+P110058,2779375,13569493,Polycondensation,C(C(C(C(C(CN)(F)F)(F)F)(F)F)(F)F)N,C(C(=O)Cl)C(C(C(C(CC(=O)Cl)(F)F)(F)F)(F)F)(F)F,*CC(F)(F)C(F)(F)C(F)(F)C(F)(F)COC(=O)NCC(F)(F)C(F)(F)C(F)(F)C(F)(F)CNC(=O)O*,Polyurethanes/thiourethanes
+P370696,2831813,25689,Polycondensation,C1=CC(=CC=C1C(=O)Cl)C(C2=CC=C(C=C2)C(=O)Cl)(C(F)(F)F)C(F)(F)F,C1=CC(=CC=C1N)OC2=CC=C(C=C2)S(=O)(=O)C3=CC=C(C=C3)OC4=CC=C(C=C4)N,*Oc1ccc(S(=O)(=O)c2ccc(Oc3ccc(NC(=O)c4ccc(C(c5ccc(C(=O)Nc6ccc(*)cc6)cc5)(C(F)(F)F)C(F)(F)F)cc4)cc3)cc2)cc1,"Polyoxides/ethers/acetals, Polyamides/thioamides, Polysulfones/sulfoxides/sufonates/sulfoamides"
+P090570,3083600,7451,Polycondensation,CCCC1=CC(=CC(=C1)O)O,C1=CC(=CC(=C1)C(=O)Cl)C(=O)Cl,*Oc1cc(CCC)cc(OC(=O)c2cccc(C(*)=O)c2)c1,Polyesters/thioesters
+P392098,3483771,12691803,Polycondensation,CCCCCCCCCCCCOC1=CC(=C(C=C1C(=O)Cl)OCCCCCCCCCCCC)C(=O)Cl,CC1=C(C=CC(=C1)O[Si](C)(C)C)O[Si](C)(C)C,*Oc1ccc(OC(=O)c2cc(OCCCCCCCCCCCC)c(C(*)=O)cc2OCCCCCCCCCCCC)cc1C,Polyesters/thioesters
+P100784,4552223,66072,Polycondensation,C(CN)CNC(=O)C(=O)NCCCN,C(CCCCC(=O)Cl)CCCC(=O)Cl,*CCCNC(=O)CCCCCCCCC(=O)NCCCNC(=O)C(=O)N*,Polyamides/thioamides
+P400367,5257303,102402826,Polycondensation,C[Si](C)(C)NC1=CC=C(C=C1)N[Si](C)(C)C,CCCCCCCCSC1=C(C(=C(C(=C1SCCCCCCCC)C(=O)Cl)SCCCCCCCC)SCCCCCCCC)C(=O)Cl,*Nc1ccc(NC(=O)c2c(SCCCCCCCC)c(SCCCCCCCC)c(C(*)=O)c(SCCCCCCCC)c2SCCCCCCCC)cc1,Polyamides/thioamides
+P390189,5331276,534653,Polycondensation,CC(=C1C=CC(=O)C=C1)NNC(=C2C=CC(=O)C=C2)C,C(CCCC(=O)Cl)CCC(=O)Cl,*Oc1ccc(/C(C)=N/N=C(\C)c2ccc(OC(=O)CCCCCCC(*)=O)cc2)cc1,"Polyesters/thioesters, Polyimines"
+P372642,6422930,8452,Polycondensation,C1=CC(=CC=C1C=O)OCCCCOC2=CC=C(C=C2)C=O,C1CCC(=O)C1,*CCCCOc1ccc(/C=C2\CC/C(=C\c3ccc(O*)cc3)C2=O)cc1,"Polyoxides/ethers/acetals, Polyketones/thioketones"
+P390067,6749546,14474483,Polycondensation,COC1=CC(=CNC2=CC=CC3=C2C=CC=C3NC=C4C=CC(=O)C(=C4)OC)C=CC1=O,C(CCC(=O)Cl)CC(=O)O,*Oc1ccc(/C=N/c2cccc3c(/N=C/c4ccc(OC(=O)CCCCC(*)=O)c(OC)c4)cccc23)cc1OC,"Polyesters/thioesters, Polyimines"
+P100732,9919396,67341,Polycondensation,C(CCCNC(=O)C(=O)NCCCCCCN)CCN,C(CCC(=O)Cl)CCC(=O)Cl,*CCCCCCNC(=O)CCCCCC(=O)NCCCCCCNC(=O)C(=O)N*,Polyamides/thioamides
+P362019,10176158,0,Ring_opening_polymerization,C1C=CC2C1C3CC2C=C3,,*/C=C/C1CC(*)C2CC=CC12,Polydienes
+P320012,10975565,0,Addition_polymerization,C1=COC=C1C=C[N+](=O)[O-],,*C(c1ccoc1)C(*)[N+](=O)[O-],"Polystyrenes, Polyvinyls"
+P430361,11011771,0,Polycondensation,C#CCN1C(=O)C2=CC3=C(C=C2C1=O)C(=O)N(C3=O)CC#C,,*CC#CC#CCn1c(=O)c2cc3c(=O)n(*)c(=O)c3cc2c1=O,Polyimides/thioimides
+P380001,11030660,3483477,Polycondensation,C1=CC(=NC(=C1)C(=NN)N)C(=NN)N,C1=CC=C(C=C1)C(=O)C(=O)C2=CC=C(C=C2)SC3=CC=C(C=C3)C(=O)C(=O)C4=CC=CC=C4,*c1ccc(Sc2ccc(-c3nc(-c4cccc(-c5nnc(-c6ccccc6)c(*)n5)n4)nnc3-c3ccccc3)cc2)cc1,"Polysulfides, Polyimines"
+P020019,11435249,0,Addition_polymerization,CCOC(=O)C1=CC=CC=C1C=C,,*CC(*)c1ccccc1C(=O)OCC,"Polystyrenes, Polyvinyls"
+P372458,11480968,85845047,Polycondensation/Polymer_reaction,C1=C(OC(=C1)C(=O)Cl)C(=O)Cl,CC1=CC=C(C=C1)S(=O)(=O)NC2=CC(=C(C=C2N)N)NS(=O)(=O)C3=CC=C(C=C3)C,*C(=O)Nc1cc(NC(=O)c2ccc(*)o2)c(N)cc1N,"Polyoxides/ethers/acetals, Polyamides/thioamides"
+P330127,11830003,0,Addition_polymerization,C=COC12CC3CC(C1)CC(C3)C2,,*CC(*)OC12CC3CC(CC(C3)C1)C2,Polyvinyls
+P370086,12359775,15610180,Polycondensation,CC(C)(C1=CC=C(C=C1)OCC(=O)O)C2=CC=C(C=C2)OCC(=O)O,C1=CC(=NC=C1C(=O)Cl)C(=O)Cl,*C(=O)OC(=O)COc1ccc(C(C)(C)c2ccc(OCC(=O)OC(=O)c3ccc(*)nc3)cc2)cc1,"Polyoxides/ethers/acetals, Polyanhydrides/thioanhydrides, Polyimines"
+P090266,12405380,4134690,Polycondensation,C(CCS(=O)(=O)CCCCC(=O)O)CC(=O)O,C(CCCCCCCCCCO)CCCCCCCCCO,*CCCCCCCCCCCCCCCCCCCCOC(=O)CCCCS(=O)(=O)CCCCC(=O)O*,"Polyesters/thioesters, Polysulfones/sulfoxides/sufonates/sulfoamides"
+P020028,12541475,0,Addition_polymerization,CN(C)CCOC(=O)C1=CC=CC=C1C=C,,*CC(*)c1ccccc1C(=O)OCCN(C)C,"Polystyrenes, Polyvinyls"
+P010097,13070105,0,Addition_polymerization,CC(C)C(=C)C=C,,*CC/C=C(/*)C(C)C,Polydienes
+P080028,13403202,79148,Polycondensation,C(CCS)CS,C(CBr)CBr,*CCCCSCCCS*,Polysulfides
+P342268,13426355,0,Addition_polymerization/Polymer_reaction,CC(=C)C=C(C)C(=O)OC,,*CC(C)CC(*)(C)C(=O)OC,"Polyacrylics, Polyvinyls"
+P450085,13484891,6371,Polycondensation,C1CCCC(CC1)(C2=CC=C(C=C2)O)C3=CC=C(C=C3)O,C(=O)(Cl)Cl,*Oc1ccc(C2(c3ccc(OC(*)=O)cc3)CCCCCC2)cc1,Polycarbonates/thiocarbonates
+P373117,13580687,102356833,Polycondensation,C1=CC(=CC=C1N)OCCCCCCCCCCCCOC2=CC=C(C=C2)N,C1=CC(=CC=C1C=O)C(=O)OC2=CC(=C(C=C2Cl)Cl)OC(=O)C3=CC=C(C=C3)C=O,*Oc1cc(OC(=O)c2ccc(/C=N/c3ccc(OCCCCCCCCCCCCOc4ccc(/N=C/c5ccc(C(*)=O)cc5)cc4)cc3)cc2)c(Cl)cc1Cl,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines"
+P430120,13906735,102068474,Polycondensation,C1=CC(=CC(=C1)OC2=CC=C(C=C2)OC3=CC=CC(=C3)N)N,C1=CC(=CC(=C1)N2C(=O)C3=C(C2=O)C=C(C=C3)C4=C5C(=CC=C4)C(=O)N(C5=O)C6=CC=CC(=C6)C(=O)O)C(=O)O,*c1cccc(C(=O)Nc2ccc(Oc3cccc(Oc4ccc(NC(=O)c5cccc(N6C(=O)c7ccc(-c8cccc9c8C(=O)N(*)C9=O)cc7C6=O)c5)cc4)c3)cc2)c1,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyamides/thioamides"
+P080146,14197234,0,Ring_opening_polymerization,CC(C)C1CS1,,*CC(S*)C(C)C,Polysulfides
+P450001,14220038,6371,Polycondensation,C1=CC(=CC=C1CCCCCCCCCCC2=CC=C(C=C2)O)O,C(=O)(Cl)Cl,*Oc1ccc(CCCCCCCCCCc2ccc(OC(*)=O)cc2)cc1,Polycarbonates/thiocarbonates
+P450002,18352131,6371,Polycondensation,C1=CC(=CC=C1C(=O)CCCCC(=O)C2=CC=C(C=C2)O)O,C(=O)(Cl)Cl,*Oc1ccc(C(=O)CCCCC(=O)c2ccc(OC(*)=O)cc2)cc1,"Polycarbonates/thiocarbonates, Polyketones/thioketones"
+P402020,14474483,29942460,Polycondensation,C(CCC(=O)Cl)CC(=O)O,CN(C)C1=CC=C(C=C1)C=CC2=CC(=C(C=C2N)[N+](=O)[O-])N,*Nc1cc([N+](=O)[O-])c(NC(=O)CCCCC(*)=O)cc1/C=C/c1ccc(N(C)C)cc1,Polyamides/thioamides
+P460283,14651789,0,Ring_opening_polymerization,CCCCCCCCCCC1=NCCO1,,*CCN(*)C(=O)CCCCCCCCCC,Polyimines
+P340111,15701519,0,Addition_polymerization,CC(C)OC(=O)C=CC(=O)OC12CC3CC(C1)CC(C3)C2,,*C(C(=O)OC(C)C)C(*)C(=O)OC12CC3CC(CC(C3)C1)C2,"Polyacrylics, Polyvinyls"
+P462453,16087836,0,Polycondensation,CCCCCCCCCCCCCCCCN1C2=C(C=C(C=C2)C#C)C3=C1C=CC(=C3)C#C,,*C#CC#Cc1ccc2c(c1)c1cc(*)ccc1n2CCCCCCCCCCCCCCCC,Polyimines
+P370043,18419912,83310,Polyaddition,CC1=CC(=CC(=C1OCC2CO2)C)C(C)(C)C3=CC(=C(C(=C3)C)OCC4CO4)C,CC1=CC(=CC(=C1O)C)S(=O)(=O)C2=CC(=C(C(=C2)C)O)C,*CC(O)COc1c(C)cc(C(C)(C)c2cc(C)c(OCC(O)COc3c(C)cc(S(=O)(=O)c4cc(C)c(O*)c(C)c4)cc3C)c(C)c2)cc1C,"Polyoxides/ethers/acetals, Polysulfones/sulfoxides/sufonates/sulfoamides"
+P390013,18698970,7488,Polycondensation,CCC(C1=CC=CC=C1)(C2=CC=C(C=C2)O)C3=CC=C(C=C3)O,C1=CC(=CC=C1C(=O)Cl)C(=O)Cl,*Oc1ccc(C(CC)(c2ccccc2)c2ccc(OC(=O)c3ccc(C(*)=O)cc3)cc2)cc1,Polyesters/thioesters
+P330075,20688852,0,Addition_polymerization/Polymer_reaction,C=COCC(=O)N,,*CC(*)OCC(N)=O,Polyvinyls
+P373649,19805071,0,Polycondensation,C1=CC(=CC=C1OC2=C(C=C(C=C2)N)C(F)(F)F)OC3=C(C=C(C=C3)N)C(F)(F)F,,*c1ccc(C(=O)Nc2ccc(Oc3ccc(Oc4ccc(NC(=O)c5ccc(Oc6ccc(-c7nn(*)c(=O)c8ccccc78)c7ccccc67)cc5)cc4C(F)(F)F)cc3)c(C(F)(F)F)c2)cc1,"Polyoxides/ethers/acetals, Polyamides/thioamides, Polyimines"
+P340049,19937724,0,Addition_polymerization,CCC(C)(C)OC(=O)C=CC(=O)OC(C)(C)CC,,*C(*)C(=O)OC(C)(C)CC,"Polyacrylics, Polyvinyls"
+P450006,20060820,6371,Polycondensation,C1CC2CC1CC2(C3=CC(=C(C(=C3)Br)O)Br)C4=CC(=C(C(=C4)Br)O)Br,C(=O)(Cl)Cl,*Oc1c(Br)cc(C2(c3cc(Br)c(OC(*)=O)c(Br)c3)CC3CCC2C3)cc1Br,Polycarbonates/thiocarbonates
+P390033,20068010,66072,Polycondensation,C1C2=CC=CC=C2C(C3=CC=CC=C31)(C4=CC=C(C=C4)O)C5=CC=C(C=C5)O,C(CCCCC(=O)Cl)CCCC(=O)Cl,*Oc1ccc(C2(c3ccc(OC(=O)CCCCCCCCC(*)=O)cc3)c3ccccc3Cc3ccccc32)cc1,Polyesters/thioesters
+P372109,20077248,31214,Polycondensation,C1=CC(=CC=C1C(=O)OCCOCCOC(=O)C2=CC=C(C=C2)N)N,CCOC(OCC)OCC,*CCOCCOC(=O)c1ccc(N/C=N/c2ccc(C(=O)O*)cc2)cc1,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines"
+P342613,21459385,0,Addition_polymerization,CC(=C)C(=O)OC1=CC=C(C=C1)C=CC2=CC=CC=C2,,*CC(*)(C)C(=O)Oc1ccc(/C=C/c2ccccc2)cc1,"Polyacrylics, Polyvinyls"
+P100338,21909825,12736,Polycondensation,C1CC(CCC1CCC2CCC(CC2)N)N,C(CCCCCC(=O)O)CCCCC(=O)O,*NC1CCC(CCC2CCC(NC(=O)CCCCCCCCCCC(*)=O)CC2)CC1,Polyamides/thioamides
+P370166,21922401,604281,Polycondensation,C1=CC(=CC(=C1)OC2=CC=C(C=C2)OC3=CC=CC(=C3)C(=O)O)C(=O)O,CC(=O)OC1=CC=C(C=C1)C2=CC=C(C=C2)OC(=O)C,*Oc1ccc(Oc2cccc(C(=O)Oc3ccc(-c4ccc(OC(=O)c5cccc(*)c5)cc4)cc3)c2)cc1,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P020116,22475824,0,Addition_polymerization,CC(C)CCOC1=CC=C(C=C1)C=C,,*CC(*)c1ccc(OCCC(C)C)cc1,"Polystyrenes, Polyvinyls"
+P342491,22559756,0,Addition_polymerization,CC(=C)C(=O)OCC1=CC=C(C=C1)Cl,,*CC(*)(C)C(=O)OCc1ccc(Cl)cc1,"Polyacrylics, Polyvinyls"
+P370118,22677110,0,Ring_opening_polymerization,C1CC2CC1CC23COC3,,*CC1(CO*)CC2CCC1C2,Polyoxides/ethers/acetals
+P080122,22990423,101059138,Polyaddition,C=CC1=CC=C(C=C1)CC2=CC=C(C=C2)C=C,C1=CC(=CC=C1CCS)CC2=CC=C(C=C2)CCS,*CCc1ccc(Cc2ccc(CCS*)cc2)cc1,Polysulfides
+P372491,8496,399966,Polycondensation,C1=CC(=CC(=C1)C(=O)O)C(=O)O,C1C2CC3CC1CC(C2)C3(C4=CC=C(C=C4)OC5=CC=C(C=C5)N)C6=CC=C(C=C6)OC7=CC=C(C=C7)N,*Oc1ccc(NC(=O)c2cccc(C(=O)Nc3ccc(Oc4ccc(C5(c6ccc(*)cc6)C6CC7CC(C6)CC5C7)cc4)cc3)c2)cc1,"Polyoxides/ethers/acetals, Polyamides/thioamides"
+P342038,43616334,0,Addition_polymerization,C=CC(=O)NCCC1=CC=CC=N1,,*CC(*)C(=O)NCCc1ccccn1,"Polyacrylics, Polyvinyls"
+P342388,45095154,0,Addition_polymerization,CCC1(COC1)COCCOC(=O)C=C,,*CC(*)C(=O)OCCOCC1(CC)COC1,"Polyacrylics, Polyvinyls"
+P373276,46831037,4231473,Polycondensation,CC(C)(C)C1=CC(=C(C=C1OC2=CC=C(C=C2)C(=O)O)C(C)(C)C)OC3=CC=C(C=C3)C(=O)O,CC1=CC(=CC(=C1N)C)C(C)(C)C2=CC(=C(C(=C2)C)N)C,*Oc1cc(C(C)(C)C)c(Oc2ccc(C(=O)Nc3c(C)cc(C(C)(C)c4cc(C)c(NC(=O)c5ccc(*)cc5)c(C)c4)cc3C)cc2)cc1C(C)(C)C,"Polyoxides/ethers/acetals, Polyamides/thioamides"
+P472019,54399685,0,Polycondensation,CCCC[Si](CCC1=CC=CC=C1)(Cl)Cl,,*[Si](*)(CCCC)CCc1ccccc1,Polysiloxanes/silanes
+P433142,54536255,18705494,Polycondensation,C1=CC=C(C(=C1)OC2=CC3=C(C=C2)C(=O)OC3=O)OC4=CC5=C(C=C4)C(=O)OC5=O,C1=CC=C2C(=C1)C3=CC=CC=C3C2(C4=CC=C(C=C4)OC5=C(C=C(C=C5)N)C(F)(F)F)C6=CC=C(C=C6)OC7=C(C=C(C=C7)N)C(F)(F)F,*c1ccc(Oc2ccc(C3(c4ccc(Oc5ccc(N6C(=O)c7ccc(Oc8ccccc8Oc8ccc9c(c8)C(=O)N(*)C9=O)cc7C6=O)cc5C(F)(F)F)cc4)c4ccccc4-c4ccccc43)cc2)c(C(F)(F)F)c1,"Polyimides/thioimides, Polyoxides/ethers/acetals"
+P430381,54536255,7111,Polycondensation,C1=CC=C(C(=C1)OC2=CC3=C(C=C2)C(=O)OC3=O)OC4=CC5=C(C=C4)C(=O)OC5=O,C1=CC(=CC=C1C2=CC=C(C=C2)N)N,*c1ccc(-c2ccc(N3C(=O)c4ccc(Oc5ccccc5Oc5ccc6c(c5)C(=O)N(*)C6=O)cc4C3=O)cc2)cc1,"Polyimides/thioimides, Polyoxides/ethers/acetals"
+P342099,57407839,0,Addition_polymerization,CCCCCCOC1=CC=C(C=C1)C(=O)OC2=CC=C(C=C2)OCCCCCCOC(=O)C(=C)C,,*CC(*)(C)C(=O)OCCCCCCOc1ccc(OC(=O)c2ccc(OCCCCCC)cc2)cc1,"Polyacrylics, Polyvinyls"
+P430258,57810725,94652,Polyaddition/Polymer_reaction,C1=CC(=CC=C1OC2=CC3=C(C=C2)C(=O)OC3=O)SC4=CC=C(C=C4)OC5=CC6=C(C=C5)C(=O)OC6=O,C1=CC(=CC=C1C(C2=CC=C(C=C2)OC3=CC=C(C=C3)N)(C(F)(F)F)C(F)(F)F)OC4=CC=C(C=C4)N,*c1ccc(Oc2ccc(C(c3ccc(Oc4ccc(N5C(=O)c6ccc(Oc7ccc(Sc8ccc(Oc9ccc%10c(c9)C(=O)N(*)C%10=O)cc8)cc7)cc6C5=O)cc4)cc3)(C(F)(F)F)C(F)(F)F)cc2)cc1,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polysulfides"
+P430258,57810725,94652,Polycondensation,C1=CC(=CC=C1OC2=CC3=C(C=C2)C(=O)OC3=O)SC4=CC=C(C=C4)OC5=CC6=C(C=C5)C(=O)OC6=O,C1=CC(=CC=C1C(C2=CC=C(C=C2)OC3=CC=C(C=C3)N)(C(F)(F)F)C(F)(F)F)OC4=CC=C(C=C4)N,*c1ccc(Oc2ccc(C(c3ccc(Oc4ccc(N5C(=O)c6ccc(Oc7ccc(Sc8ccc(Oc9ccc%10c(c9)C(=O)N(*)C%10=O)cc8)cc7)cc6C5=O)cc4)cc3)(C(F)(F)F)C(F)(F)F)cc2)cc1,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polysulfides"
+P370677,68432843,2317228,Polycondensation,C1=CC(=NC(=C1)OC2=CC=C(C=C2)O)OC3=CC=C(C=C3)O,C1=CC=C(C=C1)N=C(C2=CC=C(C=C2)F)C3=CC=C(C=C3)F,*Oc1ccc(Oc2ccc(/C(=N\c3ccccc3)c3ccc(Oc4ccc(Oc5cccc(*)n5)cc4)cc3)cc2)cc1,"Polyoxides/ethers/acetals, Polyimines"
+P433353,71418948,0,Polycondensation,C1=CC=C(C=C1)C2=CC=C(C=C2)C3=CC(=NC(=C3)C4=CC=C(C=C4)N)C5=CC=C(C=C5)N,O=C(Nc1ccc(-c2cc(-c3ccc(-c4ccccc4)cc3)cc(-c3ccc(NC(=O)Nc4ccc5c(c4)C(=O)OC5=O)cc3)n2)cc1)Nc1ccc2c(c1)C(=O)OC2=O,*c1ccc(-c2cc(-c3ccc(-c4ccccc4)cc3)cc(-c3ccc(N4C(=O)c5ccc(NC(=O)Nc6ccc(-c7cc(-c8ccc(-c9ccccc9)cc8)cc(-c8ccc(NC(=O)Nc9ccc%10c(c9)C(=O)N(*)C%10=O)cc8)n7)cc6)cc5C4=O)cc3)n2)cc1,"Polyimides/thioimides, Polyureas/thioureas, Polyimines"
+P340081,85556005,0,Addition_polymerization,CCCOC1=CC=C(C=C1)OC(=O)CC(=C)C(=O)OC2=CC=C(C=C2)OCCC,,*CC(*)(CC(=O)Oc1ccc(OCCC)cc1)C(=O)Oc1ccc(OCCC)cc1,"Polyacrylics, Polyvinyls"
+P322014,85557888,8056,Polycondensation,CC1=C(C=CC(=C1)O)CCC2=CC=C(C=C2)O,C(CCBr)CBr,*CCCCC(c1ccc(O)cc1)C(*)c1ccc(O)cc1C,"Polystyrenes, Polyvinyls"
+P382256,85794134,0,Polycondensation,CCCCSC1=C(SC=C1)C2=CC=C(C=C2)C3=C(C=CS3)SCCCC,,*c1ccc(-c2sc(-c3cc(SCCCC)c(*)s3)cc2SCCCC)cc1,Polysulfides
+P382254,85794141,7927,Polycondensation,CCCCCCCCSC1=C(SC(=C1)Br)C2=CC=C(C=C2)C3=C(C=C(S3)Br)SCCCCCCCC,C1=CC(=CC(=C1)Br)Br,*c1ccc(-c2sc(-c3ccc(-c4cc(SCCCCCCCC)c(*)s4)cc3)cc2SCCCCCCCC)cc1,Polysulfides
+P382224,85801672,0,Polycondensation,CCCCCCC(COC1=CC=C(C=C1)C(=O)OC2=CC=C(C=C2)C3=CC=C(C=C3)OCCCCCCCCCCOC(=O)CC4=CSC=C4)F,,*c1cc(CC(=O)OCCCCCCCCCCOc2ccc(-c3ccc(OC(=O)c4ccc(OCC(F)CCCCCC)cc4)cc3)cc2)c(*)s1,Polysulfides
+P433055,86066907,6966,Polycondensation,CC1=CC=C(C=C1)S(=O)(=O)C2=CC=C(C=C2)OC3=C(C=C(C=C3)N)N,C1=C2C(=CC3=C1C(=O)OC3=O)C(=O)OC2=O,*c1ccc(Oc2ccc(S(=O)(=O)c3ccc(C)cc3)cc2)c(-n2c(=O)c3cc4c(=O)n(*)c(=O)c4cc3c2=O)c1,Polyimides/thioimides
+P472242,86084180,0,Polycondensation,C[Si](C)(C1=CC2=C(C=C1)C=CC(=C2)[Si](C)(C)O)O,,*O[Si](C)(C)c1ccc2ccc([Si](*)(C)C)cc2c1,Polysiloxanes/silanes
+P462050,86167027,0,Polycondensation,CCOC(=O)CCCC1=CNC=C1,,*c1cc(CCCC(=O)OCC)c(*)[nH]1,Polyimines
+P372279,100934306,100934308,Polycondensation/Polymer_reaction,CCCCCCCCC1=C(SC(=C1)C(=O)Cl)C(=O)Cl,CCCCCCCCOC1=CC(=C(C=C1C(=O)NN)OCCCCCCCC)C(=O)NN,*c1nnc(-c2sc(-c3nnc(-c4cc(OCCCCCCCC)c(*)cc4OCCCCCCCC)o3)cc2CCCCCCCC)o1,"Polyoxides/ethers/acetals, Polysulfides, Polyimines"
+P342126,100974120,0,Addition_polymerization,CC(=C)C(=O)OCCCCCCCOC1=CC2=C(C=C1)C=C(C=C2)C(=O)OC3=CC=CC=C3,,*CC(*)(C)C(=O)OCCCCCCCOc1ccc2cc(C(=O)Oc3ccccc3)ccc2c1,"Polyacrylics, Polyvinyls"
+P512056,101023687,11150607,Polycondensation,COCCOCCOC1=CC(=C(C=C1C#C)C#C)OCCOCCOC,C1=C(C(=CC(=C1Br)[N+](=O)[O-])Br)N,*C#Cc1cc(C#Cc2cc(N)c(*)cc2[N+](=O)[O-])c(OCCOCCOC)cc1OCCOCCOC,Polyphenylenes
+P432357,101052367,16043,Polycondensation,C1=CC(=CC=C1C2=CC3=C(C=C2C(=O)Cl)C(=O)NC3=O)OC4=CC=C(C=C4)C5=CC6=C(C=C5C(=O)Cl)C(=O)NC6=O,CC(C)(C)C1=C(C=CC(=C1)O)O,*C(=O)Oc1ccc(OC(=O)c2ccc3c(c2)C(=O)N(c2ccc(Oc4ccc(N5C(=O)c6ccc(*)cc6C5=O)cc4)cc2)C3=O)c(C(C)(C)C)c1,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyesters/thioesters"
+P090518,101056240,67831,Polycondensation,C1=C(C=C(C=C1C(=O)Cl)C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)C(=O)Cl,C(C(C(C(CO)(F)F)(F)F)(F)F)O,*CC(F)(F)C(F)(F)C(F)(F)COC(=O)c1cc(C(=O)O*)cc(C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F)c1,Polyesters/thioesters
+P432126,101059063,631552,Polycondensation,C1=CC2=C(C=CC=C2ON3C(=O)C4=C(C3=O)C=C(C=C4)C(=O)Cl)C(=C1)ON5C(=O)C6=C(C5=O)C=C(C=C6)C(=O)Cl,C1=CC=C2C(=C1)C3=CC=CC=C3C2(C4=CC=C(C=C4)N)C5=CC=C(C=C5)N,*C(=O)Nc1ccc(C2(c3ccc(NC(=O)c4ccc5c(c4)C(=O)N(c4ccc(Oc6cccc7c(Oc8ccc(N9C(=O)c%10ccc(*)cc%10C9=O)cc8)cccc67)cc4)C5=O)cc3)c3ccccc3-c3ccccc32)cc1,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyamides/thioamides"
+P210045,101059197,0,Polycondensation,C1=CC(=CC(=C1)I)C(C(C(F)(F)I)(F)F)(F)F,,*c1cccc(C(F)(F)C(F)(F)C(*)(F)F)c1,Other polymers
+P372673,101140497,4138100,Polycondensation,CC(C)(C)C1CCC(CC1)(C2=CC=C(C=C2)OC3=CC=C(C=C3)C(=O)Cl)C4=CC=C(C=C4)OC5=CC=C(C=C5)C(=O)Cl,CC1=C(C=CC(=C1)O)C2=C(C=C(C=C2)O)C,*Oc1ccc(-c2ccc(OC(=O)c3ccc(Oc4ccc(C5(c6ccc(Oc7ccc(C(*)=O)cc7)cc6)CCC(C(C)(C)C)CC5)cc4)cc3)cc2C)c(C)c1,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P433089,101157972,117661,Polycondensation,CC1=CC(=CC(=C1NC(=O)C2=CC3=C(C=C2)C(=O)OC3=O)C)CC4=CC(=C(C(=C4)C)NC(=O)C5=CC6=C(C=C5)C(=O)OC6=O)C,C1=CC(=CC=C1N=NC2=C(C=C(C=C2)N)N)[N+](=O)[O-],*C(=O)Nc1c(C)cc(Cc2cc(C)c(NC(=O)c3ccc4c(c3)C(=O)N(c3ccc(/N=N/c5ccc([N+](=O)[O-])cc5)c(N5C(=O)c6ccc(*)cc6C5=O)c3)C4=O)c(C)c2)cc1C,"Polyimides/thioimides, Polyamides/thioamides"
+P472263,101401055,0,Polycondensation,C[Si](C)(C1=CC2=CC3=C(C=C2C=C1)C=C(C=C3)[Si](C)(C)O)O,,*O[Si](C)(C)c1ccc2cc3cc([Si](*)(C)C)ccc3cc2c1,Polysiloxanes/silanes
+P373074,101431758,6688,Polycondensation,C1CCN(CC1)C2=NC(=NC(=N2)OC3=C(C=CC4=CC=CC=C43)C(=O)Cl)OC5=C(C=CC6=CC=CC=C65)C(=O)Cl,C1=CC=C2C(=C1)C(=O)C3=C(C=CC(=C3C2=O)O)O,*Oc1c(C(=O)Oc2ccc(OC(=O)c3ccc4ccccc4c3Oc3nc(*)nc(N4CCCCC4)n3)c3c2C(=O)c2ccccc2C3=O)ccc2ccccc12,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines, Polyketones/thioketones"
+P512160,101482884,101482885,Polycondensation,C1=C(C(=CC(=C1I)OCCOCCOCCOCCO)I)OCCOCCOCCOCCO,C#CC1=CC(=C(C=C1OCCOCCOCCOCCO)C#C)OCCOCCOCCOCCO,*C#Cc1cc(OCCOCCOCCOCCO)c(*)cc1OCCOCCOCCOCCO,Polyphenylenes
+P373670,101484092,71353375,Polycondensation,CCCCCCC1=C(SC(=C1CCCCCC)Br)C=CC2=CC(=C(C#N)C#N)C=C(O2)C=CC3=C(C(=C(S3)Br)CCCCCC)CCCCCC,C[Sn](C)(C)C1=CC=C(S1)C2=CC=C(S2)C3=CC=C(S3)[Sn](C)(C)C,*/C=C/c1sc(-c2ccc(-c3ccc(-c4ccc(-c5sc(/C=C/C6=CC(=C(C#N)C#N)C=C(*)O6)c(CCCCCC)c5CCCCCC)s4)s3)s2)c(CCCCCC)c1CCCCCC,"Polyoxides/ethers/acetals, Polysulfides"
+P510037,101691848,101691844,Polycondensation,CCCCCCCCCCCCOC(=O)C1=C(C=CC(=C1)C#C)C#C,CCCCCCCCCCCCOC(=O)C1=C(C=CC(=C1)Br)Br,*C#Cc1ccc(*)c(C(=O)OCCCCCCCCCCCC)c1,Polyphenylenes
+P090611,101717198,174,Polycondensation,CCOC(=O)CCCCCNC(=O)C1=CC=C(C=C1)C(=O)NCCCCCC(=O)OCC,C(CO)O,*CCOC(=O)CCCCCNC(=O)c1ccc(C(=O)NCCCCCC(=O)O*)cc1,"Polyesters/thioesters, Polyamides/thioamides"
+P400129,101718097,0,Polycondensation,C1=CC(=CC=C1C2=CC=C(C=C2)C(=O)O)C3=CC=C(C=C3)N,,*Nc1ccc(-c2ccc(-c3ccc(C(*)=O)cc3)cc2)cc1,Polyamides/thioamides
+P332088,101767341,0,Addition_polymerization,C=COCCOC1=CC=C(C=C1)N=NC2=CC=C(C=C2)[N+](=O)[O-],,*CC(*)OCCOc1ccc(/N=N/c2ccc([N+](=O)[O-])cc2)cc1,Polyvinyls
+P433362,101854539,7814,Polycondensation,C1=CC2=C(C=CC=C2OC3=CC=C(C=C3)N4C(=O)C5=C(C4=O)C=C(C=C5)C(=O)O)C(=C1)N6C(=O)C7=C(C6=O)C=C(C=C7)C(=O)O,C1=CC(=CC=C1N)N,*C(=O)Nc1ccc(NC(=O)c2ccc3c(c2)C(=O)N(c2ccc(Oc4cccc5c(N6C(=O)c7ccc(*)cc7C6=O)cccc45)cc2)C3=O)cc1,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyamides/thioamides"
+P520034,101988380,0,Ring_opening_polymerization/Polymer_reaction,CCCCCCC1=CC2=C(C=C1)C3C=CC2C=C3,,*/C=C/c1ccc(*)c2ccc(CCCCCC)cc12,Other polymers
+P370049,102006279,75183,Polycondensation,CC(=O)OC1=CC=C(C=C1)C(C2=CC=CC=C2)C3=CC=C(C=C3)OC(=O)C,C1=CC(=CC=C1C(=O)O)OC2=CC=C(C=C2)C(=O)O,*Oc1ccc(C(c2ccccc2)c2ccc(OC(=O)c3ccc(Oc4ccc(C(*)=O)cc4)cc3)cc2)cc1,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P462468,102025467,0,Ring_opening_polymerization,C1COC(=N1)C2=CC(=C(C=C2F)F)F,,*CCN(*)C(=O)c1cc(F)c(F)cc1F,Polyimines
+P402098,102272907,102272912,Polycondensation,C1=CC(=CC=C1C(=O)O)NC(=O)CCCCCCCCCCCCC(=O)NC2=CC=C(C=C2)C(=O)O,CCCCCCCCCCCCCCCCCCOC(=O)C1=C(C=CC(=C1)N)N,*Nc1ccc(NC(=O)c2ccc(NC(=O)CCCCCCCCCCCCC(=O)Nc3ccc(C(*)=O)cc3)cc2)cc1C(=O)OCCCCCCCCCCCCCCCCCC,Polyamides/thioamides
+P372435,102272913,67294,Polycondensation,CC1=C(C=CC(=C1)OCCCC(=O)Cl)OCCCC(=O)Cl,C1=CC(=CC=C1C(=O)NN)C(=O)NN,*CCCC(=O)NNC(=O)c1ccc(C(=O)NNC(=O)CCCOc2ccc(O*)c(C)c2)cc1,"Polyoxides/ethers/acetals, Polyamides/thioamides"
+P372449,102272960,6623,Polycondensation,C1CC(=CC2=CC=C(C=C2)OC3=CC=C(C=C3)S(=O)(=O)C4=CC=C(C=C4)Cl)C(=O)C(=CC5=CC=C(C=C5)OC6=CC=C(C=C6)S(=O)(=O)C7=CC=C(C=C7)Cl)C1,CC(C)(C1=CC=C(C=C1)O)C2=CC=C(C=C2)O,*Oc1ccc(S(=O)(=O)c2ccc(Oc3ccc(/C=C4\CCC/C(=C\c5ccc(Oc6ccc(S(=O)(=O)c7ccc(Oc8ccc(C(C)(C)c9ccc(*)cc9)cc8)cc7)cc6)cc5)C4=O)cc3)cc2)cc1,"Polyoxides/ethers/acetals, Polyketones/thioketones, Polysulfones/sulfoxides/sufonates/sulfoamides"
+P372938,102321723,102593505,Polycondensation/Polymer_reaction,CCOC(=O)C(CCCCC[P+]([O-])(OCC)OCC)C(=O)OCC,C1=CC(=CC=C1N[N+](=O)C2=CC=C(C=C2)OCCCCCCO)OCCCCCCO,*CCCCCCOC(=O)C(CCCCCP(=O)(O)O)C(=O)OCCCCCCOc1ccc(-n2on2-c2ccc(O*)cc2)cc1,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines"
+P430295,102402416,66342,Polycondensation,C1=CC=C(C=C1)C2=C(C3=C(C(=C2C4=CC(=CC=C4)OC5=CC(=CC=C5)OC6=CC=CC(=C6)C7=C(C8=C(C(=C7C9=CC=CC=C9)C1=CC=CC=C1)C(=O)OC8=O)C1=CC=CC=C1)C1=CC=CC=C1)C(=O)OC3=O)C1=CC=CC=C1,C1=CC(=CC(=C1)OC2=CC(=CC=C2)OC3=CC=CC(=C3)N)N,*c1cccc(Oc2cccc(Oc3cccc(N4C(=O)c5c(c(-c6ccccc6)c(-c6ccc(Oc7ccc(Oc8ccc(-c9c(-c%10ccccc%10)c%10c(c(-c%11ccccc%11)c9-c9ccccc9)C(=O)N(*)C%10=O)cc8)cc7)cc6)c(-c6ccccc6)c5-c5ccccc5)C4=O)c3)c2)c1,"Polyimides/thioimides, Polyoxides/ethers/acetals"
+P460228,102402610,0,Polycondensation,CC[P+](CC)([N-][Si](C)(C)C)OCC(F)(F)F,,*N=P(*)(CC)CC,"Polyphosphazenes, Polyimines"
+P090167,13185,7112,Polycondensation,C(CCCCCCC(=O)O)CCCCCC(=O)O,C1=CC(=CC=C1C2=CC=C(C=C2)O)O,*Oc1ccc(-c2ccc(OC(=O)CCCCCCCCCCCCC(*)=O)cc2)cc1,Polyesters/thioesters
+P412028,102404389,86172589,Polycondensation,CN(C1=CC=C(C=C1)N(C)C(=O)Cl)C(=O)Cl,COC1=CC=C(C=C1)C2=CC=C(C=C2)OCCCCCCC(CO)CO,*CC(CCCCCCOc1ccc(-c2ccc(OC)cc2)cc1)COC(=O)N(C)c1ccc(N(C)C(=O)O*)cc1,Polyurethanes/thiourethanes
+P110196,102404515,7570,Polyaddition,C1=CC=C(C=C1)N=NC2=CC=C(C=C2)NC(=O)CCCN(CCO)CCO,C1=CC(=CC=C1CC2=CC=C(C=C2)N=C=O)N=C=O,*CCN(CCCC(=O)Nc1ccc(/N=N/c2ccccc2)cc1)CCOC(=O)Nc1ccc(Cc2ccc(NC(=O)O*)cc2)cc1,"Polyurethanes/thiourethanes, Polyimines"
+P340107,102404861,0,Addition_polymerization,CCN(CCOC(=O)C(=C)C)C1=CC=C(C=C1)N=NC2=CC=C(C3=CC=CC=C32)[N+](=O)[O-],,*CC(*)(C)C(=O)OCCN(CC)c1ccc(/N=N/c2ccc([N+](=O)[O-])c3ccccc23)cc1,"Polyacrylics, Polyvinyls"
+P382063,3622094,0,Polycondensation,C1=CC(=CC=C1C2=CSC(=N2)C3=NC(=CS3)C4=CC=C(C=C4)N)N,,*c1ccc(/N=N/c2ccc(-c3csc(-c4nc(*)cs4)n3)cc2)cc1,"Polysulfides, Polyimines"
+P400373,3301,152258,Polycondensation,C(CN)N,CN1C=NC(=C1C(=O)O)C(=O)O,*C(=O)NCCNC(=O)c1ncn(C)c1*,"Polyamides/thioamides, Polyimines"
+P170064,75989,0,Polycondensation,C[Si](C)(C1=CC=C(C=C1)[Si](C)(C)O)O,,*O[Si](C)(C)c1ccc([Si](*)(C)C)cc1,Polysiloxanes/silanes
+P432502,3084646,100951154,Polycondensation,C1=CC(=C2C(=C1)C(=O)OC2=O)C3=CC4=C(C=C3)C(=O)OC4=O,C1=CC(=CC(=C1)OCCCCCCCCOC2=CC=CC(=C2)N)N,*c1cccc(OCCCCCCCCOc2cccc(N3C(=O)c4ccc(-c5cccc6c5C(=O)N(*)C6=O)cc4C3=O)c2)c1,"Polyimides/thioimides, Polyoxides/ethers/acetals"
+P340052,12147410,0,Addition_polymerization,C=CC(=O)OC1=CC=C(C=C1)C2=C3C=CC(=N3)C(=C4C=CC(=C(C5=CC=C(N5)C(=C6C=CC2=N6)C7=CC=CC=C7)C8=CC=CC=C8)N4)C9=CC=CC=C9,,*CC(*)C(=O)Oc1ccc(-c2c3nc(c(-c4ccccc4)c4ccc([nH]4)c(-c4ccccc4)c4nc(c(-c5ccccc5)c5ccc2[nH]5)C=C4)C=C3)cc1,"Polyacrylics, Polyvinyls"
+P462254,11299928,0,Polycondensation,CC1=CC=C(C=C1)N(C2=CC=CC=C2)C3=CC=CC=C3,,*c1ccc(-c2ccc(N(*)c3ccc(C)cc3)cc2)cc1,Polyimines
+P372154,83310,13038,Polycondensation,CC1=CC(=CC(=C1O)C)S(=O)(=O)C2=CC(=C(C(=C2)C)O)C,C1=CC=C(C=C1)OP(=O)(Cl)Cl,*OP(=O)(Oc1ccccc1)Oc1c(C)cc(S(=O)(=O)c2cc(C)c(*)c(C)c2)cc1C,"Polyoxides/ethers/acetals, Polysulfones/sulfoxides/sufonates/sulfoamides"
+P512174,85822601,0,Polycondensation,CCCCC(CC)COC1=CC(=C(C=C1C#C)OCC(CC)CCCC)C#C,,*C#Cc1cc(OCC(CC)CCCC)c(C#Cc2cc(OCCN(CC)CCO)c(*)cc2OCCN(CC)CCO)cc1OCC(CC)CCCC,Polyphenylenes
+P100802,21450,7488,Polycondensation,C1=CC(=CC=C1C(=O)NN)N,C1=CC(=CC=C1C(=O)Cl)C(=O)Cl,*NNC(=O)c1ccc(NC(=O)c2ccc(C(=O)Nc3ccc(C(=O)NNC(=O)c4ccc(C(*)=O)cc4)cc3)cc2)cc1,Polyamides/thioamides
+P340130,241087,0,Addition_polymerization,CC(C)COC(=O)CC(=C)C(=O)OCC(C)C,,*CC(*)(CC(=O)OCC(C)C)C(=O)OCC(C)C,"Polyacrylics, Polyvinyls"
+P430365,75871,1514638,Polycondensation,C1=CC(=CC(=C1)OC2=CC=C(C=C2)N)N,C1=CC(=CC=C1N2C(=O)C3=C(C2=O)C=C(C=C3)Cl)I,*C(=O)Nc1cccc(Oc2ccc(NC(=O)c3ccc(N4C(=O)c5ccc(*)cc5C4=O)cc3)cc2)c1,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyamides/thioamides"
+P382003,14900817,0,Addition_polymerization,CCCCCCCCCCCCCCCC1=CSC=C1,,*c1cc(CCCCCCCCCCCCCCC)c(*)s1,Polysulfides
+P372086,688288,101927999,Polycondensation,CC1=CC(=C(C(=C1O)C)C)C2=C(C(=C(C(=C2)C)O)C)C,C1=CC2=C(C=CC=C2S(=O)(=O)C3=CC=C(C=C3)F)C(=C1)S(=O)(=O)C4=CC=C(C=C4)F,*Oc1ccc(S(=O)(=O)c2cccc3c(S(=O)(=O)c4ccc(Oc5c(C)cc(-c6cc(C)c(*)c(C)c6C)c(C)c5C)cc4)cccc23)cc1,"Polyoxides/ethers/acetals, Polysulfones/sulfoxides/sufonates/sulfoamides"
+P392013,59029064,37153,Polycondensation,C(CC(=O)Cl)C=CCCC(=O)Cl,C(CCCCCO)CCCCO,*CCCCCCCCCCOC(=O)CC/C=C/CCC(=O)O*,Polyesters/thioesters
+P382006,85767516,0,Polycondensation,CCCCNC(=O)OCCC1=CSC=C1,,*c1cc(CCOC(=O)NCCCC)c(*)s1,Polysulfides
+P370496,261553,8064,Polycondensation,CCOC(=O)C1=CC=C(C=C1)C2=CC=C(C=C2)C(=O)OCC,C(CCO)CO,*CCOCCOCCOCCOC(=O)c1ccc(-c2ccc(C(=O)O*)cc2)cc1,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P433521,75494,19805071,Polycondensation,C1=CC2=C(C=C1C3=CC4=C(C=C3)C(=O)OC4=O)C(=O)OC2=O,C1=CC(=CC=C1OC2=C(C=C(C=C2)N)C(F)(F)F)OC3=C(C=C(C=C3)N)C(F)(F)F,*c1ccc(Oc2ccc(Oc3ccc(N4C(=O)c5ccc(-c6ccc7c(c6)C(=O)N(*)C7=O)cc5C4=O)cc3C(F)(F)F)cc2)c(C(F)(F)F)c1,"Polyimides/thioimides, Polyoxides/ethers/acetals"
+P332288,102041605,0,Ring_opening_polymerization,CC(C)(C)OC(=O)C1C2CC(C1C(=O)OC(C)(C)C)C=C2,,*/C=C/C1CC(*)C(C(=O)OC(C)(C)C)C1C(=O)OC(C)(C)C,Polyvinyls
+P412089,76081,13192,Polyaddition,CC1=C(C=CC(=C1)N)O,C(CCCN=C=O)CCN=C=O,*Oc1ccc(NC(=O)NCCCCCCNC(*)=O)cc1C,"Polyurethanes/thiourethanes, Polyureas/thioureas"
+P392565,20251449,0,Polycondensation,C1=CC=C(C=C1)OC(=O)C2=CC=CC=C2C3=CC=CC=C3C(=O)OC4=CC=CC=C4,,*OC(COC(=O)c1ccccc1-c1ccccc1C(*)=O)COc1ccc(/N=N/c2ccc(C#N)cc2)cc1,Polyesters/thioesters
+P392150,11092651,7543,Ring_opening_polymerization,C1=CC=C(C=C1)N(CCOC(=O)C2=CC3=C(C=C2)C(=O)OC3=O)CCOC(=O)C4=CC5=C(C=C4)C(=O)OC5=O,C1=CC(=C(C=C1CC2=CC(=C(C=C2)N)Cl)Cl)N,*CCN(CCOC(=O)c1ccc(C(=O)O)c(C(=O)Nc2ccc(Cc3ccc(NC(=O)c4cc(C(=O)O*)ccc4C(=O)O)c(Cl)c3)cc2Cl)c1)c1ccc(/N=N/c2ccc([N+](=O)[O-])cc2)cc1,"Polyesters/thioesters, Polyamides/thioamides, Polyimines"
+P100460,1317,264789,Polycondensation,C(CCCCCN)CCCCN,C1=C(C=NC=C1C(=O)Cl)C(=O)Cl,*C(=O)NCCCCCCCCCCNC(=O)c1cncc(*)c1,"Polyamides/thioamides, Polyimines"
+P330094,12579661,0,Addition_polymerization,C#CC1=NC(=CC=C1)C#C,,*/C=C(/*)c1cccc(C#C)n1,Polyvinyls
+P432382,15399,0,Addition_polymerization/Polymer_reaction,CN(C)Cc1ccc(N2C(=O)C=CC2=O)cc1,,*C1C(=O)N(c2ccc(CN(C)C)cc2)C(=O)C1*,Polyimides/thioimides
+P512131,5380590,0,Polycondensation,C1=CC(=CNC2=CC=C(C=C2)C(=O)O)C(=O)C=C1,,*c1cc(*)c(O)c(/C=N/c2ccc(C(=O)O)cc2)c1,Polyphenylenes
+P170009,74849,0,Ring_opening_polymerization,CC[Si]1(O[Si](O[Si](O1)(CC)CC)(CC)CC)CC,,*O[Si](*)(CC)CC,Polysiloxanes/silanes
+P470064,248429,0,Polycondensation,CCCCCCCC[Si](CCCCCCCC)(Cl)Cl,,*[Si](*)(CCCCCCCC)CCCCCCCC,Polysiloxanes/silanes
+P432294,12956240,76547,Polycondensation,C1=CC2=C(C=C1SC3=CC4=C(C=C3)C(=O)OC4=O)C(=O)OC2=O,CC1=CC(=C(C(=C1N)C)N)C,*c1c(C)cc(C)c(N2C(=O)c3ccc(Sc4ccc5c(c4)C(=O)N(*)C5=O)cc3C2=O)c1C,"Polyimides/thioimides, Polysulfides"
+P332346,61342476,0,Addition_polymerization,CCCS(=O)(=O)NCC#C,,*/C=C(/*)CNS(=O)(=O)CCC,Polyvinyls
+P340062,266287,0,Addition_polymerization,CCCN(CCC)C(=O)C=C,,*CC(*)C(=O)N(CCC)CCC,"Polyacrylics, Polyvinyls"
+P410027,7570,15348370,Polyaddition,C1=CC(=CC=C1CC2=CC=C(C=C2)N=C=O)N=C=O,CC(CN(C)C)(CO)CO,*CC(C)(COC(=O)Nc1ccc(Cc2ccc(NC(=O)O*)cc2)cc1)CN(C)C,Polyurethanes/thiourethanes
+P470088,13033313,0,Polycondensation,CCO[Si](C1=CC=C(C=C1)Br)(OCC)OCC,,*c1ccc([Si](*)(OCC)OCC)cc1,Polysiloxanes/silanes
+P210043,87799644,0,Polycondensation,C1=CC(=CC(=C1)I)C(C(C(C2=CC(=CC=C2)I)(F)F)(F)F)(F)F,,*c1cccc(-c2cccc(C(F)(F)C(F)(F)C(*)(F)F)c2)c1,Other polymers
+P372834,66494,67842,Polycondensation/Polymer_reaction,C1=CC=C(C(=C1)C(C2=CC=C(C=C2)O)C3=CC=C(C=C3)O)C(=O)O,C1=CC(=CC=C1F)S(=O)(=O)C2=CC=C(C=C2)F,*Oc1ccc(S(=O)(=O)c2ccc(Oc3ccc(C(c4ccc(*)cc4)c4ccccc4C(=O)O)cc3)cc2)cc1,"Polyoxides/ethers/acetals, Polysulfones/sulfoxides/sufonates/sulfoamides"
+P320035,129856398,0,Addition_polymerization/Polymer_reaction,C=CC1=CC=C(C=C1)CCC#C,,*CC(*)c1ccc(CCC#C)cc1,"Polystyrenes, Polyvinyls"
+P010040,8125,0,Addition_polymerization,CCCCCCC=C,,*CC(*)CCCCCC,Polyolefins
+P010082,8882,0,Ring_opening_polymerization,C1CC=CC1,,*/C=C/CCC*,Polydienes
+P010091,5012310,0,Addition_polymerization,CC1CCCC(C1)C=C,,*CC(*)C1CCCC(C)C1,Polyolefins
+P014500,14502,0,Addition_polymerization,C=C1CCCCC1,,*CC1(*)CCCCC1,Polyolefins
+P020002,11904,0,Addition_polymerization,CC1=CC=CC=C1C=C,,*CC(*)c1ccccc1C,"Polystyrenes, Polyvinyls"
+P020006,12541546,0,Addition_polymerization,CCOCC1=CC=CC=C1C=C,,*CC(*)c1ccccc1COCC,"Polystyrenes, Polyvinyls"
+P020021,12541468,0,Addition_polymerization,CC(C)OC(=O)C1=CC=CC=C1C=C,,*CC(*)c1ccccc1C(=O)OC(C)C,"Polystyrenes, Polyvinyls"
+P020024,12541471,0,Addition_polymerization,CCCCCOC(=O)C1=CC=CC=C1C=C,,*CC(*)c1ccccc1C(=O)OCCCCC,"Polystyrenes, Polyvinyls"
+P020036,24143,0,Addition_polymerization,CCC1=CC(=CC=C1)C=C,,*CC(*)c1cccc(CC)c1,"Polystyrenes, Polyvinyls"
+P020071,12542445,0,Addition_polymerization,C=CC1=CC=C(C=C1)C(CCN2CCCCC2)O,,*CC(*)c1ccc(C(O)CCN2CCCCC2)cc1,"Polystyrenes, Polyvinyls"
+P020117,78671,0,Addition_polymerization,C=CC1=CC=C(C=C1)OC2=CC=CC=C2,,*CC(*)c1ccc(Oc2ccccc2)cc1,"Polystyrenes, Polyvinyls"
+P020148,13036,0,Addition_polymerization,CC1=CC(=C(C(=C1)C)C=C)C,,*CC(*)c1c(C)cc(C)cc1C,"Polystyrenes, Polyvinyls"
+P020190,7502,0,Addition_polymerization,C=CC1=CC=NC=C1,,*CC(*)c1ccncc1,"Polystyrenes, Polyvinyls"
+P030022,21460,0,Addition_polymerization,CCCCCCOC=C,,*CC(*)OCCCCCC,Polyvinyls
+P030062,140155,0,Ring_opening_polymerization,C1C2C1(C2)C#N,,*C1CC(*)(C#N)C1,Polyvinyls
+P030103,57287622,0,Addition_polymerization,CC1=C(C=C(C=C1)C(=O)C=C)C,,*CC(*)C(=O)c1ccc(C)c(C)c1,Polyvinyls
+P030142,23271223,0,Addition_polymerization,C[Si](C)(C)C1=CC=C(C=C1)C(=O)OC=C,,*CC(*)OC(=O)c1ccc([Si](C)(C)C)cc1,Polyvinyls
+P030177,18618547,0,Addition_polymerization,CCCCCCCOC(=O)CC(=C)C(=O)OCCCCCCC,,*CC(*)(CC(=O)OCCCCCCC)C(=O)OCCCCCCC,"Polyacrylics, Polyvinyls"
+P030191,7861,7923,Addition_polymerization,COC=C,C1=CC(=O)OC1=O,*CC(OC)C1C(=O)OC(=O)C1*,Polyanhydrides/thioanhydrides
+P034239,15724689,0,Addition_polymerization/Polymer_reaction,CC1=C(C=CC(=C1)[N+](=O)[O-])NCC=C,,*CC(*)CNc1ccc([N+](=O)[O-])cc1C,Polyvinyls
+P034241,346029,0,Addition_polymerization/Polymer_reaction,C=CCNC1=C(C=C(C=C1)[N+](=O)[O-])[N+](=O)[O-],,*CC(*)CNc1ccc([N+](=O)[O-])cc1[N+](=O)[O-],Polyvinyls
+P040127,6579,0,Addition_polymerization,C=CC(=O)N,,*CC(*)C(N)=O,"Polyacrylics, Polyvinyls"
+P070016,520769,0,Ring_opening_polymerization,C1C(O1)C(F)(F)F,,*CC(O*)C(F)(F)F,Polyoxides/ethers/acetals
+P070506,6623,18329,Polycondensation,CC(C)(C1=CC=C(C=C1)O)C2=CC=C(C=C2)O,C1=CC(=CC=C1S(=O)C2=CC=C(C=C2)Cl)Cl,*Oc1ccc(S(=O)c2ccc(Oc3ccc(C(C)(C)c4ccc(*)cc4)cc3)cc2)cc1,"Polyoxides/ethers/acetals, Polysulfones/sulfoxides/sufonates/sulfoamides"
+P070657,520761,0,Ring_opening_polymerization,CCC1(COC1)C,,*CC(C)(CC)CO*,Polyoxides/ethers/acetals
+P074586,6623,10825412,Polycondensation,CC(C)(C1=CC=C(C=C1)O)C2=CC=C(C=C2)O,C1=CC(=CC=C1OCC(=O)Cl)OCC(=O)Cl,*CC(=O)Oc1ccc(C(C)(C)c2ccc(OC(=O)COc3ccc(O*)cc3)cc2)cc1,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P074602,12657725,0,Polycondensation,COC1=CC(=C(C=C1O)OC)Cl,,*Oc1cc(OC)c(*)cc1OC,Polyoxides/ethers/acetals
+P080017,57026411,0,Ring_opening_polymerization,CCC1(CSC1)C,,*CC(C)(CC)CS*,Polysulfides
+P080097,66049,0,Polycondensation,C1=CC(=CC=C1S)Br,,*Sc1ccc(*)cc1,Polysulfides
+P080097,7969,0,Polycondensation,C1=CC=C(C=C1)S,,*Sc1ccc(*)cc1,Polysulfides
+P080097,219553,0,Polycondensation,C1=CC(=CC=C1SSC2=CC=C(C=C2)Br)Br,,*Sc1ccc(*)cc1,Polysulfides
+P080097,102399633,12963051,Polycondensation/Polymer_reaction,CCCNC(=O)SC1=CC=C(C=C1)SC2=CC=C(C=C2)SC(=O)NCCC,C1=CC(=CC=C1F)S(=O)C2=CC=C(C=C2)F,*Sc1ccc(*)cc1,Polysulfides
+P080097,4685,402,Polycondensation,C1=CC(=CC=C1Cl)Cl,S,*Sc1ccc(*)cc1,Polysulfides
+P080097,7804,0,Polycondensation,C1=CC(=CC=C1Br)Br,,*Sc1ccc(*)cc1,Polysulfides
+P100022,70523,0,Ring_opening_polymerization,C1CCCCC(=O)NCCCC1,,*CCCCCCCCCC(=O)N*,Polyamides/thioamides
+P100022,2063379,0,Polycondensation,C(CCCCC(=O)[O-])CCCC[NH3+],,*CCCCCCCCCC(=O)N*,Polyamides/thioamides
+P100022,23450588,962,Polycondensation/Polymer_reaction,C(CCCCC#N)CCCCN,O,*CCCCCCCCCC(=O)N*,Polyamides/thioamides
+P100187,12025,0,Ring_opening_polymerization,C1CC(=O)NC1,,*CCCC(=O)N*,Polyamides/thioamides
+P100519,283943,0,Ring_opening_polymerization,CC1CC(=O)NCC(O1)C,,*OC(C)CNC(=O)CC(*)C,"Polyoxides/ethers/acetals, Polyamides/thioamides"
+P130114,19012,74574,Polycondensation,C1=CC(=CC=C1N)OC2=CC=C(C=C2)OC3=CC=C(C=C3)N,C1=CC2=C(C=C1OC3=CC4=C(C=C3)C(=O)OC4=O)C(=O)OC2=O,*c1ccc(Oc2ccc(Oc3ccc(N4C(=O)c5ccc(Oc6ccc7c(c6)C(=O)N(*)C7=O)cc5C4=O)cc3)cc2)cc1,"Polyimides/thioimides, Polyoxides/ethers/acetals"
+P170031,10914,0,Ring_opening_polymerization,C[Si]1(O[Si](O[Si](O1)(C)C)(C)C)C,,*O[Si](*)(C)C,Polysiloxanes/silanes
+P170031,11169,0,Ring_opening_polymerization,C[Si]1(O[Si](O[Si](O[Si](O1)(C)C)(C)C)(C)C)C,,*O[Si](*)(C)C,Polysiloxanes/silanes
+P170031,24764,0,Polycondensation,C[Si](C)(C)O[Si](C)(C)C,,*O[Si](*)(C)C,Polysiloxanes/silanes
+P214532,86136287,0,Polycondensation,C1=CC=C(C=C1)CC2=CC=C(C=C2)C(C3=CC=CC=C3)(Cl)Cl,,*/C(=C(\c1ccccc1)c1ccc(*)cc1)c1ccccc1,Polyphenylenes
+P330116,101690981,0,Ring_opening_polymerization,C=CC1CC1(C(=O)OC23CC4CC(C2)CC(C4)C3)C(=O)OC56CC7CC(C5)CC(C7)C6,,*/C=C/CC(C*)(C(=O)OC12CC3CC(CC(C3)C1)C2)C(=O)OC12CC3CC(CC(C3)C1)C2,Polyvinyls
+P332027,5371819,0,Addition_polymerization,C=COC(=O)C=CC1=CC=CC=C1,,*CC(*)OC(=O)/C=C/c1ccccc1,Polyvinyls
+P332126,101685920,0,Ring_opening_polymerization,C1C2C=CC1C(C2C(=O)OCCCCCCCCCCCCOC3=CC=C(C=C3)C4=CC=C(C=C4)C#N)C(=O)OCCCCCCCCCCCCOC5=CC=C(C=C5)C6=CC=C(C=C6)C#N,,*/C=C/C1CC(*)C(C(=O)OCCCCCCCCCCCCOc2ccc(-c3ccc(C#N)cc3)cc2)C1C(=O)OCCCCCCCCCCCCOc1ccc(-c2ccc(C#N)cc2)cc1,Polyvinyls
+P342246,20193345,0,Addition_polymerization,CCOC(C)OC(=O)C(=C)C,,*CC(*)(C)C(=O)OC(C)OCC,"Polyacrylics, Polyvinyls"
+P370067,70934,0,Addition_polymerization,C1COC=C1,,*C1CCOC1*,Polyoxides/ethers/acetals
+P370136,5447,0,Polycondensation,C(CSCCO)O,,*CCSCCO*,"Polyoxides/ethers/acetals, Polysulfides"
+P370219,136395,0,Addition_polymerization,CC(=C=O)C,,*OC(*)=C(C)C,Polyoxides/ethers/acetals
+P370311,8029,0,Polycondensation,C1=COC=C1,,*c1ccc(*)o1,Polyoxides/ethers/acetals
+P370311,10921534,0,Polycondensation,C1=COC(=C1)C2=CC=C(O2)C3=CC=CO3,,*c1ccc(*)o1,Polyoxides/ethers/acetals
+P370401,2286,101992427,Polyaddition,CC(C)(C1=CC=C(C=C1)OCC2CO2)C3=CC=C(C=C3)OCC4CO4,C1=CC(=CC=C1NC(=O)CCCCCC(=O)NC2=CC=C(C=C2)O)O,*CC(O)COc1ccc(C(C)(C)c2ccc(OCC(O)COc3ccc(NC(=O)CCCCCC(=O)Nc4ccc(O*)cc4)cc3)cc2)cc1,"Polyoxides/ethers/acetals, Polyamides/thioamides"
+P370436,93552,67686188,Polycondensation,C1=CC2=C(C=CC(=C2)O)C=C1O,C1=CC(=CC=C1C(=O)C2=CC=C(C=C2)F)OC3=CC=C(C=C3)S(=O)(=O)C4=CC=C(C=C4)F,*Oc1ccc2cc(Oc3ccc(S(=O)(=O)c4ccc(Oc5ccc(C(=O)c6ccc(*)cc6)cc5)cc4)cc3)ccc2c1,"Polyoxides/ethers/acetals, Polyketones/thioketones, Polysulfones/sulfoxides/sufonates/sulfoamides"
+P370726,74574,11741,Polycondensation,C1=CC2=C(C=C1OC3=CC4=C(C=C3)C(=O)OC4=O)C(=O)OC2=O,C1=CC(=CC(=C1)S(=O)(=O)C2=CC=CC(=C2)N)N,*=Nc1cccc(S(=O)(=O)c2cccc(/N=C3/OC(=O)c4ccc(Oc5ccc6c(c5)C(=O)OC6=*)cc43)c2)c1,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines, Polysulfones/sulfoxides/sufonates/sulfoamides"
+P370755,2286,76716,Polycondensation,CC(C)(C1=CC=C(C=C1)OCC2CO2)C3=CC=C(C=C3)OCC4CO4,C1=CC=C2C(=C1)C3=CC=CC=C3C2(C4=CC=C(C=C4)O)C5=CC=C(C=C5)O,*CC(O)COc1ccc(C(C)(C)c2ccc(OCC(O)COc3ccc(C4(c5ccc(O*)cc5)c5ccccc5-c5ccccc54)cc3)cc2)cc1,Polyoxides/ethers/acetals
+P372264,70011613,0,Polycondensation,CCCCCCCCCCCCC(C)C1=CC=CC(=C1O)C,,*Oc1c(C)cc(*)cc1C(C)CCCCCCCCCCCC,Polyoxides/ethers/acetals
+P372266,14496018,9582,Polycondensation,C1=CC(=CC=C1C2=CC=C(C=C2)O)C3=CC=C(C=C3)O,C1=CC(=CC=C1C(=O)C2=CC=C(C=C2)F)F,*Oc1ccc(-c2ccc(-c3ccc(Oc4ccc(C(=O)c5ccc(*)cc5)cc4)cc3)cc2)cc1,"Polyoxides/ethers/acetals, Polyketones/thioketones"
+P372842,7923,8080,Addition_polymerization,C1=CC(=O)OC1=O,C1CC=COC1,*C1OCCCC1C1C(=O)OC(=O)C1*,"Polyoxides/ethers/acetals, Polyanhydrides/thioanhydrides"
+P382230,102318568,0,Polycondensation,C[Si](CC=C)(OS(=O)(=O)C(F)(F)F)OS(=O)(=O)C(F)(F)F,,*c1ccc([Si](*)(C)CC=C)s1,"Polysulfides, Polysiloxanes/silanes"
+P382455,19437293,85791199,Polycondensation,CCCCCCC1=C(SC(=N1)C2=NC(=C(S2)Br)CCCCCC)Br,C#CC1=CC=C(C=C1)N(C2=CC=CC=C2)C3=CC=C(C=C3)C#C,*C#Cc1ccc(N(c2ccccc2)c2ccc(C#Cc3sc(-c4nc(CCCCCC)c(*)s4)nc3CCCCCC)cc2)cc1,"Polysulfides, Polyimines"
+P430254,75498,21712966,Polyaddition/Polymer_reaction,C1=CC2=C(C=C1C(=O)C3=CC4=C(C=C3)C(=O)OC4=O)C(=O)OC2=O,C1=CC(=CC(=C1)N)C#CC2=CC(=CC=C2)N,*C(=O)c1ccc2c(c1)C(=O)N(c1cccc(C#Cc3cccc(N4C(=O)c5ccc(*)cc5C4=O)c3)c1)C2=O,"Polyimides/thioimides, Polyketones/thioketones"

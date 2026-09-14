@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.npy
+*.pkl
+*.pt
+results/
+screen/
+results_r3/*/
+!results_r3/*.csv
+logs/
+env/
+.DS_Store
