@@ -1,0 +1,2 @@
+target,model,fp,seed,n_extreme,rmse,r2
+Tg,torch-GREA,graph,2,1,262.1759881163702,-4.536011055810051
