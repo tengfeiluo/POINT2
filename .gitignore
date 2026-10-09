@@ -4,9 +4,12 @@ __pycache__/
 *.pkl
 *.pt
 results/
+!retrosynthesis/results/
 screen/
 results_r3/*/
 !results_r3/*.csv
+!results_r3/split/
+!results_r3/split/**
 logs/
 env/
 .DS_Store

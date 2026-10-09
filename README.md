@@ -15,15 +15,17 @@ and a model suite of quantile random forests (QRF), MC-dropout MLPs (MLP-D), gra
 |---|---|
 | `data/benchmark/` | One CSV per task with the fixed 80/20 split (see `data/README.md` for what each file contains and the PoLyInfo redistribution policy) |
 | `train.py`, `model.py`, `utils.py`, `predict.py`, `explain.py`, `llm_prediction.py` | The original training / screening / SHAP code used for the results in the paper (as archived from the group cluster) |
-| `train_r3.py` | The revised training protocol: internal 10 % validation subset drawn from the training split, seeded runs, grid search for QRF/MLP-D, early stopping, and ECE; see below |
-| `aggregate_r3.py`, `run_cpu.sh`, `run_gpu.sh`, `submit_all.sh` | Aggregation into mean ± std tables and the SGE job scripts used for the multi-seed re-runs |
-| `results_r3/` | Per-task, per-model mean ± std metrics from the multi-seed runs (CSV) |
-| `retrosynthesis/` | Template library (82 SMARTS templates), PolyScore, the curated polymerization-reaction set, and evaluation outputs |
+| `train_r3.py` | The benchmark training protocol: internal 10 % validation subset drawn from the training split, seeded runs, grid search for QRF/MLP-D, early stopping, Optuna search for GNN/GREA, and ECE; see below |
+| `aggregate_r3_guard.py`, `make_tables.py` | Aggregation into the mean ± std tables of the paper (predictions clipped to the training-label range; see below) and the LaTeX table bodies |
+| `run_cpu.sh`, `run_gpu200.sh`, `submit_all.sh`, `split_study.py`, `run_split.sh` | SGE job scripts for the multi-seed runs and the split-sensitivity study (Appendix A.1) |
+| `aggregate_r3.py` | Earlier aggregation script (convergence filter), kept for reference; superseded by `aggregate_r3_guard.py` |
+| `results_r3/` | Per-run and mean ± std metrics behind Tables 2, 3 and A.9–A.11, and the split-sensitivity results (`split/`, Table A.12); see `results_r3/README.md` |
+| `retrosynthesis/` | Template library (82 SMARTS templates), PolyScore, the curated polymerization-reaction set, and per-entry evaluation outputs (Table 4) |
+| `figures/` | Scripts that draw the two case-study figures (Fig. 5 and Fig. A.6) from SMILES |
 | `scripts/` | The original SGE submission scripts |
 | `torch-molecule/` | Git submodule pinned to v0.1.1 (commit `0185b95`), the version used for the GNN/GREA results |
 
-Trained models, fingerprint caches and the PI1M screening predictions (≈1.5 GB) are archived on Zenodo
-(DOI to be added on acceptance) rather than in this repository.
+The QRF and MLP-D models used for the PI1M screening and the case studies, and their predictions for the 199,160-polymer screening subset (~2.1 GB), are archived in a separate Zenodo record (DOI: [10.5281/zenodo.23252833](https://doi.org/10.5281/zenodo.23252833)). These single-seed models were trained by `train.py` with fixed hyperparameters; the benchmark tables are produced by `train_r3.py`.
 
 ## Installation
 
@@ -43,11 +45,12 @@ All commands read `data/benchmark/<task>.csv`. For the PoLyInfo tasks (T_g, T_m,
 python train_r3.py --target_property Tg --model QuantileRandomForest --fpmethod Morgan --seed 0 --search
 for s in 1 2 3 4; do python train_r3.py --target_property Tg --model QuantileRandomForest --fpmethod Morgan --seed $s; done
 
-# GREA on T_g (GPU): Optuna search (100 trials) on the validation subset, then seeds 1–4
-python train_r3.py --target_property Tg --model torch-GREA --seed 0 --n_search 100
-for s in 1 2 3 4; do python train_r3.py --target_property Tg --model torch-GREA --seed $s; done
+# GREA on T_g (GPU): Optuna search (200 trials) on the validation subset, then seeds 1–4 at the chosen setting
+python train_r3.py --target_property Tg --model torch-GREA --seed 0 --n_search 200 --out_root ./results_r3_search200
+for s in 1 2 3 4; do python train_r3.py --target_property Tg --model torch-GREA --seed $s --out_root ./results_r3_search200; done
 
-python aggregate_r3.py ./results_r3       # -> summary_mean_std.csv, table_rmse.csv, table_mae.csv, table_r2.csv, table_spearman.csv, table_ece.csv
+# fingerprint runs from ./results_r3, graph runs from ./results_r3_search200 -> ./results_final/summary_mean_std.csv
+python aggregate_r3_guard.py ./results_r3 ./results_r3_search200 ./results_final
 ```
 
 Each run writes `results_r3/<task>/<model>_<fp>/seed<k>/metrics.json` (RMSE, MAE, R², Spearman rank
@@ -59,8 +62,9 @@ formed from the model's predictive σ (QRF: half the 5–95 % quantile width div
 deviation over 100 MC-dropout passes; GREA: square root of the rationale-environment variance) and
 ECE = mean_α |coverage(α) − α|.
 
-The original single-run protocol (`train.py`, Optuna with the training set as validation set, no seed loop)
-is kept for provenance; `scripts/` holds the original job scripts.
+**Prediction-range guard.** Before any metric is computed, each run's predictions and interval bounds are clipped to the range of labels in its own training split. This uses training information only and is applied identically to every model, task and seed; no run or test point is removed. It is a no-op for QRF. `results_r3/clipped_runs.csv` lists every run in which a prediction was clipped.
+
+The original single-run code (`train.py`, with `scripts/` holding its job scripts) is kept for provenance; it produced the models used for the PI1M screening and the case studies.
 
 ## Citation
 

@@ -116,8 +116,10 @@ def fit_qrf(Xtr, ytr, Xva, yva, seed, search, n_jobs, cfg=None):
                 print(f'  QRF search n_est={ne} depth={md} mss={ms}: val RMSE {rmse:.4f}', flush=True)
                 if best is None or rmse < best[0]:
                     best, cfg = (rmse,), dict(n_estimators=ne, max_depth=md, min_samples_split=ms)
-    # final fit on the full training split (train + val) with the chosen config
-    m = QRF(random_state=seed, n_jobs=n_jobs, **cfg).fit(np.vstack([Xtr, Xva]), np.concatenate([ytr, yva]))
+    # final fit on the 90 % fit subset only -- NOT on fit+val. The MLP and the graph models need the
+    # validation subset for early stopping and therefore cannot train on it; fitting QRF on fit+val here
+    # would give one model family 10 % more training data than the others and make the benchmark unfair.
+    m = QRF(random_state=seed, n_jobs=n_jobs, **cfg).fit(Xtr, ytr)
 
     def predict(X):
         yhat = m.predict(X)
